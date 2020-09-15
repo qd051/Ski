@@ -1,6 +1,6 @@
 payload:
   # > XboxGamePass
-  - PROCESS-NAME,com.xboxlive.xbox
+  - PROCESS-NAME,com.xboxlive.xbox.android
   - DOMAIN-SUFFIX,catalog.gamepass.com
   - DOMAIN-SUFFIX,chat.xboxlive.com
   - DOMAIN-SUFFIX,compass-ssl.xbox.com
