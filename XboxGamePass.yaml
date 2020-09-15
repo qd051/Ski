@@ -1,16 +1,19 @@
 payload:
   # > XboxGamePass
-  - DOMAIN-SUFFIX,title.mgt.xboxlive.com
-  - DOMAIN-SUFFIX,userpresence.xboxlive.com
-  - DOMAIN-SUFFIX,xsts.auth.xboxlive.com
   - DOMAIN-SUFFIX,catalog.gamepass.com
-  - DOMAIN-SUFFIX,notificationinbox.xboxlive.com
-  - DOMAIN-SUFFIX,profile.xboxlive.com
+  - DOMAIN-SUFFIX,chat.xboxlive.com
+  - DOMAIN-SUFFIX,compass-ssl.xbox.com
+  - DOMAIN-SUFFIX,eplists.xboxlive.com
   - DOMAIN-SUFFIX,gamepassquests.xboxlive.com
   - DOMAIN-SUFFIX,images-eds.xboxlive.com
-  - DOMAIN-SUFFIX,chat.xboxlive.com
-  - DOMAIN-SUFFIX,notify.xboxlive.com
   - DOMAIN-SUFFIX,inbox.assist.gameservices.xboxlive.com
+  - DOMAIN-SUFFIX,login.live.com
+  - DOMAIN-SUFFIX,notificationinbox.xboxlive.com
+  - DOMAIN-SUFFIX,notify.xboxlive.com
+  - DOMAIN-SUFFIX,profile.xboxlive.com
+  - DOMAIN-SUFFIX,title.mgt.xboxlive.com
+  - DOMAIN-SUFFIX,userpresence.xboxlive.com
+  - DOMAIN-SUFFIX,wus.gssv-play-prod.xboxlive.com
+  - DOMAIN-SUFFIX,xsts.auth.xboxlive.com
   - DOMAIN-SUFFIX,xgpubeta.gssv-play-prod.xboxlive.com
-  - DOMAIN-SUFFIX,eplists.xboxlive.com
   - DOMAIN-SUFFIX,xbox-global.ifs.windows.com
