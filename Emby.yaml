@@ -1,4 +1,4 @@
 payload:
- # > Emby
- - PROCESS-NAME,com.emby
- - DOMAIN-SUFFIX,emby-best.xeton.dev 
+  # > Emby
+  - PROCESS-NAME,com.emby
+  - DOMAIN-SUFFIX,emby-best.xeton.dev 
