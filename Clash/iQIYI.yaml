@@ -1,0 +1,35 @@
+payload:
+  # > iQIYI
+  # USER-AGENT,iQIYI
+  # USER-AGENT,QYPlayer
+  # USER-AGENT,*QIYI*
+  # USER-AGENT,iQiYi*
+  - DOMAIN-SUFFIX,iq.com
+  - DOMAIN-SUFFIX,intl.iqiyi.com
+  - DOMAIN-SUFFIX,inter.iqiyi.com
+  - DOMAIN-SUFFIX,iqiyi.com
+  - DOMAIN-SUFFIX,iqiyipic.com
+  - DOMAIN-SUFFIX,iq.com
+  - DOMAIN-SUFFIX,qy.net
+  - DOMAIN-SUFFIX,71.am
+  - DOMAIN,intel-cache.video.iqiyi.com
+  - DOMAIN,intel-cache.m.iqiyi.com
+  - DOMAIN,intl-rcd.iqiyi.com
+  - DOMAIN,intl-subscription.iqiyi.com
+  - DOMAIN,intl-cmonitor.iqiyi.com
+  - DOMAIN,intl-passport.iqiyi.com
+  - DOMAIN,intl-sns.iqiyi.com
+  - DOMAIN,intl-im-hist-api.iqiyi.com
+  - DOMAIN,intl-act.vip.iqiyi.com
+  - DOMAIN,intl-i.vip.iqiyi.com
+  - DOMAIN,intl.policy.iqiyi.com
+  - DOMAIN,du-feige-intl.iqiyi.com 
+  - DOMAIN,msg-intl.qy.net
+  - DOMAIN,msg.ptqy.gitv.tv
+  - DOMAIN,cache.video.iqiyi.com
+  - DOMAIN-KEYWORD,qiyi
+
+# 爱奇艺检测ip
+  # IP-CIDR,101.227.0.0/16
+  # IP-CIDR,101.224.0.0/13
+  # IP-CIDR,119.176.0.0/12
