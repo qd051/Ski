@@ -11,6 +11,7 @@ payload:
   - DOMAIN-SUFFIX,iqiyipic.com
   - DOMAIN-SUFFIX,qy.net
   - DOMAIN-SUFFIX,71.am
+  - DOMAIN-SUFFIX,t7z.cupid.ptqy.gitv.tv
   - DOMAIN,intel-cache.video.iqiyi.com
   - DOMAIN,intel-cache.m.iqiyi.com
   - DOMAIN,intl-rcd.iqiyi.com
@@ -27,13 +28,7 @@ payload:
   - DOMAIN,msg.ptqy.gitv.tv
   - DOMAIN,cache.video.iqiyi.com
   - DOMAIN-KEYWORD,qiyi
-
-# 爱奇艺检测ip
-  # - IP-CIDR,101.227.0.0/16
-  # - IP-CIDR,101.224.0.0/13
-  # - IP-CIDR,119.176.0.0/12
-  # - IP-CIDR,118.26.0.0/24
-  # - IP-CIDR,183.3.0.0/24
-  - IP-CIDR,223.119.0.0/24
-  - IP-CIDR,45.116.0.0/24
-  - IP-CIDR,14.0.0.0/24
+  - IP-CIDR,223.119.62.0/32,no-resolve
+  - IP-CIDR,45.116.0.0/32,no-resolve
+  - IP-CIDR,14.0.41.0/32,no-resolve
+  - IP-CIDR,14.128.0.0/24,no-resolve
