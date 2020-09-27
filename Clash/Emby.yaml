@@ -1,7 +1,12 @@
 payload:
   # > Emby
   - PROCESS-NAME,com.emby
-  - DOMAIN-SUFFIX,emby-best.xeton.dev 
+  - DOMAIN-SUFFIX,emby-best.xeton.dev,DIRECT
+  - DOMAIN-SUFFIX,emby.xeton.dev
+  - DOMAIN-SUFFIX,kodi.xeton.dev
+  - DOMAIN-SUFFIX,movie.xeton.dev
+  - DOMAIN-SUFFIX,plus.xeton.dev
+  - DOMAIN-SUFFIX,servers.xeton.dev 
   - DOMAIN-SUFFIX,emby.media
   - DOMAIN-SUFFIX,mb3admin.com
   - DOMAIN-KEYWORD,emby
