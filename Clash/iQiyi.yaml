@@ -13,12 +13,14 @@ payload:
   - DOMAIN,msg.ptqy.gitv.tv
   - IP-CIDR,18.140.94.52/32,no-resolve
   - IP-CIDR,23.36.241.138/32,no-resolve
+  - IP-CIDR,23.44.51.153/32,no-resolve
   - IP-CIDR,23.55.168.203/32,no-resolve
   - IP-CIDR,23.215.177.168/32,no-resolve
   - IP-CIDR,23.210.215.154/32,no-resolve
   - IP-CIDR,23.210.215.186/32,no-resolve
   - IP-CIDR,23.210.215.176/32,no-resolve
   - IP-CIDR,23.210.215.195/32,no-resolve
+  - IP-CIDR,52.94.209.13/32,no-resolve
   - IP-CIDR,52.217.98.116/32,no-resolve
   - IP-CIDR,58.49.213.35/32,no-resolve
   - IP-CIDR,74.86.12.172/32,no-resolve
@@ -27,6 +29,7 @@ payload:
   - IP-CIDR,116.211.189.184/32,no-resolve
   - IP-CIDR,116.211.203.212/32,no-resolve
   - IP-CIDR,118.26.32.16/32,no-resolve
+  - IP-CIDR,118.26.34.96/32,no-resolve
   - IP-CIDR,121.12.108.109/32,no-resolve
   - IP-CIDR,121.9.221.100/32,no-resolve
   - IP-CIDR,121.12.108.111/32,no-resolve
