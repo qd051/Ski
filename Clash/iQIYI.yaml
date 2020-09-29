@@ -30,10 +30,14 @@ payload:
   - DOMAIN,msg.ptqy.gitv.tv
   - DOMAIN,cache.video.iqiyi.com
   - DOMAIN-KEYWORD,qiyi
-  - IP-CIDR,223.119.62.232/32,no-resolve
+  - IP-CIDR,23.36.241.138/32,no-resolve
+  - IP-CIDR,23.55.168.203/32,no-resolve
+  - IP-CIDR,52.217.98.116/32,no-resolve
+  - IP-CIDR,74.86.12.172/32,no-resolve
+  - IP-CIDR,92.123.212.120/32,no-resolve
+  - IP-CIDR,103.44.56.69/32,no-resolve
+  - IP-CIDR,173.244.209.150/32,no-resolve
+  - IP-CIDR,184.51.120.141/32,no-resolve
   - IP-CIDR,203.74.95.139/32,no-resolve
   - IP-CIDR,203.74.95.176/32,no-resolve
-  - IP-CIDR,103.44.56.69/32,no-resolve
-  - IP-CIDR,23.55.168.203/32,no-resolve
-  - IP-CIDR,92.123.212.120/32,no-resolve
-  - IP-CIDR,184.51.120.141/32,no-resolve
+  - IP-CIDR,223.119.62.232/32,no-resolve
