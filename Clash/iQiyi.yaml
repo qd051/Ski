@@ -11,13 +11,24 @@ payload:
   - DOMAIN-SUFFIX,policy.video.ptqy.gitv.tv
   - DOMAIN,msg-intl.qy.net
   - DOMAIN,msg.ptqy.gitv.tv
+  - IP-CIDR,18.140.94.52/32,no-resolve
   - IP-CIDR,23.36.241.138/32,no-resolve
   - IP-CIDR,23.55.168.203/32,no-resolve
+  - IP-CIDR,23.215.177.168/32,no-resolve
+  - IP-CIDR,23.210.215.154/32,no-resolve
+  - IP-CIDR,23.210.215.195/32,no-resolve
   - IP-CIDR,52.217.98.116/32,no-resolve
+  - IP-CIDR,58.49.213.35/32,no-resolve
   - IP-CIDR,74.86.12.172/32,no-resolve
   - IP-CIDR,92.123.212.120/32,no-resolve
   - IP-CIDR,103.44.56.69/32,no-resolve
+  - IP-CIDR,116.211.189.184/32,no-resolve
+  - IP-CIDR,116.211.203.212/32,no-resolve
+  - IP-CIDR,118.26.32.16/32,no-resolve
+  - IP-CIDR,121.12.108.111/32,no-resolve
+  - IP-CIDR,121.9.221.83/32,no-resolve
   - IP-CIDR,173.244.209.150/32,no-resolve
+  - IP-CIDR,183.36.108.228/32,no-resolve
   - IP-CIDR,184.51.120.141/32,no-resolve
   - IP-CIDR,203.74.95.139/32,no-resolve
   - IP-CIDR,203.74.95.176/32,no-resolve
