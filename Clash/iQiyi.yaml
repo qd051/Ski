@@ -1,0 +1,28 @@
+payload:  
+  # > iQiyi
+  # - User-Agent,QIYI*
+  # - User-Agent,iQiYi*
+  - DOMAIN-KEYWORD,qiyi
+  - DOMAIN-SUFFIX,qy.net
+  - DOMAIN-SUFFIX,iq.com
+  - DOMAIN-SUFFIX,qy.net
+  - DOMAIN-SUFFIX,71.am
+  - DOMAIN-SUFFIX,t7z.cupid.ptqy.gitv.tv
+  - DOMAIN-SUFFIX,policy.video.ptqy.gitv.tv
+  - DOMAIN,msg-intl.qy.net
+  - DOMAIN,msg.ptqy.gitv.tv
+  - IP-CIDR,23.36.241.138/32,no-resolve
+  - IP-CIDR,23.55.168.203/32,no-resolve
+  - IP-CIDR,52.217.98.116/32,no-resolve
+  - IP-CIDR,74.86.12.172/32,no-resolve
+  - IP-CIDR,92.123.212.120/32,no-resolve
+  - IP-CIDR,103.44.56.69/32,no-resolve
+  - IP-CIDR,173.244.209.150/32,no-resolve
+  - IP-CIDR,184.51.120.141/32,no-resolve
+  - IP-CIDR,203.74.95.139/32,no-resolve
+  - IP-CIDR,203.74.95.176/32,no-resolve
+  - IP-CIDR,223.119.62.232/32,no-resolve
+  - IP-CIDR,101.227.0.0/16,no-resolve
+  - IP-CIDR,101.224.0.0/13,no-resolve
+  - IP-CIDR,119.176.0.0/12,no-resolve
+  
