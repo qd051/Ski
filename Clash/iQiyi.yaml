@@ -29,13 +29,7 @@ payload:
   - DOMAIN,cache.video.iqiyi.com
   - DOMAIN-KEYWORD,qiyi
   - IP-CIDR,18.140.94.52/32,no-resolve
-  - IP-CIDR,23.33.0.0/16,no-resolve
-  - IP-CIDR,23.36.0.0/16,no-resolve
-  - IP-CIDR,23.44.0.0/16,no-resolve
-  - IP-CIDR,23.55.0.0/16,no-resolve
-  - IP-CIDR,23.63.0.0/16,no-resolve
-  - IP-CIDR,23.210.215.0/24,no-resolve
-  - IP-CIDR,23.215.177.168/32,no-resolve
+  - IP-CIDR,23.0.0.0/8,no-resolve
   - IP-CIDR,52.94.208.0/22,no-resolve
   - IP-CIDR,52.217.98.116/32,no-resolve
   - IP-CIDR,54.240.250.198/32,no-resolve
