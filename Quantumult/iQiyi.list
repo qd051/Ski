@@ -11,6 +11,7 @@
   - DOMAIN-SUFFIX,t7z.cupid.ptqy.gitv.tv
   - DOMAIN-SUFFIX,policy.video.ptqy.gitv.tv
   - DOMAIN-SUFFIX,t7z.cupid.iqiyi.com
+  - DOMAIN-SUFFIX,aka.ms
   - DOMAIN,intel-cache.video.iqiyi.com
   - DOMAIN,intel-cache.m.iqiyi.com
   - DOMAIN,intl-rcd.iqiyi.com
@@ -27,24 +28,9 @@
   - DOMAIN,msg.ptqy.gitv.tv
   - DOMAIN,cache.video.iqiyi.com
   - DOMAIN-KEYWORD,qiyi
-  - IP-CIDR,18.140.94.52/32,no-resolve
-  - IP-CIDR,23.0.0.0/8,no-resolve
-  - IP-CIDR,52.94.208.0/22,no-resolve
-  - IP-CIDR,52.217.0.0/16,no-resolve
-  - IP-CIDR,54.240.250.198/32,no-resolve
-  - IP-CIDR,58.49.213.35/32,no-resolve
-  - IP-CIDR,74.86.12.172/32,no-resolve
-  - IP-CIDR,92.123.212.120/32,no-resolve
-  - IP-CIDR,95.101.123.112/32,no-resolve
-  - IP-CIDR,99.84.229.3/32,no-resolve
-  - IP-CIDR,103.44.56.0/24,no-resolve
-  - IP-CIDR,121.12.0.0/32,no-resolve
-  - IP-CIDR,121.8.0.0/13,no-resolve
+  - IP-CIDR,2.17.196.136/32,no-resolve
+  - IP-CIDR,23.36.0.0/16,no-resolve
+  - IP-CIDR,23.46.0.0/16,no-resolve
+  - IP-CIDR,88.221.83.0/24,no-resolve
   - IP-CIDR,159.138.102.146/32,no-resolve
-  - IP-CIDR,172.232.10.64/32,no-resolve
-  - IP-CIDR,173.244.209.150/32,no-resolve
-  - IP-CIDR,183.3.234.243/32,no-resolve
-  - IP-CIDR,184.26.91.49/32,no-resolve
-  - IP-CIDR,184.51.120.141/32,no-resolve
   - IP-CIDR,203.74.95.0/24,no-resolve
-  - IP-CIDR,223.119.62.0/24,no-resolve
