@@ -12,6 +12,7 @@ payload:
   - DOMAIN-SUFFIX,t7z.cupid.ptqy.gitv.tv
   - DOMAIN-SUFFIX,policy.video.ptqy.gitv.tv
   - DOMAIN-SUFFIX,t7z.cupid.iqiyi.com
+  - DOMAIN-SUFFIX,aka.ms
   - DOMAIN,intel-cache.video.iqiyi.com
   - DOMAIN,intel-cache.m.iqiyi.com
   - DOMAIN,intl-rcd.iqiyi.com
@@ -28,5 +29,8 @@ payload:
   - DOMAIN,msg.ptqy.gitv.tv
   - DOMAIN,cache.video.iqiyi.com
   - DOMAIN-KEYWORD,qiyi
+  - IP-CIDR,2.17.196.136/32,no-resolve
+  - IP-CIDR,23.0.0.0/8,no-resolve
+  - IP-CIDR,88.221.83.0/24,no-resolve
   - IP-CIDR,159.138.102.146/32,no-resolve
   - IP-CIDR,203.74.95.0/24,no-resolve
