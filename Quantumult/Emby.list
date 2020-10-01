@@ -6,5 +6,4 @@
   - DOMAIN-SUFFIX,plus.xeton.dev
   - DOMAIN-SUFFIX,emby.nyancat.net
   - DOMAIN-SUFFIX,servers.xeton.dev 
-  - DOMAIN-SUFFIX,emby.media
-  - DOMAIN-SUFFIX,mb3admin.com
+  - DOMAIN-KEYWORD,emby
