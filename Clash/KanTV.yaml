@@ -7,4 +7,8 @@ payload:
   - DOMAIN-SUFFIX,image.huaren.tv
   - DOMAIN-SUFFIX,tv.skyollie.com
   - DOMAIN-SUFFIX,image.suramic.com
+  - DOMAIN-SUFFIX,tv.suramic.com
+  - DOMAIN-SUFFIX,sr14.douphy.com
   - DOMAIN-KEYWORD,kantv
+  - IP-CIDR,3.104.36.12:152/32,no-resolve
+  - IP-CIDR,191.232.139.2/32,no-resolve
