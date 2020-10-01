@@ -1,6 +1,5 @@
 payload:
   # > KanTV
-  - DOMAIN-KEYWORD,kantv
   - DOMAIN-SUFFIX,tv.barestar.com
   - DOMAIN-SUFFIX,asset.bixjf.com
   - DOMAIN-SUFFIX,bny.playstat1on.com
@@ -8,3 +7,4 @@ payload:
   - DOMAIN-SUFFIX,image.huaren.tv
   - DOMAIN-SUFFIX,tv.skyollie.com
   - DOMAIN-SUFFIX,image.suramic.com
+  - DOMAIN-KEYWORD,kantv
