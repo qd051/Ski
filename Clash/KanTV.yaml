@@ -11,4 +11,3 @@ payload:
   - DOMAIN-SUFFIX,sr14.douphy.com
   - DOMAIN-KEYWORD,kantv
   - IP-CIDR,3.104.36.12/32,no-resolve
-  - IP-CIDR,191.232.139.2/32,no-resolve
