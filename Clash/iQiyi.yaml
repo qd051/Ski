@@ -31,6 +31,7 @@ payload:
   - DOMAIN-KEYWORD,qiyi
   - IP-CIDR,2.17.196.136/32,no-resolve
   - IP-CIDR,23.0.0.0/8,no-resolve
+  - IP-CIDR,77.67.0.0/16,no-resolve
   - IP-CIDR,88.221.83.0/24,no-resolve
   - IP-CIDR,99.84.0.0/16,no-resolve
   - IP-CIDR,104.123.70.0/24,no-resolve
