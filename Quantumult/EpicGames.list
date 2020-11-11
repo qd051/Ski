@@ -1,8 +1,8 @@
   # > EpicGames
-  - DOMAIN-SUFFIX,epicgames-download1.akamaized.net
-  - DOMAIN-SUFFIX,datarouter.ol.epicgames.com
-  - DOMAIN-SUFFIX,account-public-service-prod03.ol.epicgames.com
-  - DOMAIN-SUFFIX,lightswitch-public-service-prod06.ol.epicgames.com
-  - DOMAIN-SUFFIX,entitlement-public-service-prod08.ol.epicgames.com
-  - DOMAIN-SUFFIX,library-service.live.use1a.on.epicgames.com
-  - DOMAIN-KEYWORD,epicgames
+  DOMAIN-SUFFIX,epicgames-download1.akamaized.net
+  DOMAIN-SUFFIX,datarouter.ol.epicgames.com
+  DOMAIN-SUFFIX,account-public-service-prod03.ol.epicgames.com
+  DOMAIN-SUFFIX,lightswitch-public-service-prod06.ol.epicgames.com
+  DOMAIN-SUFFIX,entitlement-public-service-prod08.ol.epicgames.com
+  DOMAIN-SUFFIX,library-service.live.use1a.on.epicgames.com
+  DOMAIN-KEYWORD,epicgames
