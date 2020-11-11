@@ -1,48 +1,48 @@
   # > iQiyi
   # - User-Agent,QIYI*
   # - User-Agent,iQiYi*
-  - DOMAIN-SUFFIX,iq.com
-  - DOMAIN-SUFFIX,intl.iqiyi.com
-  - DOMAIN-SUFFIX,inter.iqiyi.com
-  - DOMAIN-SUFFIX,iqiyi.com
-  - DOMAIN-SUFFIX,iqiyipic.com
-  - DOMAIN-SUFFIX,qy.net
-  - DOMAIN-SUFFIX,71.am
-  - DOMAIN-SUFFIX,t7z.cupid.ptqy.gitv.tv
-  - DOMAIN-SUFFIX,policy.video.ptqy.gitv.tv
-  - DOMAIN-SUFFIX,t7z.cupid.iqiyi.com
-  - DOMAIN-SUFFIX,aka.ms
-  - DOMAIN,intel-cache.video.iqiyi.com
-  - DOMAIN,intel-cache.m.iqiyi.com
-  - DOMAIN,intl-rcd.iqiyi.com
-  - DOMAIN,intl-subscription.iqiyi.com
-  - DOMAIN,intl-cmonitor.iqiyi.com
-  - DOMAIN,intl-passport.iqiyi.com
-  - DOMAIN,intl-sns.iqiyi.com
-  - DOMAIN,intl-im-hist-api.iqiyi.com
-  - DOMAIN,intl-act.vip.iqiyi.com
-  - DOMAIN,intl-i.vip.iqiyi.com
-  - DOMAIN,intl.policy.iqiyi.com
-  - DOMAIN,du-feige-intl.iqiyi.com 
-  - DOMAIN,msg-intl.qy.net
-  - DOMAIN,msg.ptqy.gitv.tv
-  - DOMAIN,cache.video.iqiyi.com
-  - DOMAIN-KEYWORD,qiyi
-  - IP-CIDR,2.16.0.0/16,no-resolve
-  - IP-CIDR,2.17.196.136/32,no-resolve
-  - IP-CIDR,23.0.0.0/8,no-resolve
-  - IP-CIDR,67.131.247.0/24,no-resolve
-  - IP-CIDR,69.192.0.0/16,no-resolve
-  - IP-CIDR,77.67.0.0/16,no-resolve
-  - IP-CIDR,88.221.83.0/24,no-resolve
-  - IP-CIDR,99.84.0.0/16,no-resolve
-  - IP-CIDR,104.109.0.0/16,no-resolve
-  - IP-CIDR,104.123.70.0/24,no-resolve
-  - IP-CIDR,128.241.0.0/16,no-resolve
-  - IP-CIDR,159.138.102.146/32,no-resolve
-  - IP-CIDR,172.232.0.0/16,no-resolve
-  - IP-CIDR,184.0.0.0/8,no-resolve
-  - IP-CIDR,203.66.0.0/16,no-resolve
-  - IP-CIDR,203.74.95.0/24,no-resolve
-  - IP-CIDR,203.211.0.0/16,no-resolve
-  - IP-CIDR,209.170.0.0/16,no-resolve
+  DOMAIN-SUFFIX,iq.com
+  DOMAIN-SUFFIX,intl.iqiyi.com
+  DOMAIN-SUFFIX,inter.iqiyi.com
+  DOMAIN-SUFFIX,iqiyi.com
+  DOMAIN-SUFFIX,iqiyipic.com
+  DOMAIN-SUFFIX,qy.net
+  DOMAIN-SUFFIX,71.am
+  DOMAIN-SUFFIX,t7z.cupid.ptqy.gitv.tv
+  DOMAIN-SUFFIX,policy.video.ptqy.gitv.tv
+  DOMAIN-SUFFIX,t7z.cupid.iqiyi.com
+  DOMAIN-SUFFIX,aka.ms
+  DOMAIN,intel-cache.video.iqiyi.com
+  DOMAIN,intel-cache.m.iqiyi.com
+  DOMAIN,intl-rcd.iqiyi.com
+  DOMAIN,intl-subscription.iqiyi.com
+  DOMAIN,intl-cmonitor.iqiyi.com
+  DOMAIN,intl-passport.iqiyi.com
+  DOMAIN,intl-sns.iqiyi.com
+  DOMAIN,intl-im-hist-api.iqiyi.com
+  DOMAIN,intl-act.vip.iqiyi.com
+  DOMAIN,intl-i.vip.iqiyi.com
+  DOMAIN,intl.policy.iqiyi.com
+  DOMAIN,du-feige-intl.iqiyi.com 
+  DOMAIN,msg-intl.qy.net
+  DOMAIN,msg.ptqy.gitv.tv
+  DOMAIN,cache.video.iqiyi.com
+  DOMAIN-KEYWORD,qiyi
+  IP-CIDR,2.16.0.0/16,no-resolve
+  IP-CIDR,2.17.196.136/32,no-resolve
+  IP-CIDR,23.0.0.0/8,no-resolve
+  IP-CIDR,67.131.247.0/24,no-resolve
+  IP-CIDR,69.192.0.0/16,no-resolve
+  IP-CIDR,77.67.0.0/16,no-resolve
+  IP-CIDR,88.221.83.0/24,no-resolve
+  IP-CIDR,99.84.0.0/16,no-resolve
+  IP-CIDR,104.109.0.0/16,no-resolve
+  IP-CIDR,104.123.70.0/24,no-resolve
+  IP-CIDR,128.241.0.0/16,no-resolve
+  IP-CIDR,159.138.102.146/32,no-resolve
+  IP-CIDR,172.232.0.0/16,no-resolve
+  IP-CIDR,184.0.0.0/8,no-resolve
+  IP-CIDR,203.66.0.0/16,no-resolve
+  IP-CIDR,203.74.95.0/24,no-resolve
+  IP-CIDR,203.211.0.0/16,no-resolve
+  IP-CIDR,209.170.0.0/16,no-resolve
