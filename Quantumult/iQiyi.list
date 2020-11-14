@@ -1,7 +1,6 @@
   # > iQiyi
   # - User-Agent,QIYI*
   # - User-Agent,iQiYi*
-  DOMAIN-SUFFIX,iq.com
   DOMAIN-SUFFIX,intl.iqiyi.com
   DOMAIN-SUFFIX,inter.iqiyi.com
   DOMAIN-SUFFIX,iqiyi.com
