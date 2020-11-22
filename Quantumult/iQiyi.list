@@ -1,7 +1,6 @@
   # > iQiyi
   # - User-Agent,QIYI*
   # - User-Agent,iQiYi*
-  DOMAIN-SUFFIX,iq.com
   DOMAIN-SUFFIX,intl.iqiyi.com
   DOMAIN-SUFFIX,inter.iqiyi.com
   DOMAIN-SUFFIX,iqiyi.com
@@ -13,6 +12,7 @@
   DOMAIN-SUFFIX,t7z.cupid.iqiyi.com
   DOMAIN-SUFFIX,aka.ms
   DOMAIN,i.vip.iq.com
+  DOMAIN,iq.com
   DOMAIN,intel-cache.video.iqiyi.com
   DOMAIN,intel-cache.m.iqiyi.com
   DOMAIN,intl-rcd.iqiyi.com
