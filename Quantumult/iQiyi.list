@@ -1,6 +1,6 @@
 # > iQiyi
-# - User-Agent,QIYI*
-# - User-Agent,iQiYi*
+User-Agent,QIYI*
+User-Agent,iQiYi*
 DOMAIN-SUFFIX,iqiyi.com
 DOMAIN-SUFFIX,iqiyipic.com
 DOMAIN-SUFFIX,qy.net
