@@ -1,32 +1,35 @@
 # > iQIYI
-DOMAIN-SUFFIX,iq.com
-DOMAIN-SUFFIX,intl.iqiyi.com
-DOMAIN-SUFFIX,inter.iqiyi.com
-DOMAIN-SUFFIX,iqiyi.com
-DOMAIN-SUFFIX,iqiyipic.com
-DOMAIN-SUFFIX,iq.com
-DOMAIN-SUFFIX,qy.net
-DOMAIN-SUFFIX,71.am
-DOMAIN-KEYWORD,qiyi
+USER-AGENT,*QIYI*,iQIYI
+USER-AGENT,iQiYi*,iQIYI
+USER-AGENT,QYPlayer,iQIYI
+DOMAIN-SUFFIX,iq.com,iQIYI
+DOMAIN-SUFFIX,intl.iqiyi.com,iQIYI
+DOMAIN-SUFFIX,inter.iqiyi.com,iQIYI
+DOMAIN-SUFFIX,iqiyi.com,iQIYI
+DOMAIN-SUFFIX,iqiyipic.com,iQIYI
+DOMAIN-SUFFIX,iq.com,iQIYI
+DOMAIN-SUFFIX,qy.net,iQIYI
+DOMAIN-SUFFIX,71.am,iQIYI
+DOMAIN-KEYWORD,qiyi,iQIYI
 // 视频播放版权地区验证
-DOMAIN,intel-cache.video.iqiyi.com
-DOMAIN,intel-cache.m.iqiyi.com
+DOMAIN,intel-cache.video.iqiyi.com,iQIYI
+DOMAIN,intel-cache.m.iqiyi.com,iQIYI
 // 视频历史记录版权地区验证
-DOMAIN,intl-rcd.iqiyi.com
+DOMAIN,intl-rcd.iqiyi.com,iQIYI
 // 视频个人收藏版权地区验证
-DOMAIN,intl-subscription.iqiyi.com
+DOMAIN,intl-subscription.iqiyi.com,iQIYI
 // 以下暂未验证（可选择直连）
-DOMAIN,intl-cmonitor.iqiyi.com
-DOMAIN,intl-passport.iqiyi.com
-DOMAIN,intl-sns.iqiyi.com
-DOMAIN,intl-im-hist-api.iqiyi.com
-DOMAIN,intl-act.vip.iqiyi.com
-DOMAIN,intl-i.vip.iqiyi.com
-DOMAIN,intl.policy.iqiyi.com
-DOMAIN,du-feige-intl.iqiyi.com
-DOMAIN,msg-intl.qy.net
+DOMAIN,intl-cmonitor.iqiyi.com,iQIYI
+DOMAIN,intl-passport.iqiyi.com,iQIYI
+DOMAIN,intl-sns.iqiyi.com,iQIYI
+DOMAIN,intl-im-hist-api.iqiyi.com,iQIYI
+DOMAIN,intl-act.vip.iqiyi.com,iQIYI
+DOMAIN,intl-i.vip.iqiyi.com,iQIYI
+DOMAIN,intl.policy.iqiyi.com,iQIYI
+DOMAIN,du-feige-intl.iqiyi.com,iQIYI
+DOMAIN,msg-intl.qy.net,iQIYI
 # 爱奇艺检测ip
-DOMAIN,cache.video.iqiyi.com
-# IP-CIDR,101.227.0.0/16
-# IP-CIDR,101.224.0.0/13
-# IP-CIDR,119.176.0.0/12
+DOMAIN,cache.video.iqiyi.com,iQIYI
+# IP-CIDR,101.227.0.0/16,iQIYI
+# IP-CIDR,101.224.0.0/13,iQIYI
+# IP-CIDR,119.176.0.0/12,iQIYI
