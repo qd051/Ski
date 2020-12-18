@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,policy.video.ptqy.gitv.tv
   - DOMAIN-SUFFIX,t7z.cupid.iqiyi.com
   - DOMAIN-SUFFIX,aka.ms
+  - DOMAIN,tw.inter.ptqy.gitv.tv
   - DOMAIN,i.vip.iq.com
   - DOMAIN,intel-cache.video.iqiyi.com
   - DOMAIN,intel-cache.m.iqiyi.com
