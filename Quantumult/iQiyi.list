@@ -1,6 +1,7 @@
 # > iQiyi
-# User-Agent,QIYI*
-# User-Agent,iQiYi*
+USER-AGENT,*QIYI*,iQIYI
+USER-AGENT,iQiYi*,iQIYI
+USER-AGENT,QYPlayer,iQIYI
 DOMAIN-SUFFIX,iq.com,iQIYI
 DOMAIN-SUFFIX,intl.iqiyi.com,iQIYI
 DOMAIN-SUFFIX,inter.iqiyi.com,iQIYI
