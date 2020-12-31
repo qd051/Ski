@@ -1,11 +1,9 @@
 payload:
   # > Emby
   - PROCESS-NAME,com.emby
-  - DOMAIN-SUFFIX,emby-best.xeton.dev
   - DOMAIN-SUFFIX,emby.xeton.dev
-  - DOMAIN-SUFFIX,kodi.xeton.dev
+  - DOMAIN-SUFFIX,jellyfin.xeton.dev
   - DOMAIN-SUFFIX,movie.xeton.dev
-  - DOMAIN-SUFFIX,plus.xeton.dev
+  - DOMAIN-SUFFIX,servers.xeton.dev
   - DOMAIN-SUFFIX,emby.nyancat.net
-  - DOMAIN-SUFFIX,servers.xeton.dev 
   - DOMAIN-KEYWORD,emby
