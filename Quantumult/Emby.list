@@ -1,7 +1,5 @@
   # > Emby
-  DOMAIN-SUFFIX,emby.xeton.dev
-  DOMAIN-SUFFIX,jellyfin.xeton.dev
-  DOMAIN-SUFFIX,movie.xeton.dev
-  DOMAIN-SUFFIX,servers.xeton.dev
-  DOMAIN-SUFFIX,emby.nyancat.net
+  DOMAIN-SUFFIX,pub1sg.emby.wtf
+  DOMAIN-SUFFIX,pub2sg.emby.wtf
+  DOMAIN-SUFFIX,pub3sg.emby.wtf
   DOMAIN-KEYWORD,emby
