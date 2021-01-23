@@ -1,5 +1,5 @@
   # > Emby
-  DOMAIN-SUFFIX,pub1sg.emby.wtf
-  DOMAIN-SUFFIX,pub2sg.emby.wtf
-  DOMAIN-SUFFIX,pub3sg.emby.wtf
-  DOMAIN-KEYWORD,emby
+  DOMAIN-SUFFIX,pub1sg.emby.wtf,Emby
+  DOMAIN-SUFFIX,pub2sg.emby.wtf,Emby
+  DOMAIN-SUFFIX,pub3sg.emby.wtf,Emby
+  DOMAIN-KEYWORD,Emby
