@@ -35,7 +35,6 @@ DOMAIN,msg.ptqy.gitv.tv,iQIYI
 DOMAIN,cache.video.iqiyi.com,iQIYI
 DOMAIN,cache-video.iq.com,iQIYI
 DOMAIN,cmonitor.iq.com,iQIYI
-DOMAIN-KEYWORD,qiyi,iQIYI
 IP-CIDR,101.224.0.0/13,iQIYI
 IP-CIDR,103.44.56.0/22,iQIYI
 IP-CIDR,118.26.120.0/24,iQIYI
