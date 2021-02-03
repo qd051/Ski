@@ -2,17 +2,47 @@ payload:
   # > iQiyi
   # - User-Agent,QIYI*
   # - User-Agent,iQiYi*
+  - DOMAIN-SUFFIX,71.am
+  - DOMAIN-SUFFIX,71.am
+  - DOMAIN-SUFFIX,71.am.com
+  - DOMAIN-SUFFIX,71edge.com
+  - DOMAIN-SUFFIX,71edge.net
+  - DOMAIN-SUFFIX,aka.ms
+  - DOMAIN-SUFFIX,aianno.cn
+  - DOMAIN-SUFFIX,aianno.com
+  - DOMAIN-SUFFIX,aiqiyicloud-mgmt.com
+  - DOMAIN-SUFFIX,aiqiyicloud.com
+  - DOMAIN-SUFFIX,aiqiyicloud.net
+  - DOMAIN-SUFFIX,baiying.com
+  - DOMAIN-SUFFIX,gitv.cn
+  - DOMAIN-SUFFIX,gitv.tv
+  - DOMAIN-SUFFIX,ibkstore.com
   - DOMAIN-SUFFIX,iq.com
+  - DOMAIN-SUFFIX,iqiyi.com
+  - DOMAIN-SUFFIX,iqiyi.demo.uwp
+  - DOMAIN-SUFFIX,iqiyiedge.com
+  - DOMAIN-SUFFIX,iqiyiedge.net
+  - DOMAIN-SUFFIX,iqiyipic.com
   - DOMAIN-SUFFIX,intl.iqiyi.com
   - DOMAIN-SUFFIX,inter.iqiyi.com
-  - DOMAIN-SUFFIX,iqiyi.com
-  - DOMAIN-SUFFIX,iqiyipic.com
-  - DOMAIN-SUFFIX,qy.net
-  - DOMAIN-SUFFIX,71.am
-  - DOMAIN-SUFFIX,t7z.cupid.ptqy.gitv.tv
+  - DOMAIN-SUFFIX,jiangbing.cn
+  - DOMAIN-SUFFIX,pps.tv
+  - DOMAIN-SUFFIX,ppsimg.com
+  - DOMAIN-SUFFIX,ppstream.cn
+  - DOMAIN-SUFFIX,ppstream.com
+  - DOMAIN-SUFFIX,ppstream.com.cn
+  - DOMAIN-SUFFIX,ppstream.net
+  - DOMAIN-SUFFIX,ppstream.net.cn
+  - DOMAIN-SUFFIX,ppsurl.com
   - DOMAIN-SUFFIX,policy.video.ptqy.gitv.tv
+  - DOMAIN-SUFFIX,qiyi.cn
+  - DOMAIN-SUFFIX,qiyi.com
+  - DOMAIN-SUFFIX,qiyipic.com
+  - DOMAIN-SUFFIX,qy.com
+  - DOMAIN-SUFFIX,qy.net
+  - DOMAIN-SUFFIX,suike.cn
+  - DOMAIN-SUFFIX,t7z.cupid.ptqy.gitv.tv
   - DOMAIN-SUFFIX,t7z.cupid.iqiyi.com
-  - DOMAIN-SUFFIX,aka.ms
   - DOMAIN,tw.inter.ptqy.gitv.tv
   - DOMAIN,i.vip.iq.com
   - DOMAIN,intel-cache.video.iqiyi.com
@@ -44,11 +74,16 @@ payload:
   - IP-CIDR,77.67.0.0/16,no-resolve
   - IP-CIDR,88.221.0.0/16,no-resolve
   - IP-CIDR,99.84.0.0/16,no-resolve
+  - IP-CIDR,101.224.0.0/13,no-resolve
+  - IP-CIDR,103.44.56.0/22,no-resolve
   - IP-CIDR,104.76.0.0/16,no-resolve
   - IP-CIDR,104.104.0.0/16,no-resolve
   - IP-CIDR,104.109.0.0/16,no-resolve
   - IP-CIDR,104.123.0.0/16,no-resolve
   - IP-CIDR,117.103.0.0/16,no-resolve
+  - IP-CIDR,118.26.120.0/24,no-resolve
+  - IP-CIDR,118.26.32.0/23,no-resolve
+  - IP-CIDR,119.176.0.0/12,no-resolve
   - IP-CIDR,128.241.0.0/16,no-resolve
   - IP-CIDR,159.138.0.0/16,no-resolve
   - IP-CIDR,172.232.0.0/16,no-resolve
@@ -59,3 +94,4 @@ payload:
   - IP-CIDR,203.198.0.0/16,no-resolve
   - IP-CIDR,203.211.0.0/16,no-resolve
   - IP-CIDR,209.170.0.0/16,no-resolve
+  - IP-CIDR,223.119.62.224/28,no-resolve
