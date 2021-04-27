@@ -1,0 +1,6 @@
+hostname = ios.barrett.com
+
+# 中青阅读
+https:\/\/ios\.baertt\.com\/v5\/article\/info\/get\.json url script-request-header https://raw.githubusercontent.com/Sunert/Scripts/master/Task/Youth_Read.js
+
+https:\/\/ios\.baertt\.com\/v5\/user\/stay\.json url script-request-body https://raw.githubusercontent.com/Sunert/Scripts/master/Task/Youth_Read.js
