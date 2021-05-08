@@ -1,4 +1,4 @@
-hostname = ios.barrett.com
+hostname = ios.baertt.com
 
 # 中青阅读
 https:\/\/ios\.baertt\.com\/v5\/article\/info\/get\.json url script-request-header https://raw.githubusercontent.com/qd051/Ski/master/Script/Youth_Read.js
