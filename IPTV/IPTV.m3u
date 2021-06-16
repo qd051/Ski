@@ -127,6 +127,8 @@ http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 #EXTINF:-1 ,澳门2
 http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+#EXTINF:-1 ,nhk华语
+https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 #EXTINF:-1 ,咪咕视频
 http://111.12.102.79:6610/PLTV/77777777/224/3221225660/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,纯享4K
