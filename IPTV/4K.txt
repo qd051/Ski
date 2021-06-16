@@ -1,4 +1,0 @@
-﻿CCTV-4K,http://39.134.176.171/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hls
-北京IPTV+4K超清,http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
-BESTV-4K,http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226952/index.m3u8
-纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
