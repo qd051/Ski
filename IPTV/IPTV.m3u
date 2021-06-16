@@ -81,44 +81,40 @@ http://39.134.39.39/PLTV/88888888/224/3221226307/index.m3u8
 http://39.134.39.39/PLTV/88888888/224/3221226276/index.m3u8
 #EXTINF:-1 ,海南卫视
 http://39.134.39.39/PLTV/88888888/224/3221226301/index.m3u8
-#EXTINF:-1 ,青海卫视@
+#EXTINF:-1 ,青海卫视
 http://111.12.102.79:6610/PLTV/77777777/224/3221225705/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
-#EXTINF:-1 ,吉林卫视@
+#EXTINF:-1 ,吉林卫视
 http://111.12.102.79:6610/PLTV/77777777/224/3221225678/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
-#EXTINF:-1 ,南方卫视@
+#EXTINF:-1 ,南方卫视
 http://111.12.102.79:6610/PLTV/77777777/224/3221225748/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
-#EXTINF:-1 ,厦门卫视@
+#EXTINF:-1 ,厦门卫视
 http://39.134.39.39/PLTV/88888888/224/3221225689/index.m3u8
-#EXTINF:-1 ,内蒙古卫视@
+#EXTINF:-1 ,内蒙古卫视
 http://111.12.102.79:6610/PLTV/77777777/224/3221225751/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,陕西卫视@
+#EXTINF:-1 ,陕西卫视
 http://111.12.102.79:6610/PLTV/77777777/224/3221225754/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
-#EXTINF:-1 ,河北卫视@
+#EXTINF:-1 ,河北卫视
 http://111.12.102.79:6610/PLTV/77777777/224/3221225773/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,河南卫视@
+#EXTINF:-1 ,河南卫视
 http://111.12.102.79:6610/PLTV/77777777/224/3221225806/index.m3u8?servicetype=1&IASHttpSessionId=OTT    
-#EXTINF:-1 ,宁夏卫视@
+#EXTINF:-1 ,宁夏卫视
 http://111.12.102.79:6610/PLTV/77777777/224/3221225782/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
-#EXTINF:-1 ,山西卫视@
+#EXTINF:-1 ,山西卫视
 http://111.12.102.79:6610/PLTV/77777777/224/3221225785/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,新疆卫视@
+#EXTINF:-1 ,新疆卫视
 http://39.134.39.39/PLTV/88888888/224/3221225704/index.m3u8
-#EXTINF:-1 ,兵团卫视@
+#EXTINF:-1 ,兵团卫视
 http://39.134.39.39/PLTV/88888888/224/3221226298/index.m3u8 
 #EXTINF:-1 ,安多卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 #EXTINF:-1 ,康巴卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
-#EXTINF:-1 ,西藏卫视@
+#EXTINF:-1 ,西藏卫视
 http://111.12.102.79:6610/PLTV/77777777/224/3221225800/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
-#EXTINF:-1 ,云南卫视@
+#EXTINF:-1 ,云南卫视
 http://111.12.102.79:6610/PLTV/77777777/224/3221225794/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,广西卫视@
+#EXTINF:-1 ,广西卫视
 http://111.12.102.79:6610/PLTV/77777777/224/3221225767/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
-#EXTINF:-1 ,山东教育卫视@
-http://111.12.102.79:6610/PLTV/77777777/224/3221225708/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 ,广东珠江@
-http://111.12.102.79:6610/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
 #EXTINF:-1 ,咪咕视频
 http://111.12.102.79:6610/PLTV/77777777/224/3221225660/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,纯享4K
@@ -152,7 +148,11 @@ http://111.12.102.79:6610/PLTV/77777777/224/3221225797/index.m3u8?servicetype=1&
 #EXTINF:-1 ,KAKU少儿
 http://111.12.102.79:6610/PLTV/77777777/224/3221225730/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,哈哈炫动
-http://39.134.39.39/PLTV/88888888/224/3221226329/index.m3u8 
+http://39.134.39.39/PLTV/88888888/224/3221226329/index.m3u8
+#EXTINF:-1 ,广东珠江
+http://111.12.102.79:6610/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
+#EXTINF:-1 ,山东教育
+http://111.12.102.79:6610/PLTV/77777777/224/3221225708/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,法制天地
 http://39.134.39.39/PLTV/88888888/224/3221225627/index.m3u8
 #EXTINF:-1 ,生活时尚
