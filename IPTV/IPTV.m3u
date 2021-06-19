@@ -8,7 +8,11 @@ http://111.12.102.79:6610/PLTV/77777777/224/3221225677/index.m3u8?servicetype=1&
 #EXTINF:-1 ,CCTV4
 http://111.12.102.79:6610/PLTV/77777777/224/3221225753/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
 #EXTINF:-1 ,CCTV5
+http://111.12.102.79:6610/PLTV/77777777/224/3221225660/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,CCTV5
 http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+#EXTINF:-1 ,CCTV5+
+http://111.12.102.79:6610/PLTV/77777777/224/3221225621/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,CCTV5+
 http://39.134.39.39/PLTV/88888888/224/3221226253/index.m3u8
 #EXTINF:-1 ,CCTV6
@@ -147,6 +151,8 @@ http://111.12.102.79:6610/PLTV/77777777/224/3221225667/index.m3u8?servicetype=1&
 http://111.12.102.79:6610/PLTV/77777777/224/3221225688/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
 #EXTINF:-1 ,欢笑剧场
 http://39.134.39.39/PLTV/88888888/224/3221226203/index.m3u8
+#EXTINF:-1 ,欢笑剧场4K
+http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
 #EXTINF:-1 ,都市剧场
 http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8
 #EXTINF:-1 ,极速汽车
@@ -169,6 +175,8 @@ http://111.12.102.79:6610/PLTV/77777777/224/3221225730/index.m3u8?servicetype=1&
 http://39.134.39.39/PLTV/88888888/224/3221226329/index.m3u8
 #EXTINF:-1 ,广东珠江
 http://111.12.102.79:6610/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
+#EXTINF:-1 ,广东珠江4K
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 ,山东教育
 http://111.12.102.79:6610/PLTV/77777777/224/3221225708/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,法制天地
