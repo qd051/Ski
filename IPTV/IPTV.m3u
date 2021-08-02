@@ -141,10 +141,10 @@ http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
 #EXTINF:-1 ,凤凰资讯
 http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS1080P
-#EXTINF:-1 ,日本NHK华语
-https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
-#EXTINF:-1 ,日本NHK华语
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 ,台視新聞
+http://seb.sason.top/sc/tsxw_fhd.m3u8
+#EXTINF:-1 ,民視新聞
+http://seb.sason.top/sc/msxw_fhd.m3u8
 #EXTINF:-1 ,天映经典
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u
 #EXTINF:-1 ,TV BRICS Chinese
@@ -163,6 +163,18 @@ http://ivi.bupt.edu.cn/hls/chchd.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 ,CHC家庭影院
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+#EXTINF:-1 ,求索记录
+http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
+#EXTINF:-1 ,求索动物
+http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 ,求索动物
+http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 ,求索生活
+http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 ,求索生活
+http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 ,求索三
+http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
 #EXTINF:-1 ,冬奥纪实
 http://111.12.102.79:6610/PLTV/77777777/224/3221225667/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 ,纪实人文
@@ -311,8 +323,14 @@ https://dvr.ch20-cdnwiz.com/mobilehls/dvr.m3u8
 http://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 ,意大利 Ⅰ 意大利电台
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+#EXTINF:-1 ,乌克兰 Ⅰ M2 音乐频道
+http://live.m2.tv/hls3/stream.m3u8
 #EXTINF:-1 ,音乐20TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 ,泰国lNBT 曼谷频道
+http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
+#EXTINF:-1 ,泰国PBS
+http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
 #EXTINF:-1 ,越南ANTVHD
 http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 #EXTINF:-1 ,越南ktv
@@ -323,3 +341,23 @@ http://113.161.4.48:8080/phuyen/tv.m3u8
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 #EXTINF:-1 ,越南坚江频道
 http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+#EXTINF:-1 ,斯洛伐克l WAU 频道
+http://nn2.joj.sk/hls/wau-540.m3u8
+#EXTINF:-1 ,斯诺伐克l J O J 频道
+http://nn2.joj.sk/hls/joj-540.m3u8
+#EXTINF:-1 ,日本NHK华语
+https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
+#EXTINF:-1 ,日本NHK华语
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 ,日本QVC
+http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+#EXTINF:-1 ,日本新闻24
+http://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1 ,日本新闻24
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 ,全美電視
+https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+#EXTINF:-1 ,美国新闻CBS News 1
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 ,美国新闻CBS News 2
+https://www.cbsnews.com/common/video/dai_prod.m3u8
