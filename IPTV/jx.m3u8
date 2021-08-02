@@ -1,52 +1,28 @@
 #EXTM3U
 #EXTINF:-1 ,CCTV-1综合蓝光
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
-#EXTINF:-1 ,CCTV-2财经
-http://ivi.bupt.edu.cn/hls/cctv2.m3u8
 #EXTINF:-1 ,CCTV-2财经蓝光
 http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
 #EXTINF:-1 ,CCTV-3综艺蓝光
 http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
-#EXTINF:-1 ,CCTV-4国际
-http://ivi.bupt.edu.cn/hls/cctv4.m3u8
 #EXTINF:-1 ,CCTV-4国际蓝光
 http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
 #EXTINF:-1 ,CCTV-5+体育蓝光
 http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 #EXTINF:-1 ,CCTV-6蓝光1
 http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:-1 ,CCTV-6蓝光2
-http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
-#EXTINF:-1 ,CCTV-7国防军事
-http://ivi.bupt.edu.cn/hls/cctv7.m3u8
 #EXTINF:-1 ,CCTV-7国防军事蓝光
 http://ivi.bupt.edu.cn/hls/cctv7hd.m3u8
 #EXTINF:-1 ,CCTV-8蓝光1
 http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
 #EXTINF:-1 ,CCTV-8蓝光2
 http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
-#EXTINF:-1 ,CCTV-9纪录
-http://ivi.bupt.edu.cn/hls/cctv9.m3u8
 #EXTINF:-1 ,CCTV-9纪录蓝光
 http://ivi.bupt.edu.cn/hls/cctv9hd.m3u8
-#EXTINF:-1 ,CCTV-10科教
-http://ivi.bupt.edu.cn/hls/cctv10.m3u8
 #EXTINF:-1 ,CCTV-10科教蓝光
 http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8
-#EXTINF:-1 ,CCTV-11戏曲
-http://ivi.bupt.edu.cn/hls/cctv11.m3u8
-#EXTINF:-1 ,CCTV-12社会与法
-http://ivi.bupt.edu.cn/hls/cctv12.m3u8
 #EXTINF:-1 ,CCTV-12社会与法
 http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
-#EXTINF:-1 ,CCTV-13新闻
-http://ivi.bupt.edu.cn/hls/cctv13.m3u8
-#EXTINF:-1 ,CCTV-13新闻蓝光
-http://ivi.bupt.edu.cn/hls/cctv13hd.m3u8
-#EXTINF:-1 ,CCTV-14少儿
-http://ivi.bupt.edu.cn/hls/cctv14.m3u8
-#EXTINF:-1 ,CCTV-15音乐
-http://ivi.bupt.edu.cn/hls/cctv15.m3u8
 #EXTINF:-1 ,CCTV-15蓝光
 http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
 #EXTINF:-1 ,CETV蓝光
