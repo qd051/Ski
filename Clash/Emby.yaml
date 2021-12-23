@@ -5,22 +5,19 @@ payload:
   - DOMAIN-SUFFIX,emby-cf.plusmedia.site
   - DOMAIN-SUFFIX,jellyfin.xeton.dev
   - DOMAIN-SUFFIX,movie.xeton.dev
-  - DOMAIN-SUFFIX,cf1.jmsooo.com
-  - DOMAIN-SUFFIX,us.jmsooo.com
-  - DOMAIN-SUFFIX,us2.jmsooo.com
-  - DOMAIN-SUFFIX,us3.jmsooo.com
-  - DOMAIN-SUFFIX,SG.jmsooo.com
-  - DOMAIN-SUFFIX,ru.jmsooo.com
-  - DOMAIN-SUFFIX,ru2.jmsooo.com
-  - DOMAIN-SUFFIX,cf.odysseyplus.site
-  - DOMAIN-SUFFIX,sg.odysseyplus.site
-  - DOMAIN-SUFFIX,ru.odysseyplus.site
-  - DOMAIN-SUFFIX,sp.odysseyplus.site
+  - DOMAIN-SUFFIX,usa1.jmsooo.com
+  - DOMAIN-SUFFIX,usa2.jmsooo.com
+  - DOMAIN-SUFFIX,usa3.jmsooo.com
+  - DOMAIN-SUFFIX,sg1.jmsooo.com
   - DOMAIN-SUFFIX,pub1.emby.wtf
   - DOMAIN-SUFFIX,pub1cm1.emby.wtf
   - DOMAIN-SUFFIX,pub2.emby.wtf
   - DOMAIN-SUFFIX,pub2cm1.emby.wtf
   - DOMAIN-SUFFIX,pub3.emby.wtf
   - DOMAIN-SUFFIX,pub3cm1.emby.wtf
-  - DOMAIN-SUFFIX,pornemby.club
+  - DOMAIN-SUFFIX,cf.odysseyplus.site
+  - DOMAIN-SUFFIX,sg.odysseyplus.site
+  - DOMAIN-SUFFIX,sg2.odysseyplus.site
+  - DOMAIN-SUFFIX,ru.odysseyplus.site
+  - DOMAIN-SUFFIX,sp.odysseyplus.site
   - DOMAIN-KEYWORD,emby
