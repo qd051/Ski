@@ -31,6 +31,144 @@ http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
 http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHC家庭影院" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="高清",CHC家庭影院
 http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC0.jpg" group-title="高清",CHC高清电影
+http://iptv.tvfix.org/hls/chchd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="极速汽车" tvg-logo="" group-title="高清",极速汽车高清
+http://iptv.tvfix.org/hls/jsqchd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="劲爆体育" tvg-logo="" group-title="高清",劲爆体育高清
+http://iptv.tvfix.org/hls/jbtyhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="新视觉" tvg-logo="" group-title="高清",新视觉高清
+http://iptv.tvfix.org/hls/xsjhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="魅力足球" tvg-logo="" group-title="高清",魅力足球高清
+http://iptv.tvfix.org/hls/mlzqhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="游戏风云" tvg-logo="" group-title="高清",游戏风云高清
+http://iptv.tvfix.org/hls/yxfyhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="全纪实" tvg-logo="" group-title="高清",全纪实高清
+http://iptv.tvfix.org/hls/qjshd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="纪实人文" tvg-logo="" group-title="高清",纪实人文高清
+http://iptv.tvfix.org/hls/docuchina.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="足球频道" tvg-logo="" group-title="高清",足球频道
+http://iptv.tvfix.org/hls/zqhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="" group-title="高清",翡翠台(第1声道繁体)
+http://iptv.tvfix.org/hls/jade.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="" group-title="高清",翡翠台(第2声道简体)
+http://iptv.tvfix.org/hls/jade2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="" group-title="高清",翡翠台海外版(粤语繁体)
+http://iptv.tvfix.org/hls/jadenhk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="" group-title="高清",翡翠台海外版(普通话简体)
+http://iptv.tvfix.org/hls/jadenhk2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="J2" tvg-logo="" group-title="高清",J2
+http://iptv.tvfix.org/hls/j2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="J2" tvg-logo="" group-title="高清",J2(第2声道)
+http://iptv.tvfix.org/hls/j22.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="无线新闻台" tvg-logo="" group-title="高清",无线新闻台
+http://iptv.tvfix.org/hls/inews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="无线新闻台" tvg-logo="" group-title="高清",无线新闻台(第2声道)
+http://iptv.tvfix.org/hls/inews2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="" group-title="高清",明珠台
+http://iptv.tvfix.org/hls/pearl.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="" group-title="高清",明珠台(第2声道)
+http://iptv.tvfix.org/hls/pearl2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="无线財經资讯台" tvg-logo="" group-title="高清",无线財經资讯台
+http://iptv.tvfix.org/hls/finance.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="无线財經资讯台" tvg-logo="" group-title="高清",无线財經资讯台(第2声道)
+http://iptv.tvfix.org/hls/finance2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="无线財經资讯台" tvg-logo="" group-title="高清",无线財經资讯台海外版
+http://iptv.tvfix.org/hls/financenhk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ViuTV" tvg-logo="" group-title="高清",ViuTV
+http://iptv.tvfix.org/hls/viutv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ViuTV" tvg-logo="" group-title="高清",ViuTV(第2声道)
+http://iptv.tvfix.org/hls/viutv2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ViuTV6" tvg-logo="" group-title="高清",ViuTV6
+http://iptv.tvfix.org/hls/viutv6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTHK31" tvg-logo="" group-title="高清",RTHK31
+http://iptv.tvfix.org/hls/rthk31.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTHK32" tvg-logo="" group-title="高清",RTHK32
+http://iptv.tvfix.org/hls/rthk32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HK国际财經台" tvg-logo="" group-title="高清",HK国际财經台
+http://iptv.tvfix.org/hls/hkibc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HK开电视" tvg-logo="" group-title="高清",HK开电视
+http://iptv.tvfix.org/hls/opentv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHK综合" tvg-logo="" group-title="高清",NHK综合
+http://iptv.tvfix.org/hls/nhkg.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHK综合" tvg-logo="" group-title="高清",NHK综合(第2声道)
+http://iptv.tvfix.org/hls/nhkg2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHK教育" tvg-logo="" group-title="高清",NHK教育
+http://iptv.tvfix.org/hls/nhke.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHK教育" tvg-logo="" group-title="高清",NHK教育(第2声道)
+http://iptv.tvfix.org/hls/nhke2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHK WORLD Premium" tvg-logo="" group-title="高清",NHK WORLD Premium
+http://iptv.tvfix.org/hls/nhkworldpremium.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHK WORLD" tvg-logo="" group-title="高清",NHK WORLD
+http://iptv.tvfix.org/hls/nhkworld.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHK WORLD" tvg-logo="" group-title="高清",NHK WORLD(中文字幕)
+http://iptv.tvfix.org/hls/nhkworldzh.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tvN" tvg-logo="" group-title="高清",tvN
+http://iptv.tvfix.org/hls/tvn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="瞬间看地球" tvg-logo="" group-title="高清",瞬间看地球
+http://iptv.tvfix.org/hls/earth.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="美亚电影台" tvg-logo="" group-title="高清",美亚电影台(粤语)
+http://iptv.tvfix.org/hls/mydy.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="美亚电影台" tvg-logo="" group-title="高清",美亚电影台(普通话)
+http://iptv.tvfix.org/hls/mydy2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="天映频道" tvg-logo="" group-title="高清",天映频道(粤语)
+http://iptv.tvfix.org/hls/typd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="天映频道" tvg-logo="" group-title="高清",天映频道(普通话)
+http://iptv.tvfix.org/hls/typd2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="天映经典" tvg-logo="" group-title="高清",天映经典(粤语)
+http://iptv.tvfix.org/hls/tyjd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="天映经典" tvg-logo="" group-title="高清",天映经典
+http://iptv.tvfix.org/hls/tyjd2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="" group-title="高清",Animax
+http://iptv.tvfix.org/hls/animax.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="" group-title="高清",Animax(第2声道)
+http://iptv.tvfix.org/hls/animax2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hands Up Channel" tvg-logo="" group-title="高清",Hands Up Channel
+http://iptv.tvfix.org/hls/kid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hands Up Channel" tvg-logo="" group-title="高清",Hands Up Channel(第2声道)
+http://iptv.tvfix.org/hls/kid2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Thrill" tvg-logo="" group-title="高清",Thrill
+http://iptv.tvfix.org/hls/thrill.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Thrill" tvg-logo="" group-title="高清",Thrill(第2声道)
+http://iptv.tvfix.org/hls/thrill2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVB经典台" tvg-logo="" group-title="高清",TVB经典台
+http://iptv.tvfix.org/hls/tvbjd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVB经典台" tvg-logo="" group-title="高清",TVB经典台海外版
+http://iptv.tvfix.org/hls/tvbjdnhk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVB为食台" tvg-logo="" group-title="高清",TVB为食台
+http://iptv.tvfix.org/hls/tvbws.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVB为食台" tvg-logo="" group-title="高清",TVB为食台(第2声道)
+http://iptv.tvfix.org/hls/tvbws2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVB星河" tvg-logo="" group-title="高清",TVB星河(粤语)
+http://iptv.tvfix.org/hls/tvbxh.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVB星河" tvg-logo="" group-title="高清",TVB星河(普通话)
+http://iptv.tvfix.org/hls/tvbxh2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVB功夫台" tvg-logo="" group-title="高清",TVB功夫台(粤语)
+http://iptv.tvfix.org/hls/tvbkf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVB功夫" tvg-logo="" group-title="高清",TVB功夫(普通话)
+http://iptv.tvfix.org/hls/tvbkf2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="" group-title="高清",凤凰资讯
+http://iptv.tvfix.org/hls/fhzx.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="" group-title="高清",凤凰中文
+http://iptv.tvfix.org/hls/fhzw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="凤凰电影" tvg-logo="" group-title="高清",凤凰电影
+http://iptv.tvfix.org/hls/fhdy.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="" group-title="高清",Discovery
+http://iptv.tvfix.org/hls/discovery.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="动物星球" tvg-logo="" group-title="高清",动物星球
+http://iptv.tvfix.org/hls/animal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature 4K" tvg-logo="" group-title="高清",Love Nature 4K
+http://iptv.tvfix.org/hls/lovenature4k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature 4K" tvg-logo="" group-title="高清",Love Nature 4K(第2声道)
+http://iptv.tvfix.org/hls/lovenature4k2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="国家地理" tvg-logo="" group-title="高清",国家地理
+http://iptv.tvfix.org/hls/natlgeo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel V" tvg-logo="" group-title="高清",Channel V
+http://iptv.tvfix.org/hls/channelv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="星空卫视" tvg-logo="" group-title="高清",星空卫视
+http://iptv.tvfix.org/hls/startv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports" tvg-logo="" group-title="高清",Star Sports
+http://iptv.tvfix.org/hls/starsports.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="三立都会" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png" group-title="高清",三立都会
 http://59.125.101.187:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="东风卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/东风卫视.png" group-title="高清",东风卫视
