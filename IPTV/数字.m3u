@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="高清",冬奥记实8k
+http://down.btvcloud.com/8k2021zhibo/zhibo8K2021.m3u8
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="高清",河南卫视4k
+http://218.29.135.2:4000/udp/225.1.4.254:1300
+#EXTINF:-1 tvg-id="7244" tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="高清",爱上4k
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="高清",纯享4k
+http://ott.js.chinamobile.com/TVOD/3/224/3221228242/index.m3u8 $4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="高清",4K修复
+http://ott.js.chinamobile.com/TVOD/3/224/3221228141/index.m3u8 $4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="高清",南国都市4K
+https://aplay.gztv.com/sec/shenghuos.m3u8
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="高清",欢笑剧场4K
+http://ott.js.chinamobile.com/TVOD/3/224/3221227715/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="高清",LOVE4K
+http://177.20.208.58:8000/play/a03r/index.m3u8
+#EXTINF:-1 tvg-id="7251" tvg-name="广东综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVENT.png" group-title="高清",广东综艺4k
+http://112.74.200.9:88/tv000000/m3u8.php?/iTouchTV/1198
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="高清",北京IPTV4K
+http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+#EXTINF:-1 tvg-id="" tvg-name="求索生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSSH.png" group-title="高清",求索生活
+http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 tvg-id="6244" tvg-name="求索纪录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="高清",求索纪录
+http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
+#EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.png" group-title="高清",求索科学
+http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
+#EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.png" group-title="高清",求索动物
+http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
