@@ -27,25 +27,25 @@ http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
 #EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.png" group-title="高清",求索动物
 http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="高清",CHC动作电影
-http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHC家庭影院" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="高清",CHC家庭影院
-http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC0.jpg" group-title="高清",CHC高清电影
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC0.jpg" group-title="高清",CHC高清电影
 http://iptv.tvfix.org/hls/chchd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="极速汽车" tvg-logo="" group-title="高清",极速汽车高清
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="高清",CHC动作电影
+http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭影院" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="高清",CHC家庭影院
+http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
+#EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="高清",MAX极速汽车
 http://iptv.tvfix.org/hls/jsqchd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="劲爆体育" tvg-logo="" group-title="高清",劲爆体育高清
+#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="高清",劲爆体育
 http://iptv.tvfix.org/hls/jbtyhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="新视觉" tvg-logo="" group-title="高清",新视觉高清
+#EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="高清",新视觉
 http://iptv.tvfix.org/hls/xsjhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="魅力足球" tvg-logo="" group-title="高清",魅力足球高清
+#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="高清",魅力足球
 http://iptv.tvfix.org/hls/mlzqhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="游戏风云" tvg-logo="" group-title="高清",游戏风云高清
+#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="高清",游戏风云
 http://iptv.tvfix.org/hls/yxfyhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="全纪实" tvg-logo="" group-title="高清",全纪实高清
+#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="高清",全纪实
 http://iptv.tvfix.org/hls/qjshd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="纪实人文" tvg-logo="" group-title="高清",纪实人文高清
+#EXTINF:-1 tvg-id="1988" tvg-name="纪实人文" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="高清",纪实人文
 http://iptv.tvfix.org/hls/docuchina.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="足球频道" tvg-logo="" group-title="高清",足球频道
 http://iptv.tvfix.org/hls/zqhd.m3u8
@@ -97,9 +97,9 @@ http://iptv.tvfix.org/hls/rthk32.m3u8
 http://iptv.tvfix.org/hls/hkibc.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="香港",香港开电视
 http://iptv.tvfix.org/hls/opentv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVB经典台" tvg-logo="" group-title="香港",TVB经典台
+#EXTINF:-1 tvg-id="129" tvg-name="TVB经典台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" group-title="香港",TVB经典台
 http://iptv.tvfix.org/hls/tvbjd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVB经典台" tvg-logo="" group-title="香港",TVB经典台海外版
+#EXTINF:-1 tvg-id="129" tvg-name="TVB经典台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" group-title="香港",TVB经典台海外版
 http://iptv.tvfix.org/hls/tvbjdnhk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVB为食台" tvg-logo="" group-title="香港",TVB为食台
 http://iptv.tvfix.org/hls/tvbws.m3u8
@@ -149,7 +149,7 @@ http://59.125.101.187:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
 http://59.125.101.187:8578/http/60.251.39.91:8081/hls/68/810/ch31.m3u8
 #EXTINF:-1 tvg-id="7158" tvg-name="龙华日韩" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华日韩.png" group-title="台湾",龙华日韩
 http://59.125.101.187:8535/http/59.120.8.187:8066/hls/210/10011/cstv11.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="" group-title="海外",Discovery
+#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="海外",Discovery
 http://iptv.tvfix.org/hls/discovery.m3u8
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="海外",动物星球
 http://iptv.tvfix.org/hls/animal.m3u8
@@ -159,9 +159,9 @@ http://iptv.tvfix.org/hls/lovenature4k.m3u8
 http://iptv.tvfix.org/hls/lovenature4k2.m3u8
 #EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="海外",国家地理频道
 http://iptv.tvfix.org/hls/natlgeo.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NHK综合" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" group-title="海外",NHK综合
+#EXTINF:-1 tvg-id="6113" tvg-name="NHK综合" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" group-title="海外",NHK综合
 http://iptv.tvfix.org/hls/nhkg.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NHK综合" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" group-title="海外",NHK综合(第2声道)
+#EXTINF:-1 tvg-id="6113" tvg-name="NHK综合" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" group-title="海外",NHK综合(第2声道)
 http://iptv.tvfix.org/hls/nhkg2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHK教育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" group-title="海外",NHK教育
 http://iptv.tvfix.org/hls/nhke.m3u8
