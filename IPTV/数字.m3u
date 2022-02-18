@@ -47,16 +47,12 @@ http://iptv.tvfix.org/hls/yxfyhd.m3u8
 http://iptv.tvfix.org/hls/qjshd.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="纪实人文" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="高清",纪实人文
 http://iptv.tvfix.org/hls/docuchina.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="足球频道" tvg-logo="" group-title="高清",足球频道
-http://iptv.tvfix.org/hls/zqhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰卫视资讯台
 http://iptv.tvfix.org/hls/fhzx.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰卫视中文台
 http://iptv.tvfix.org/hls/fhzw.m3u8
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="香港",凤凰卫视香港台
 http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="凤凰电影" tvg-logo="" group-title="香港",凤凰电影
-http://iptv.tvfix.org/hls/fhdy.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="香港",翡翠台(第1声道繁体)
 http://iptv.tvfix.org/hls/jade.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="香港",翡翠台(第2声道简体)
@@ -135,6 +131,8 @@ http://iptv.tvfix.org/hls/tyjd.m3u8
 http://iptv.tvfix.org/hls/tyjd2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="星空卫视" tvg-logo="" group-title="香港",星空卫视
 http://iptv.tvfix.org/hls/startv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="凤凰电影" tvg-logo="" group-title="香港",凤凰电影
+http://iptv.tvfix.org/hls/fhdy.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Thrill" tvg-logo="" group-title="香港",Thrill
 http://iptv.tvfix.org/hls/thrill.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hands Up Channel" tvg-logo="" group-title="香港",Hands Up Channel
