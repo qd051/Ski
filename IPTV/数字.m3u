@@ -117,7 +117,7 @@ http://iptv.tvfix.org/hls/typd.m3u8
 http://iptv.tvfix.org/hls/typd2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="天映经典" tvg-logo="" group-title="高清",天映经典(粤语)
 http://iptv.tvfix.org/hls/tyjd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="天映经典" tvg-logo="" group-title="高清",天映经典
+#EXTINF:-1 tvg-id="" tvg-name="天映经典" tvg-logo="" group-title="高清",天映经典(普通话)
 http://iptv.tvfix.org/hls/tyjd2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="" group-title="高清",Animax
 http://iptv.tvfix.org/hls/animax.m3u8
@@ -169,6 +169,8 @@ http://iptv.tvfix.org/hls/channelv.m3u8
 http://iptv.tvfix.org/hls/startv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports" tvg-logo="" group-title="高清",Star Sports
 http://iptv.tvfix.org/hls/starsports.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="澳视卫星" tvg-logo="" group-title="高清",澳视卫星
+http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="三立都会" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png" group-title="高清",三立都会
 http://59.125.101.187:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="东风卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/东风卫视.png" group-title="高清",东风卫视
