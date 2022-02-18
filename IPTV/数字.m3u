@@ -95,6 +95,10 @@ http://iptv.tvfix.org/hls/rthk32.m3u8
 http://iptv.tvfix.org/hls/hkibc.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="香港",香港开电视
 http://iptv.tvfix.org/hls/opentv.m3u8
+#EXTINF:-1 tvg-id="412" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="香港",香港卫视
+https://al-pull2.hkatv.vip/live/hktv20210929.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="澳视卫星" tvg-logo="" group-title="香港",澳视卫星
+http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="香港",ViuTV
 http://iptv.tvfix.org/hls/viutv.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="香港",ViuTV(第2声道)
@@ -129,18 +133,14 @@ http://iptv.tvfix.org/hls/typd2.m3u8
 http://iptv.tvfix.org/hls/tyjd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="天映经典" tvg-logo="" group-title="香港",天映经典(普通话)
 http://iptv.tvfix.org/hls/tyjd2.m3u8
-#EXTINF:-1 tvg-id="412" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="香港",香港卫视
-https://al-pull2.hkatv.vip/live/hktv20210929.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="星空卫视" tvg-logo="" group-title="香港",星空卫视
 http://iptv.tvfix.org/hls/startv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="澳视卫星" tvg-logo="" group-title="香港",澳视卫星
-http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Thrill" tvg-logo="" group-title="香港",Thrill
+http://iptv.tvfix.org/hls/thrill.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hands Up Channel" tvg-logo="" group-title="香港",Hands Up Channel
 http://iptv.tvfix.org/hls/kid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hands Up Channel" tvg-logo="" group-title="香港",Hands Up Channel(第2声道)
 http://iptv.tvfix.org/hls/kid2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Thrill" tvg-logo="" group-title="香港",Thrill
-http://iptv.tvfix.org/hls/thrill.m3u8
 #EXTINF:-1 tvg-id="6048" tvg-name="三立都会" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png" group-title="台湾",三立都会
 http://59.125.101.187:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
 #EXTINF:-1 tvg-id="6055" tvg-name="东风卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/东风卫视.png" group-title="台湾",东风卫视
