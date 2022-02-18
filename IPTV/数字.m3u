@@ -57,9 +57,9 @@ http://iptv.tvfix.org/hls/jade2.m3u8
 http://iptv.tvfix.org/hls/jadenhk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="" group-title="高清",翡翠台海外版(普通话简体)
 http://iptv.tvfix.org/hls/jadenhk2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="J2" tvg-logo="" group-title="高清",J2
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="高清",J2
 http://iptv.tvfix.org/hls/j2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="J2" tvg-logo="" group-title="高清",J2(第2声道)
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="高清",J2(第2声道)
 http://iptv.tvfix.org/hls/j22.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="无线新闻台" tvg-logo="" group-title="高清",无线新闻台
 http://iptv.tvfix.org/hls/inews.m3u8
@@ -75,26 +75,25 @@ http://iptv.tvfix.org/hls/finance.m3u8
 http://iptv.tvfix.org/hls/finance2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="无线財經资讯台" tvg-logo="" group-title="高清",无线財經资讯台海外版
 http://iptv.tvfix.org/hls/financenhk.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ViuTV" tvg-logo="" group-title="高清",ViuTV
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="高清",ViuTV
 http://iptv.tvfix.org/hls/viutv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ViuTV" tvg-logo="" group-title="高清",ViuTV(第2声道)
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="高清",ViuTV(第2声道)
 http://iptv.tvfix.org/hls/viutv2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ViuTV6" tvg-logo="" group-title="高清",ViuTV6
+#EXTINF:-1 tvg-id="" tvg-name="ViuTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="高清",ViuTV6
 http://iptv.tvfix.org/hls/viutv6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTHK31" tvg-logo="" group-title="高清",RTHK31
 http://iptv.tvfix.org/hls/rthk31.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTHK32" tvg-logo="" group-title="高清",RTHK32
 http://iptv.tvfix.org/hls/rthk32.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HK国际财經台" tvg-logo="" group-title="高清",HK国际财經台
+#EXTINF:-1 tvg-id="7117" tvg-name="香港国际财经台" tvg-logo="" group-title="高清",香港国际财经台
 http://iptv.tvfix.org/hls/hkibc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HK开电视" tvg-logo="" group-title="高清",HK开电视
+#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="高清",香港开电视
 http://iptv.tvfix.org/hls/opentv.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="瞬间看地球" tvg-logo="" group-title="高清",瞬间看地球
 http://iptv.tvfix.org/hls/earth.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="美亚电影台" tvg-logo="" group-title="高清",美亚电影台(粤语)
+#EXTINF:-1 tvg-id="" tvg-name="美亚电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="高清",美亚电影台(粤语)
 http://iptv.tvfix.org/hls/mydy.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="美亚电影台" tvg-logo="" group-title="高清",美亚电影台(普通话)
+#EXTINF:-1 tvg-id="" tvg-name="美亚电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="高清",美亚电影台(普通话)
 http://iptv.tvfix.org/hls/mydy2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="天映频道" tvg-logo="" group-title="高清",天映频道(粤语)
 http://iptv.tvfix.org/hls/typd.m3u8
@@ -135,19 +134,19 @@ http://iptv.tvfix.org/hls/fhzx.m3u8
 http://iptv.tvfix.org/hls/fhzw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰电影" tvg-logo="" group-title="港台",凤凰电影
 http://iptv.tvfix.org/hls/fhdy.m3u8
-
-
+#EXTINF:-1 tvg-id="412" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="香港",香港卫视
+https://al-pull2.hkatv.vip/live/hktv20210929.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="星空卫视" tvg-logo="" group-title="香港",星空卫视
+http://iptv.tvfix.org/hls/startv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="澳视卫星" tvg-logo="" group-title="香港",澳视卫星
+http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel V" tvg-logo="" group-title="港台",Channel V
 http://iptv.tvfix.org/hls/channelv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="星空卫视" tvg-logo="" group-title="港台",星空卫视
-http://iptv.tvfix.org/hls/startv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="澳视卫星" tvg-logo="" group-title="港澳",澳视卫星
-http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="三立都会" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png" group-title="台湾",三立都会
+#EXTINF:-1 tvg-id="6048" tvg-name="三立都会" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png" group-title="台湾",三立都会
 http://59.125.101.187:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="东风卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/东风卫视.png" group-title="台湾",东风卫视
+#EXTINF:-1 tvg-id="6055" tvg-name="东风卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/东风卫视.png" group-title="台湾",东风卫视
 http://59.125.101.187:8578/http/60.251.39.91:8081/hls/68/810/ch31.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="龙华日韩" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华日韩.png" group-title="台湾",龙华日韩
+#EXTINF:-1 tvg-id="7158" tvg-name="龙华日韩" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华日韩.png" group-title="台湾",龙华日韩
 http://59.125.101.187:8535/http/59.120.8.187:8066/hls/210/10011/cstv11.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="" group-title="海外",Discovery
 http://iptv.tvfix.org/hls/discovery.m3u8
@@ -159,13 +158,13 @@ http://iptv.tvfix.org/hls/lovenature4k.m3u8
 http://iptv.tvfix.org/hls/lovenature4k2.m3u8
 #EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="海外",国家地理频道
 http://iptv.tvfix.org/hls/natlgeo.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NHK综合" tvg-logo="" group-title="海外",NHK综合
+#EXTINF:-1 tvg-id="" tvg-name="NHK综合" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" group-title="海外",NHK综合
 http://iptv.tvfix.org/hls/nhkg.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NHK综合" tvg-logo="" group-title="海外",NHK综合(第2声道)
+#EXTINF:-1 tvg-id="" tvg-name="NHK综合" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" group-title="海外",NHK综合(第2声道)
 http://iptv.tvfix.org/hls/nhkg2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NHK教育" tvg-logo="" group-title="海外",NHK教育
+#EXTINF:-1 tvg-id="" tvg-name="NHK教育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" group-title="海外",NHK教育
 http://iptv.tvfix.org/hls/nhke.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NHK教育" tvg-logo="" group-title="海外",NHK教育(第2声道)
+#EXTINF:-1 tvg-id="" tvg-name="NHK教育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" group-title="海外",NHK教育(第2声道)
 http://iptv.tvfix.org/hls/nhke2.m3u8
 #EXTINF:-1 tvg-id="7110" tvg-name="NHKWorldPremium" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/nhkworldp.png" group-title="海外",NHK WORLD Premium
 http://iptv.tvfix.org/hls/nhkworldpremium.m3u8
