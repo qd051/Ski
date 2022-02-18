@@ -151,14 +151,14 @@ http://59.125.101.187:8578/http/60.251.39.91:8081/hls/68/810/ch31.m3u8
 http://59.125.101.187:8535/http/59.120.8.187:8066/hls/210/10011/cstv11.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="" group-title="海外",Discovery
 http://iptv.tvfix.org/hls/discovery.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="动物星球" tvg-logo="" group-title="海外",动物星球
+#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="海外",动物星球
 http://iptv.tvfix.org/hls/animal.m3u8
+#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="海外",动物星球4K
+http://iptv.tvfix.org/hls/lovenature4k.m3u8
+#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="海外",动物星球4K(第2声道)
+http://iptv.tvfix.org/hls/lovenature4k2.m3u8
 #EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="海外",国家地理频道
 http://iptv.tvfix.org/hls/natlgeo.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Love Nature 4K" tvg-logo="" group-title="海外",Love Nature 4K
-http://iptv.tvfix.org/hls/lovenature4k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Love Nature 4K" tvg-logo="" group-title="海外",Love Nature 4K(第2声道)
-http://iptv.tvfix.org/hls/lovenature4k2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHK综合" tvg-logo="" group-title="海外",NHK综合
 http://iptv.tvfix.org/hls/nhkg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHK综合" tvg-logo="" group-title="海外",NHK综合(第2声道)
