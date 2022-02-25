@@ -193,8 +193,6 @@ http://iptv.tvfix.org/hls/financenhk.m3u8
 http://iptv.tvfix.org/hls/rthk31.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTHK32" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/320px-RTHK_TV_32.svg.png" group-title="港澳台",RTHK32
 http://iptv.tvfix.org/hls/rthk32.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTHK33" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_33.svg/320px-RTHK_TV_33.svg.png" group-title="港澳台",RTHK33
-http://iptv.tvfix.org/hls/cctv1hdhk.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="https://news.now.com/revamp2014/images/logo.png",Now新闻332台
 http://livetv.dnsfor.me:80/channel.4.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/320px-Now_Live_News_logo.svg.png",Now直播331台
