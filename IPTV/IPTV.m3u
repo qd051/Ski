@@ -299,6 +299,14 @@ http://iptv.tvfix.org/hls/nhkworldpremium.m3u8
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/240px-NHK_World.svg.png" group-title="海外",NHK WORLD TV(中文)
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="海外",CNN国际新闻频道
+http://iptv.tvfix.org/hls/cnn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC" tvg-logo="" group-title="海外",BBC新闻频道
+http://iptv.tvfix.org/hls/bbcnews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="乌克兰新闻频道" tvg-logo="" group-title="海外",乌克兰新闻频道
+http://iptv.tvfix.org/hls/prmua.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="俄罗斯电视台" tvg-logo="" group-title="海外",俄罗斯电视台
+http://iptv.tvfix.org/hls/russia24.m3u8
 #EXTINF:-1 tvg-id="7238" tvg-name="Animax" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="海外",Animax
 http://iptv.tvfix.org/hls/animax.m3u8
 #EXTINF:-1 tvg-id="7238" tvg-name="Animax" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="海外",Animax(第2声道)
