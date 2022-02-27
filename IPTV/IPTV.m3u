@@ -103,10 +103,6 @@ http://iptv.tvfix.org/hls/jlhd.m3u8
 http://iptv.tvfix.org/hls/lyhd.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视高清 
 http://iptv.tvfix.org/hls/gzhd.m3u8
-#EXTINF:-1 group-title="4K高清" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQqyS.png",纯享4K
-http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-#EXTINF:-1 group-title="4K高清" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQqyS.png",纯享4K
-http://39.134.155.159:8080/PLTV/88888888/224/3221225670/index.m3u8
 #EXTINF:-1 tvg-id="7244" tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="高清",爱上4k
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="高清",南国都市4K
@@ -293,7 +289,7 @@ http://iptv.tvfix.org/hls/lovenature4k2.m3u8
 http://iptv.tvfix.org/hls/natlgeo.m3u8
 #EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="海外",国家地理频道(第2声道)
 http://iptv.tvfix.org/hls/natlgeo2.m3u8
-#EXTINF:-1 group-title="4K高清" tvg-logo="https://s3.jpg.cm/2021/09/15/Isl4O5.png",LOVE4K
+#EXTINF:-1 tvg-id="" tvg-name="LOVE4K" tvg-logo="https://s3.jpg.cm/2021/09/15/Isl4O5.png" group-title="海外",LOVE4K
 http://177.20.208.58:8000/play/a03r/index.m3u8
 #EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="海外",tvN
 http://iptv.tvfix.org/hls/tvn.m3u8
