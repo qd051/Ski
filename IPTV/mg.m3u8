@@ -1,62 +1,113 @@
-CCTV1,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233151/index.m3u8
-CCTV1,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231468/index.m3u8
-CCTV2,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231678/index.m3u8
-CCTV2,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233071/index.m3u8
-CCTV3,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231682/index.m3u8
-CCTV4,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231726/index.m3u8
-CCTV4欧洲,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231654/index.m3u8
-CCTV5,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233115/index.m3u8
-CCTV5,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231702/index.m3u8
-CCTV5,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221232440/index.m3u8
-CCTV5+,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231459/index.m3u8
-CCTV5+,
-CCTV6,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231724/index.m3u8
-CCTV7,
-CCTV8,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231694/index.m3u8
-CCTV9,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231697/index.m3u8
-CCTV10,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231666/index.m3u8 
-CCTV10,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221232492/index.m3u8            
-CCTV11,
-CCTV12,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231660/index.m3u8
-CCTV13,
-CCTV14,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231648/index.m3u8
-CCTV15,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231693/index.m3u8
-CCTV16,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233409/index.m3u8
-CCTV16,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233410/index.m3u8
-CCTV16,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233442/index.m3u8
-CCTV16,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233403/index.m3u8
-CCTV16,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233392/index.m3u8
-CCTV16,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233398/index.m3u8
-CCTV17,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231772/index.m3u8
-CCTV16,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233406/index.m3u8
-CCTV4K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233454/index.m3u8
-CCTV4K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233400/index.m3u8
-CCTV8K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233413/index.m3u8
-CCTV8K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233404/index.m3u8
-CCTV8K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233350/index.m3u8
-CCTV4欧洲,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231615/index.m3u8
-CCTV4欧洲,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231654/index.m3u8
-江苏卫视,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231447/index.m3u8
-湖南卫视],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231729/index.m3u8
-北京卫视,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231732/index.m3u8
-东方卫视,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231738/index.m3u8
-辽宁卫视,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231802/index.m3u8
-湖北卫视,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231888/index.m3u8
-四川卫视,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231885/index.m3u8
-广东卫视,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231891/index.m3u8
-黑龙江卫视,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231967/index.m3u8
-江西卫视,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231964/index.m3u8
-咪咕超清直播,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221232969/index.m3u8
-咪咕高清直播,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221232984/index.m3u8
-围棋,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221232440/index.m3u8
-CHC家庭影院,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231799/index.m3u8
-CETV1,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231714/index.m3u8
-幸福彩,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231730/index.m3u8
-足球,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221232593/index.m3u8
-足球,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221232590/index.m3u8
-诗词,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221232602/index.m3u8
-冬奥纪实,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233401/index.m3u8
-冬奥纪实,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233356/index.m3u8
-冬奥纪实,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233044/index.m3u8
-冬奥纪实,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233353/index.m3u8
-纪实人文,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231612/index.m3u8
+#EXTM3U
+#EXTINF:-1 ,Unknown_1
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233151/index.m3u8
+#EXTINF:-1 ,Unknown_2
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231468/index.m3u8
+#EXTINF:-1 ,Unknown_3
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231678/index.m3u8
+#EXTINF:-1 ,Unknown_4
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233071/index.m3u8
+#EXTINF:-1 ,Unknown_5
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231682/index.m3u8
+#EXTINF:-1 ,Unknown_6
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231726/index.m3u8
+#EXTINF:-1 ,Unknown_7
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231654/index.m3u8
+#EXTINF:-1 ,Unknown_8
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233115/index.m3u8
+#EXTINF:-1 ,Unknown_9
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231702/index.m3u8
+#EXTINF:-1 ,Unknown_10
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221232440/index.m3u8
+#EXTINF:-1 ,Unknown_11
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231459/index.m3u8
+#EXTINF:-1 ,Unknown_12
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231724/index.m3u8
+#EXTINF:-1 ,Unknown_13
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231694/index.m3u8
+#EXTINF:-1 ,Unknown_14
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231697/index.m3u8
+#EXTINF:-1 ,Unknown_15
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231666/index.m3u8
+#EXTINF:-1 ,Unknown_16
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221232492/index.m3u8
+#EXTINF:-1 ,Unknown_17
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231660/index.m3u8
+#EXTINF:-1 ,Unknown_18
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231648/index.m3u8
+#EXTINF:-1 ,Unknown_19
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231693/index.m3u8
+#EXTINF:-1 ,Unknown_20
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233409/index.m3u8
+#EXTINF:-1 ,Unknown_21
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233410/index.m3u8
+#EXTINF:-1 ,Unknown_22
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233442/index.m3u8
+#EXTINF:-1 ,Unknown_23
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233403/index.m3u8
+#EXTINF:-1 ,Unknown_24
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233392/index.m3u8
+#EXTINF:-1 ,Unknown_25
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233398/index.m3u8
+#EXTINF:-1 ,Unknown_26
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231772/index.m3u8
+#EXTINF:-1 ,Unknown_27
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233406/index.m3u8
+#EXTINF:-1 ,Unknown_28
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233454/index.m3u8
+#EXTINF:-1 ,Unknown_29
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233400/index.m3u8
+#EXTINF:-1 ,Unknown_30
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233413/index.m3u8
+#EXTINF:-1 ,Unknown_31
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233404/index.m3u8
+#EXTINF:-1 ,Unknown_32
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233350/index.m3u8
+#EXTINF:-1 ,Unknown_33
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231615/index.m3u8
+#EXTINF:-1 ,Unknown_35
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231447/index.m3u8
+#EXTINF:-1 ,Unknown_36
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231729/index.m3u8
+#EXTINF:-1 ,Unknown_37
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231732/index.m3u8
+#EXTINF:-1 ,Unknown_38
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231738/index.m3u8
+#EXTINF:-1 ,Unknown_39
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231802/index.m3u8
+#EXTINF:-1 ,Unknown_40
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231888/index.m3u8
+#EXTINF:-1 ,Unknown_41
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231885/index.m3u8
+#EXTINF:-1 ,Unknown_42
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231891/index.m3u8
+#EXTINF:-1 ,Unknown_43
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231967/index.m3u8
+#EXTINF:-1 ,Unknown_44
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231964/index.m3u8
+#EXTINF:-1 ,Unknown_45
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221232969/index.m3u8
+#EXTINF:-1 ,Unknown_46
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221232984/index.m3u8
+#EXTINF:-1 ,Unknown_48
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231799/index.m3u8
+#EXTINF:-1 ,Unknown_49
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231714/index.m3u8
+#EXTINF:-1 ,Unknown_50
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231730/index.m3u8
+#EXTINF:-1 ,Unknown_51
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221232593/index.m3u8
+#EXTINF:-1 ,Unknown_52
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221232590/index.m3u8
+#EXTINF:-1 ,Unknown_53
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221232602/index.m3u8
+#EXTINF:-1 ,Unknown_54
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233401/index.m3u8
+#EXTINF:-1 ,Unknown_55
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233356/index.m3u8
+#EXTINF:-1 ,Unknown_56
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233044/index.m3u8
+#EXTINF:-1 ,Unknown_57
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233353/index.m3u8
+#EXTINF:-1 ,Unknown_58
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231612/index.m3u8
