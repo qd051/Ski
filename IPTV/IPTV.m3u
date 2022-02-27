@@ -106,8 +106,6 @@ http://iptv.tvfix.org/hls/gzhd.m3u8
 #EXTINF:-1 tvg-id="7244" tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="高清",爱上4k
 http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="高清",南国都市4K
-https://aplay.gztv.com/sec/shenghuos.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="高清",南国都市4K
 http://ye23.win/iptv/gztv.php?id=shenghuo
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="高清",欢笑剧场4K
 http://117.148.179.168/PLTV/88888888/224/3221230739/index.m3u8
