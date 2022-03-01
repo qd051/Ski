@@ -340,7 +340,7 @@ http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="地方",上视新闻频道
 http://iptv.tvfix.org/hls/shxwzhhd.m3u8
 #EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="地方",东方影视
-http://iptv.tvfix.org/hls/shxwzhhd.m3u8
+http://iptv.tvfix.org/hls/shdfyshd.m3u8
 #EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="地方",上海都市频道
 http://iptv.tvfix.org/hls/shdspdhd.m3u8
 #EXTINF:-1 tvg-id="1991" tvg-name="上视外语频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="地方",上视外语频道
@@ -352,7 +352,7 @@ http://iptv.tvfix.org/hls/brtv11hd.m3u8
 #EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E6%96%87%E8%89%BA.png" group-title="地方",BTV文艺 
 http://iptv.tvfix.org/hls/brtv2hd.m3u8
 #EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E7%A7%91%E6%95%99.png" group-title="地方",BTV科教
-http://iptv.tvfix.org/hls/brtv2hd.m3u8
+http://iptv.tvfix.org/hls/brtv3hd.m3u8
 #EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E5%BD%B1%E8%A7%86.png" group-title="地方",BTV影视
 http://iptv.tvfix.org/hls/brtv4hd.m3u8
 #EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E8%B4%A2%E7%BB%8F.png" group-title="地方",BTV财经
