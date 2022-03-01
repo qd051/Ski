@@ -1,0 +1,117 @@
+#EXTM3U
+#EXTINF:-1 ,Unknown_4
+http://iptv.tvfix.org/hls/jade.m3u8
+#EXTINF:-1 ,Unknown_14
+https://api.leonardpark.dev/live/icable/109
+#EXTINF:-1 ,Unknown_15
+https://api.leonardpark.dev/live/icable/108
+#EXTINF:-1 ,Unknown_16
+https://api.leonardpark.dev/live/icable/110
+#EXTINF:-1 ,Unknown_17
+https://api.leonardpark.dev/live/now/331
+#EXTINF:-1 ,Unknown_34
+http://seb.sason.top/ptv/ftv.php?id=ms
+#EXTINF:-1 ,Unknown_62
+http://iptv.tvfix.org/hls/inews.m3u8
+#EXTINF:-1 ,Unknown_64
+http://iptv.tvfix.org/hls/jade2.m3u8
+#EXTINF:-1 ,Unknown_65
+http://iptv.tvfix.org/hls/jadenhk.m3u8
+#EXTINF:-1 ,Unknown_66
+http://iptv.tvfix.org/hls/jadenhk2.m3u8
+#EXTINF:-1 ,Unknown_67
+http://iptv.tvfix.org/hls/tvbjd.m3u8
+#EXTINF:-1 ,Unknown_68
+http://iptv.tvfix.org/hls/tvbws.m3u8
+#EXTINF:-1 ,Unknown_70
+http://iptv.tvfix.org/hls/mydy.m3u8
+#EXTINF:-1 ,Unknown_71
+http://iptv.tvfix.org/hls/mydy2.m3u8
+#EXTINF:-1 ,Unknown_72
+http://iptv.tvfix.org/hls/j2.m3u8
+#EXTINF:-1 ,Unknown_73
+http://iptv.tvfix.org/hls/j22.m3u8
+#EXTINF:-1 ,Unknown_74
+http://iptv.tvfix.org/hls/pearl.m3u8
+#EXTINF:-1 ,Unknown_76
+http://iptv.tvfix.org/hls/finance.m3u8
+#EXTINF:-1 ,Unknown_77
+http://iptv.tvfix.org/hls/finance2.m3u8
+#EXTINF:-1 ,Unknown_78
+http://iptv.tvfix.org/hls/financenhk.m3u8
+#EXTINF:-1 ,Unknown_79
+http://iptv.tvfix.org/hls/tvbs.m3u8
+#EXTINF:-1 ,Unknown_80
+http://iptv.tvfix.org/hls/tvbsnews.m3u8
+#EXTINF:-1 ,Unknown_81
+http://iptv.tvfix.org/hls/channelv.m3u8
+#EXTINF:-1 ,Unknown_83
+http://iptv.tvfix.org/hls/thrill2.m3u8
+#EXTINF:-1 ,Unknown_161
+http://seb.sason.top/sc/tsxw_fhd.m3u8
+#EXTINF:-1 ,Unknown_164
+http://seb.sason.top/sc/msxw_fhd.m3u8
+#EXTINF:-1 ,Unknown_168
+http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1 ,Unknown_169
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 ,Unknown_170
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1 ,Unknown_171
+http://seb.sason.top/sc/slinews_fhd.m3u8
+#EXTINF:-1 ,Unknown_172
+http://seb.sason.top/sc/sllive_fhd.m3u8
+#EXTINF:-1 ,Unknown_173
+http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
+#EXTINF:-1 ,Unknown_174
+http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
+#EXTINF:-1 ,Unknown_178
+http://211.23.114.106:8541/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
+#EXTINF:-1 ,Unknown_179
+http://211.23.114.106:8542/http/60.251.39.91:8081/hls/73/815/ch51.m3u8
+#EXTINF:-1 ,Unknown_180
+http://211.23.114.106:8543/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
+#EXTINF:-1 ,Unknown_182
+http://211.23.114.106:8547/http/116.50.42.19:8081/hls/76/818/ch62.m3u8
+#EXTINF:-1 ,Unknown_183
+http://211.23.114.106:8548/http/116.50.42.19:8081/hls/66/808/ch24.m3u8
+#EXTINF:-1 ,Unknown_184
+http://211.23.114.106:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
+#EXTINF:-1 ,Unknown_189
+http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
+#EXTINF:-1 ,Unknown_190
+http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
+#EXTINF:-1 ,Unknown_191
+http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
+#EXTINF:-1 ,Unknown_192
+http://211.23.114.106:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8
+#EXTINF:-1 ,Unknown_193
+http://211.23.114.106:8505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8
+#EXTINF:-1 ,Unknown_194
+http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
+#EXTINF:-1 ,Unknown_195
+http://211.23.114.106:8521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
+#EXTINF:-1 ,Unknown_196
+http://211.23.114.106:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
+#EXTINF:-1 ,Unknown_197
+http://211.23.114.106:8514/http/60.251.39.91:8081/hls/62/804/ch05.m3u8
+#EXTINF:-1 ,Unknown_198
+http://211.23.114.106:8524/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
+#EXTINF:-1 ,Unknown_199
+http://211.23.114.106:8525/http/60.251.39.91:8081/hls/64/806/ch14.m3u8
+#EXTINF:-1 ,Unknown_200
+http://211.23.114.106:8526/http/60.251.39.91:8081/hls/67/809/ch25.m3u8
+#EXTINF:-1 ,Unknown_201
+http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
+#EXTINF:-1 ,Unknown_232
+http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
+#EXTINF:-1 ,Unknown_233
+http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
+#EXTINF:-1 ,Unknown_234
+http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+#EXTINF:-1 ,Unknown_235
+http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8
+#EXTINF:-1 ,Unknown_236
+http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
+#EXTINF:-1 ,Unknown_237
+http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/index.m3u8
