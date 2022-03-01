@@ -43,8 +43,6 @@ https://p.ggiptv.com/v/4k.m3u8
 http://iptv.tvfix.org/hls/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV奥林匹克频道HDR
 http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV奥林匹克频道4K
-http://171.116.46.83:9090/live/cctv164k/hls.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV奥林匹克频道4KHDR
 http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8K" tvg-logo="" group-title="央视", CCTV-8超高清
