@@ -220,9 +220,9 @@ http://iptv.tvfix.org/hls/hbo.m3u8
 #EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="海外",HBO(第2声道原声)
 http://iptv.tvfix.org/hls/hbo2.m3u8
 #EXTINF:-1 tvg-id="6153" tvg-name="HBO Hits" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="海外",HBO Hits(第1声道粤语)
-http://iptv.tvfix.org/hls/hbo.m3u8
+http://iptv.tvfix.org/hls/hbohits.m3u8
 #EXTINF:-1 tvg-id="6153" tvg-name="HBO Hits" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="海外",HBO Hits(第2声道原声)
-http://iptv.tvfix.org/hls/hbo2.m3u8
+http://iptv.tvfix.org/hls/hbohits2.m3u8
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="海外",Discovery
 http://iptv.tvfix.org/hls/discovery.m3u8
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="海外",动物星球
