@@ -427,3 +427,11 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225666/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225713/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV动作电影" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvdongzuo.jpg" group-title="NewTV", NewTV动作电影
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 ,CIBN微电影
+http://211.94.219.178:18080/PLTV/68/224/3221226441/index.m3u8
+#EXTINF:-1 ,CIBN流金岁月
+http://211.94.219.178:18080/PLTV/68/224/3221226425/index.m3u8
+#EXTINF:-1 ,CIBN经典剧场
+http://211.94.219.178:18080/PLTV/68/224/3221226402/index.m3u8
+#EXTINF:-1 ,CIBN骄阳剧场
+http://211.94.219.178:18080/PLTV/68/224/3221226423/index.m3u8
