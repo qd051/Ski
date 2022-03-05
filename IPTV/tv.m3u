@@ -187,8 +187,6 @@ http://iptv.tvfix.org/hls/startv.m3u8
 http://iptv.tvfix.org/hls/fhdy.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Thrill" tvg-logo="http://www.tvyan.com/uploads/dianshi/thrill.jpg" group-title="港澳台",Thrill
 http://iptv.tvfix.org/hls/thrill.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="C+" tvg-logo="" group-title="港澳台",C+
-http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="创世电视" tvg-logo="http://www.tvyan.com/uploads/dianshi/creation.jpg" group-title="港澳台",创世电视
 https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="澳视澳门" tvg-logo="http://www.tvyan.com/uploads/dianshi/tdmaomen.jpg" group-title="港澳台",澳视澳门
@@ -442,5 +440,3 @@ http://39.134.184.95:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221
 http://39.134.184.95:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229666/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="NewTV怡伴健康" tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjiankang.jpg" group-title="NewTV", NewTV怡伴健康
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225666/index.m3u8
-C+-影视,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/01.m3u8
-香港C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
