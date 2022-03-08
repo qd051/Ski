@@ -279,10 +279,12 @@ http://iptv.tvfix.org/hls/lovenature4k2.m3u8
 http://iptv.tvfix.org/hls/natlgeo.m3u8
 #EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="海外",国家地理频道(第2声道)
 http://iptv.tvfix.org/hls/natlgeo2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LOVE4K" tvg-logo="https://s3.jpg.cm/2021/09/15/Isl4O5.png" group-title="海外",LOVE4K
-http://177.20.208.58:8000/play/a03r/index.m3u8
 #EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="海外",tvN
 http://iptv.tvfix.org/hls/tvn.m3u8
+#EXTINF:-1 tvg-id="7238" tvg-name="Animax" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="海外",Animax
+http://iptv.tvfix.org/hls/animax.m3u8
+#EXTINF:-1 tvg-id="7238" tvg-name="Animax" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="海外",Animax(第2声道)
+http://iptv.tvfix.org/hls/animax2.m3u8
 #EXTINF:-1 tvg-id="6113" tvg-name="NHK综合" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" group-title="海外",NHK综合
 http://iptv.tvfix.org/hls/nhkg.m3u8
 #EXTINF:-1 tvg-id="6113" tvg-name="NHK综合" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" group-title="海外",NHK综合(第2声道)
@@ -299,20 +301,28 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="亚洲新闻" tvg-logo="" group-title="海外",亚洲新闻
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="海外",CNN国际新闻频道
-http://iptv.tvfix.org/hls/cnn.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBC" tvg-logo="" group-title="海外",BBC新闻频道
-http://iptv.tvfix.org/hls/bbcnews.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="乌克兰新闻频道" tvg-logo="" group-title="海外",乌克兰新闻频道
 http://iptv.tvfix.org/hls/prmua.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="俄罗斯电视台24频道" tvg-logo="" group-title="海外",俄罗斯电视台24频道
 http://iptv.tvfix.org/hls/russia24.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="今日俄罗斯电视台" tvg-logo="" group-title="海外",今日俄罗斯电视台
 http://iptv.tvfix.org/hls/rt.m3u8
-#EXTINF:-1 tvg-id="7238" tvg-name="Animax" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="海外",Animax
-http://iptv.tvfix.org/hls/animax.m3u8
-#EXTINF:-1 tvg-id="7238" tvg-name="Animax" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="海外",Animax(第2声道)
-http://iptv.tvfix.org/hls/animax2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="海外",CNN国际新闻频道
+http://iptv.tvfix.org/hls/cnn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC" tvg-logo="" group-title="海外",BBC新闻频道
+http://iptv.tvfix.org/hls/bbcnews.m3u8
+#EXTINF:-1 group-title="海外",NBC NEWS FHD
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+#EXTINF:-1 group-title="海外" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png",DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 group-title="海外" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png",ABCNEWS
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 group-title="海外" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png",ABC Australia HD
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 group-title="海外" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png",euronews
+https://goiptv.site/redir.php?acesso=79a7eb5929ce59fdaa0adab245f43c58&usuario=4cfa45c64eafb1da9fe4f3e2947e8061
+#EXTINF:-1 group-title="海外" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png",France24
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="瞬间看地球" tvg-logo="" group-title="海外",瞬间看地球
 http://iptv.tvfix.org/hls/earth.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="海外",FTV4
