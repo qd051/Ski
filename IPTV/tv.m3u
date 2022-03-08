@@ -201,10 +201,8 @@ http://iptv.tvfix.org/hls/thrill.m3u8
 https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="澳视澳门" tvg-logo="http://www.tvyan.com/uploads/dianshi/tdmaomen.jpg" group-title="港澳台",澳视澳门
 http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="澳视Macau" tvg-logo="" group-title="港澳台",澳视Macau
+#EXTINF:-1 tvg-id="" tvg-name="澳视葡语" tvg-logo="" group-title="港澳台",澳视葡语
 http://103.233.191.132:1935/ch2/ch2.live/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",澳门macau
-http://124.238.99.44:808/hls/357/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="澳视卫星" tvg-logo="" group-title="港澳台",澳视卫星
 http://103.233.191.132:1935/ch3/ch3.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="澳门资讯" tvg-logo="http://www.tvyan.com/uploads/dianshi/tdmzxt.jpg" group-title="港澳台",澳门资讯
