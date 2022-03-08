@@ -39,14 +39,18 @@ http://iptv.tvfix.org/hls/cctv4k.m3u8
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视", CCTV-4KHDR
 https://p.ggiptv.com/v/4k.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视", CCTV-4K HDR
+http://ye23.win/iptv/4k.cctv.php
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV奥林匹克频道
 http://39.134.115.163:8080/PLTV/88888910/224/3221226233/index.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV奥林匹克频道HDR
 http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV奥林匹克频道4KHDR
 http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8K" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8k.jpg" group-title="央视", CCTV-8超高清
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8K" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8k.jpg" group-title="央视", CCTV-8K超高清
 http://117.148.179.146/PLTV/88888888/224/3221233413/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8K" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8k.jpg" group-title="央视", CCTV8K超高清
+http://117.148.179.157/PLTV/88888888/224/3221233350/index.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
 http://iptv.tvfix.org/hls/cgtnhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN法语
@@ -190,13 +194,19 @@ http://iptv.tvfix.org/hls/thrill.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="创世电视" tvg-logo="http://www.tvyan.com/uploads/dianshi/creation.jpg" group-title="港澳台",创世电视
 https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="澳视澳门" tvg-logo="http://www.tvyan.com/uploads/dianshi/tdmaomen.jpg" group-title="港澳台",澳视澳门
-http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="澳视Macau" tvg-logo="" group-title="港澳台",澳视Macau
-http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="澳视Macau" tvg-logo="http://www.tvyan.com/uploads/dianshi/tdmzxt.jpg" group-title="港澳台",澳门资讯
-http://61.244.22.5/ch5/info_ch5.live/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="澳视卫星" tvg-logo="http://www.tvyan.com/uploads/dianshi/aoshi.jpg" group-title="港澳台",澳视葡文
-http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+http://103.233.191.132:1935/ch2/ch2.live/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",澳门macau
+http://124.238.99.44:808/hls/357/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="澳视卫星" tvg-logo="" group-title="港澳台",澳视卫星
+http://103.233.191.132:1935/ch3/ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="澳门资讯" tvg-logo="http://www.tvyan.com/uploads/dianshi/tdmzxt.jpg" group-title="港澳台",澳门资讯
+http://103.233.191.133:1935/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",澳视综艺
+http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",澳视体育
+http://103.233.191.132:1935/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-id="476" tvg-name="澳亚卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/澳亚卫视.png" group-title="港澳台",澳亚卫视
 http://live.mastvnet.com:800/4rlff1m/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hands Up Channel" tvg-logo="" group-title="港澳台",Hands Up Channel
@@ -283,10 +293,16 @@ http://iptv.tvfix.org/hls/animax.m3u8
 http://iptv.tvfix.org/hls/animax2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="瞬间看地球" tvg-logo="" group-title="海外",瞬间看地球
 http://iptv.tvfix.org/hls/earth.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="海外",FTV4
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports" tvg-logo="" group-title="海外",Star Sports
 http://iptv.tvfix.org/hls/starsports.m3u8
-
-
+#EXTINF:-1 group-title="海外",Dubai Sports 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8?
+#EXTINF:-1 group-title="海外",Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="海外",Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://www.tvyan.com/uploads/dianshi/chchd.jpg" group-title="地方",CHC高清电影
 http://iptv.tvfix.org/hls/chchd.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC家庭影院 
