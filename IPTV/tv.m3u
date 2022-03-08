@@ -283,8 +283,6 @@ http://iptv.tvfix.org/hls/animax.m3u8
 http://iptv.tvfix.org/hls/animax2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="瞬间看地球" tvg-logo="" group-title="海外",瞬间看地球
 http://iptv.tvfix.org/hls/earth.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Channel V" tvg-logo="http://www.tvyan.com/uploads/dianshi/channelv.jpg" group-title="海外",Channel V
-http://iptv.tvfix.org/hls/channelv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports" tvg-logo="" group-title="海外",Star Sports
 http://iptv.tvfix.org/hls/starsports.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://www.tvyan.com/uploads/dianshi/chchd.jpg" group-title="地方",CHC高清电影
@@ -522,4 +520,32 @@ http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",每日薦影
 http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字",武俠劇場
+#EXTINF:-1 tvg-id="" tvg-name="Channel V" tvg-logo="http://www.tvyan.com/uploads/dianshi/channelv.jpg" group-title="音乐",Channel V
+http://iptv.tvfix.org/hls/channelv.m3u8
 http://117.148.179.160/PLTV/88888888/224/3221231763/index.m3u8
+#EXTINF:-1 group-title="音乐",HD音樂頻道
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="音乐",otpaha
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="音乐",HONOE音樂
+http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
+#EXTINF:-1 group-title="音乐",V2BEAT
+http://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 group-title="音乐",Sexy K-Pop
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:-1 group-title="音乐",DJT
+https://srv1.adriatelekom.com/DJTelevision/index.m3u8
+#EXTINF:-1 group-title="音乐",M2O音乐台
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1 group-title="音乐",MTV Yo!
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+#EXTINF:-1 group-title="音乐",MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 group-title="音乐",MTV Block Party
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:-1 group-title="音乐",MTV Spankin\' New
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+#EXTINF:-1 group-title="音乐",MTV WMA
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+#EXTINF:-1 group-title="音乐",CMT Equal Play
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
