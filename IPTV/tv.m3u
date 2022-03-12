@@ -325,23 +325,23 @@ http://iptv.tvfix.org/hls/prmua.m3u8
 http://iptv.tvfix.org/hls/russia24.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="今日俄罗斯电视台" tvg-logo="" group-title="海外",今日俄罗斯电视台
 http://iptv.tvfix.org/hls/rt.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="海外",CNN国际新闻频道
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="海外",CNN 国际新闻频道
 http://iptv.tvfix.org/hls/cnn.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBC" tvg-logo="" group-title="海外",BBC新闻频道
+#EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="海外",BBC 国际新闻频道
 http://iptv.tvfix.org/hls/bbcnews.m3u8
 #EXTINF:-1 group-title="海外",NBC News
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 #EXTINF:-1 group-title="海外" tvg-logo="https://www.hualigs.cn/image/61559500202ef.jpg",FOX NewsNOW
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="海外" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png",DW
+#EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="海外",DW德国之声
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 group-title="海外" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png",ABC News US
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="海外",ABC News US
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 group-title="海外" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png",ABC Australia
+#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="海外",ABCAustralia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 group-title="海外" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png",Euronews
+#EXTINF:-1 tvg-id="6183" tvg-name="Euronews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png" group-title="海外",欧洲新闻
 https://goiptv.site/redir.php?acesso=79a7eb5929ce59fdaa0adab245f43c58&usuario=4cfa45c64eafb1da9fe4f3e2947e8061
-#EXTINF:-1 group-title="海外" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png",France24
+#EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="海外",法国24台
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:-1 group-title="海外" tvg-logo="https://www.hualigs.cn/image/61559410220b4.jpg",Cheddar Big News
 https://live.chdrstatic.com/cbn/index.m3u
