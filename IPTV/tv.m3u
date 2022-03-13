@@ -485,8 +485,6 @@ http://ye23.win/iptv/gztv.php?id=shenghuo
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",LoveNature4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="4K",Clarity4K
-https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="求索纪录4K" tvg-logo="https://raw.githubusercontent.com/qd051/Ski/master/IPTV/Qiusuo5.png" group-title="4K",求索纪录4K
 http://39.134.184.95:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232776/42330389.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="百视通4K" tvg-logo="" group-title="4K",百视通4K
