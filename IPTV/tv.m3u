@@ -335,18 +335,10 @@ http://59.125.101.187:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
 http://59.125.101.187:8578/http/60.251.39.91:8081/hls/68/810/ch31.m3u8
 #EXTINF:-1 tvg-id="7158" tvg-name="龙华日韩" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华日韩.png" group-title="港澳台",龙华日韩
 http://59.125.101.187:8535/http/59.120.8.187:8066/hls/210/10011/cstv11.m3u8
-#EXTINF:-1 group-title="港澳台",民视影剧
-http://seb.sason.top/ptv/ftv.php?id=yj
-#EXTINF:-1  tvg-id="7145" tvg-name="民视综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-zongyi.png" group-title="港澳台",民视综艺
-http://seb.sason.top/ptv/ftv.php?id=zy
-#EXTINF:-1 group-title="港澳台",民视旅游
-http://seb.sason.top/ptv/ftv.php?id=ly
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港澳台",民视新闻
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="港澳台",寰宇新闻
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
-#EXTINF:-1 group-title="港澳台",中天新闻
-http://seb.sason.top/sc/ztxw_fhd.m3u8
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港澳台",东森新闻
 http://seb.sason.top/sc/dsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="港澳台",东森财经新闻
