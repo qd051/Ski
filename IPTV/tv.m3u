@@ -235,12 +235,12 @@ http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 #EXTINF:-1 group-title="IHOT",IHOT-Y+
 http://117.148.179.160/PLTV/88888888/224/3221230226/index.m3u8
+#EXTINF:-1 group-title="轮播",电影台
+http://data.3g.yy.com/live/hls/29900720/29900720
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰卫视资讯台
 http://iptv.tvfix.org/hls/fhzx.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰卫视中文台
 http://iptv.tvfix.org/hls/fhzw.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰卫视香港台
-http://iptv.tvfix.org/hls/fhxg.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港澳台",翡翠台(第1声道繁体)
 http://iptv.tvfix.org/hls/jade.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港澳台",翡翠台(第2声道简体)
@@ -285,8 +285,6 @@ https://api.leonardpark.dev/live/icable/108
 https://api.leonardpark.dev/live/icable/110
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳台",香港开电视
 http://iptv.tvfix.org/hls/opentv.m3u8
-#EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港澳台",香港卫视
-https://al-pull2.hkatv.vip/live/hktv20210929.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV
 http://iptv.tvfix.org/hls/viutv.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV(第2声道)
@@ -323,26 +321,10 @@ http://iptv.tvfix.org/hls/startv.m3u8
 http://iptv.tvfix.org/hls/fhdy.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Thrill" tvg-logo="http://www.tvyan.com/uploads/dianshi/thrill.jpg" group-title="港澳台",Thrill
 http://iptv.tvfix.org/hls/thrill.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="澳视澳门" tvg-logo="http://www.tvyan.com/uploads/dianshi/tdmaomen.jpg" group-title="港澳台",澳视澳门
-http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="澳视葡语" tvg-logo="" group-title="港澳台",澳视葡语
-http://103.233.191.132:1935/ch2/ch2.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="澳视卫星" tvg-logo="" group-title="港澳台",澳视卫星
-http://103.233.191.132:1935/ch3/ch3.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="澳门资讯" tvg-logo="http://www.tvyan.com/uploads/dianshi/tdmzxt.jpg" group-title="港澳台",澳门资讯
-http://103.233.191.133:1935/ch5/info_ch5.live/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",澳视综艺
-http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",澳视体育
-http://103.233.191.132:1935/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 tvg-id="476" tvg-name="澳亚卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/澳亚卫视.png" group-title="港澳台",澳亚卫视
-http://live.mastvnet.com:800/4rlff1m/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hands Up Channel" tvg-logo="" group-title="港澳台",Hands Up Channel
 http://iptv.tvfix.org/hls/kid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hands Up Channel" tvg-logo="" group-title="港澳台",Hands Up Channel(第2声道)
 http://iptv.tvfix.org/hls/kid2.m3u8
-#EXTINF:-1 group-title="港澳台",星卫电影台
-http://data.3g.yy.com/live/hls/29900720/29900720
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="港澳台",TVBS亚洲台 
 http://iptv.tvfix.org/hls/tvbs.m3u8
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港澳台",TVBS新闻台 
