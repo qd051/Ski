@@ -250,8 +250,6 @@ http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=zsxw
 #EXTINF:-1 tvg-id="6143" tvg-name="台视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="港澳台",台视新闻
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
-#EXTINF:-1 tvg-id="" tvg-name="亞洲旅遊台" tvg-logo="" group-title="港澳台",亞洲旅遊台
-http://50.7.168.234:8278/asiatravel_twn/playlist.m3u8?tid=m6ef86c74cc921039065&ct=17916&tsum=4afd07f8ef1c3ba6414174d0a558618a
 #EXTINF:-1 group-title="海外" tvg-logo="https://www.hualigs.cn/image/615568670b819.jpg",NHKWorld
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 group-title="海外" tvg-logo="https://www.hualigs.cn/image/61554e11f2db6.jpg",NHK 华语世界
