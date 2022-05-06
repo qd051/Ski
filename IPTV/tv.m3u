@@ -258,3 +258,142 @@ https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 http://live.tvfix.org/hls/rt.m3u8
 #EXTINF:-1 group-title="海外" tvg-logo="",Star Sports
 http://live.tvfix.org/hls/starsports.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="未分组",龙华戏剧
+http://61.221.81.93:8593/hls/77/80/ch62.m3u8
+#EXTINF:-1 group-title="未分组",龙华电影
+http://61.221.81.93:8597/hls/77/80/ch62.m3u8
+#EXTINF:-1 group-title="未分组",东森电影
+http://120.84.96.25:808/hls/32/index.m3u8
+#EXTINF:-1 group-title="未分组",龙祥时代
+http://120.84.96.25:808/hls/35/index.m3u8
+#EXTINF:-1 group-title="未分组",卫视电影
+http://61.221.81.93:8507/hls/1.m3u8
+#EXTINF:-1 group-title="未分组",天映经典
+http://120.84.96.25:808/hls/85/index.m3u8
+#EXTINF:-1 group-title="未分组",凤凰香港
+http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1 group-title="未分组",凤凰香港
+http://59.44.10.113:9901/tsfile/live/1080_1.m3u8
+#EXTINF:-1 group-title="未分组",凤凰香港
+http://50.7.218.42:8278/hkphoenix_twn/playlist.m3u8?tid=m5bd7047b492a&ct=18336&tsum=2c3b7b7f9cee713c07f561b51a9e2768
+#EXTINF:-1 group-title="未分组",凤凰香港
+http://50.7.218.42:8278/rhk32_twn/playlist.m3u8?tid=m941409fa5c86&ct=18336&tsum=af847919dbe19ba95dbe614c6cfe2a10
+#EXTINF:-1 group-title="未分组",凤凰香港
+http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
+#EXTINF:-1 group-title="未分组",赛马直击
+http://gslb.cdn.hk.chinamobile.com/live/d2afb43f61464fc5a3d3b1b0a4c187a1/11a674a3cca94ceaafab4bd0e2ae634c-2.m3u8
+#EXTINF:-1 group-title="未分组",香港电台
+http://rthkcnews-lh.akamaihd.net:80/i/rthknews_1@312607/index_190000011_av-p.m3u8
+#EXTINF:-1 group-title="未分组",TLC旅游生活频道
+http://60.250.91.85:8589/http/220.130.87.218:8088/hls/22/80/ch07.m3u8
+#EXTINF:-1 group-title="未分组",时尚频道
+http://juyunlive.juyun.tv/live/24950198.m3u8
+#EXTINF:-1 group-title="未分组",三立台湾台
+http://59.125.101.187:8501/playlist.m3u8
+#EXTINF:-1 group-title="未分组",龙华戏剧
+http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+#EXTINF:-1 group-title="未分组",龙华偶像
+http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+#EXTINF:-1 group-title="未分组",龙华日韩
+http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+#EXTINF:-1 group-title="未分组",DMAX
+http://50.7.218.42:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279#http://50.7.218.42:8278/discoveryturbo_twn/playlist.m3u8?tid=MECE3122352031223520&ct=18393&tsum=66f49d6631e9a76ea563d20a25e0bd4c
+#EXTINF:-1 group-title="未分组",台视
+http://50.7.218.42:8278/lunghuamovie_twn/playlist.m3u8?tid=mdb73470557ff10965185&ct=17874&tsum=d0a4494eb289910a11f4d305a804136a
+#EXTINF:-1 group-title="未分组",民視第一台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1
+#EXTINF:-1 group-title="未分组",民視台灣台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv001&nid=2
+#EXTINF:-1 group-title="未分组",民視
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
+#EXTINF:-1 group-title="未分组",大愛電視
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live007&nid=209
+#EXTINF:-1 group-title="未分组",中視
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv040&nid=4
+#EXTINF:-1 group-title="未分组",華視
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6
+#EXTINF:-1 group-title="未分组",三立綜合台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169
+#EXTINF:-1 group-title="未分组",客家電視台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
+#EXTINF:-1 group-title="未分组",新唐人亞太台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live050&nid=223
+#EXTINF:-1 group-title="未分组",ARIRANG阿里郎頻道
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv079&nid=189
+#EXTINF:-1 group-title="未分组",LiveABC互動英語頻道
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live030&nid=188
+#EXTINF:-1 group-title="未分组",ELTV生活英語台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn20&nid=106
+#EXTINF:-1 group-title="未分组",MOMO親子台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
+#EXTINF:-1 group-title="未分组",東森購物一台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live047&nid=173
+#EXTINF:-1 group-title="未分组",鏡電視新聞台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
+#EXTINF:-1 group-title="未分组",東森新聞台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
+#EXTINF:-1 group-title="未分组",華視新聞
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
+#EXTINF:-1 group-title="未分组",民視新聞台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
+#EXTINF:-1 group-title="未分组",三立財經新聞iNEWS
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229
+#EXTINF:-1 group-title="未分组",TVBS新聞
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
+#EXTINF:-1 group-title="未分组",東森財經新聞台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
+#EXTINF:-1 group-title="未分组",中視新聞
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
+#EXTINF:-1 group-title="未分组",中天新聞台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
+#EXTINF:-1 group-title="未分组",SBN全球財經台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224
+#EXTINF:-1 group-title="未分组",東森購物二台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live046&nid=174
+#EXTINF:-1 group-title="未分组",民視綜藝台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv004&nid=16
+#EXTINF:-1 group-title="未分组",豬哥亮歌廳秀
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv006&nid=113
+#EXTINF:-1 group-title="未分组",中天全民最大黨
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live076&nid=248
+#EXTINF:-1 group-title="未分组",智林體育台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv101&nid=58
+#EXTINF:-1 group-title="未分组",時尚運動X
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv014&nid=69
+#EXTINF:-1 group-title="未分组",民視旅遊台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61
+#EXTINF:-1 group-title="未分组",滾動力rollor
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live012&nid=249
+#EXTINF:-1 group-title="未分组",亞洲旅遊台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
+#EXTINF:-1 group-title="未分组",LUXE TV Channel
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live121&nid=175
+#EXTINF:-1 group-title="未分组",中天美食旅遊
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
+#EXTINF:-1 group-title="未分组",公視戲劇
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
+#EXTINF:-1 group-title="未分组",民視影劇台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24
+#EXTINF:-1 group-title="未分组",金光布袋戲
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
+#EXTINF:-1 group-title="未分组",好消息2台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv17&nid=8
+#EXTINF:-1 group-title="未分组",人間衛視
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210
+#EXTINF:-1 group-title="未分组",半島國際新聞台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv10&nid=85
+#EXTINF:-1 group-title="未分组",VOA美國之音
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv03&nid=86
+#EXTINF:-1 group-title="未分组",DW德國之聲
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
+#EXTINF:-1 group-title="未分组",經典電影台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live021&nid=201
+#EXTINF:-1 group-title="未分组",經典卡通台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live022&nid=202
+#EXTINF:-1 group-title="未分组",精選動漫台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live024&nid=204
+#EXTINF:-1 group-title="未分组",華語戲劇台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live005&nid=244
+#EXTINF:-1 group-title="未分组",華語綜藝台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245
