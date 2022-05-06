@@ -158,9 +158,11 @@ http://live.tvfix.org/hls/qjshd.m3u8
 http://live.tvfix.org/hls/docuchina.m3u8
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="特色",求索记录
 http://183.214.126.200:3003/live/qsjl/index.m3u8
+#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="地方",广东体育
+http://120.84.96.25:808/hls/22/index.m3u8
 #EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="地方",新视觉
 http://live.tvfix.org/hls/xsjhd.m3u8
-#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="地方",五星体育
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="地方",五星体育
 http://live.tvfix.org/hls/wxtyhd.m3u8
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="地方",劲爆体育
 http://live.tvfix.org/hls/jbtyhd.m3u8
@@ -220,6 +222,8 @@ http://111.20.33.93/PLTV/88888893/224/3221226352/index.m3u8
 http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 #EXTINF:-1 group-title="IHOT",IHOT-Y+
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://news.now.com/revamp2014/images/logo.png",澳亚卫视
+http://120.84.96.25:808/hls/24/index.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://news.now.com/revamp2014/images/logo.png",Now新闻332台
 http://livetv.dnsfor.me:80/channel.4.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/320px-Now_Live_News_logo.svg.png",Now直播331台
@@ -244,9 +248,11 @@ http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8?token=7
 http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 #EXTINF:-1 tvg-id="7158" tvg-name="龙华日韩" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E6%97%A5%E9%9F%A9.png" group-title="港澳台",龙华日韩
 http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-#EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="港澳台",东森电影
+#EXTINF:-1 tvg-id="6080" tvg-name="东森电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="港澳台",东森电影
 http://120.84.96.25:808/hls/32/index.m3u8
-#EXTINF:-1 tvg-id="6082" tvg-name="龙祥時代电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="港澳台",龙祥時代电影
+#EXTINF:-1 tvg-id="6084" tvg-name="东森洋片" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="港澳台",东森洋片
+http://120.84.96.25:808/hls/32/index.m3u8
+#EXTINF:-1 tvg-id="6082" tvg-name="龙祥時代" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="港澳台",龙祥時代
 http://120.84.96.25:808/hls/35/index.m3u8
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="港澳台",寰宇新闻
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
