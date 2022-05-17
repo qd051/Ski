@@ -234,14 +234,12 @@ https://api.leonardpark.dev/live/icable/109
 https://api.leonardpark.dev/live/icable/108
 #EXTINF:-1 group-title="港澳台",HKC有线直播新闻台
 https://api.leonardpark.dev/live/icable/110
+#EXTINF:-1 group-title="港澳台",ATV亞旅衛視
+http://jc-qlive-play.jingchangkan.cn/3473_2b8b624d570bb2b67.m3u8
+#EXTINF:-1 group-title="港澳台",壹电视
+http://59.125.101.187:18710/http/192.168.77.24:8081/hls/66/808/ch24.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",天映经典
 http://120.84.96.25:808/hls/85/index.m3u8
-#EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="港澳台",卫视电影
-http://61.221.81.93:8507/hls/1.m3u8
-#EXTINF:-1 tvg-id="7128" tvg-name="龙华电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E7%94%B5%E5%BD%B1.png" group-title="港澳台",龙华电影
-http://61.221.81.93:8597/hls/77/80/ch62.m3u8
-#EXTINF:-1 tvg-id="7127" tvg-name="龙华戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E6%88%8F%E5%89%A7.png" group-title="港澳台",龙华戏剧
-http://61.221.81.93:8593/hls/77/80/ch62.m3u8
 #EXTINF:-1 tvg-id="7127" tvg-name="龙华戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E6%88%8F%E5%89%A7.png" group-title="港澳台",龙华戏剧
 http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 #EXTINF:-1 tvg-id="7126" tvg-name="龙华偶像" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E5%81%B6%E5%83%8F.png" group-title="港澳台",龙华偶像
@@ -342,8 +340,6 @@ http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224
 #EXTINF:-1 group-title="未分组",民視綜藝台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv004&nid=16
-#EXTINF:-1 group-title="未分组",豬哥亮歌廳秀
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv006&nid=113
 #EXTINF:-1 group-title="未分组",公視戲劇
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
 #EXTINF:-1 group-title="未分组",民視影劇台
