@@ -236,12 +236,6 @@ https://cdn.hklive.tv/hls/77/index.m3u8
 https://cdn.hklive.tv/hls/76/index.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="奇妙資訊台" tvg-logo="https://live.hkanime.com.hk/png_logo/78.png" group-title="港澳台",奇妙資訊台
 https://cdn.hklive.tv/hls/78/index.m3u8
-#EXTINF:-1 tvg-id="108" tvg-name="財經資訊台" tvg-logo="https://live.hkanime.com.hk/png_logo/108.png" group-title="港澳台",財經資訊台
-https://cdn.hklive.tv/hls/108/index.m3u8
-#EXTINF:-1 tvg-id="109" tvg-name="新聞台" tvg-logo="https://live.hkanime.com.hk/png_logo/109.png" group-title="港澳台",新聞台
-https://cdn.hklive.tv/hls/109/index.m3u8
-#EXTINF:-1 tvg-id="110" tvg-name="直播台" tvg-logo="https://live.hkanime.com.hk/png_logo/110.png" group-title="港澳台",直播台
-https://cdn.hklive.tv/hls/110/index.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://live.hkanime.com.hk/png_logo/81.png" group-title="港澳台",翡翠台
 https://cdn.hklive.tv/hls/81/index.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台 (中英字幕)" tvg-logo="https://live.hkanime.com.hk/png_logo/81.png" group-title="港澳台",翡翠台 (中英字幕)
@@ -260,14 +254,18 @@ https://cdn.hklive.tv/hls/85/index.m3u8
 https://cdn.hklive.tv/hls/99/index.m3u8
 #EXTINF:-1 tvg-id="96" tvg-name="ViuTV" tvg-logo="https://live.hkanime.com.hk/png_logo/96.png" group-title="港澳台",ViuTV Six
 https://cdn.hklive.tv/hls/96/index.m3u8
-#EXTINF:-1 tvg-id="331" tvg-name="Now 直播台" tvg-logo="https://live.hkanime.com.hk/png_logo/331.png" group-title="港澳台",Now 直播台
-https://cdn.hklive.tv/hls/331/index.m3u8
-#EXTINF:-1 tvg-id="332" tvg-name="Now 新聞台" tvg-logo="https://live.hkanime.com.hk/png_logo/332.png" group-title="港澳台",Now 新聞台
-https://cdn.hklive.tv/hls/332/index.m3u8
-#EXTINF:-1 tvg-id="333" tvg-name="Now 財經台" tvg-logo="https://live.hkanime.com.hk/png_logo/333.png" group-title="港澳台",Now 財經台
-https://cdn.hklive.tv/hls/333/index.m3u8
-#EXTINF:-1 tvg-id="630" tvg-name="Now Sports Prime" tvg-logo="https://live.hkanime.com.hk/png_logo/630.png" group-title="港澳台",Now Sports Prime
-https://cdn.hklive.tv/hls/630/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/320px-Now_Live_News_logo.svg.png",Now 直播
+http://livetv.dnsfor.me:80/channel.3.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://news.now.com/revamp2014/images/logo.png",Now 新闻
+http://livetv.dnsfor.me:80/channel.4.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-logo="",Now 財經台
+http://livetv.dnsfor.me:80/channel.5.m3u8
+#EXTINF:-1 group-title="港澳台",HKC有线财经资讯台
+https://api.leonardpark.dev/live/icable/108
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png",HKC有线新闻台
+https://api.leonardpark.dev/live/icable/109
+#EXTINF:-1 group-title="港澳台",HKC有线直播新闻台
+https://api.leonardpark.dev/live/icable/110
 #EXTINF:-1 group-title="港澳台" tvg-logo="",澳门莲花
 http://120.84.96.25:808/hls/24/index.m3u8
 #EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港澳台",香港卫视
@@ -282,16 +280,6 @@ http://120.84.96.32:808/hls/26/index.m3u8
 http://120.84.96.25:808/hls/86/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",天映经典
 http://120.84.96.25:808/hls/85/index.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://news.now.com/revamp2014/images/logo.png",Now新闻332台
-http://livetv.dnsfor.me:80/channel.4.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/320px-Now_Live_News_logo.svg.png",Now直播331台
-http://livetv.dnsfor.me:80/channel.3.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png",HKC有线新闻台
-https://api.leonardpark.dev/live/icable/109
-#EXTINF:-1 group-title="港澳台",HKC有线财经资讯台
-https://api.leonardpark.dev/live/icable/108
-#EXTINF:-1 group-title="港澳台",HKC有线直播新闻台
-https://api.leonardpark.dev/live/icable/110
 #EXTINF:-1 group-title="港澳台",ATV亞旅衛視
 http://jc-qlive-play.jingchangkan.cn/3473_2b8b624d570bb2b67.m3u8
 #EXTINF:-1 tvg-id="7127" tvg-name="龙华戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E6%88%8F%E5%89%A7.png" group-title="港澳台",龙华戏剧
