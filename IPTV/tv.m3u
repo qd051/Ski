@@ -155,7 +155,7 @@ http://live.tvfix.org/hls/docuchina.m3u8
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="数字",求索记录
 http://183.214.126.200:3003/live/qsjl/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="数字"，DOXTV
-http://hiradio.win/yqdtv.php?id=114
+http://hiradio.win/yqdtv.php?id=114.m3u8
 #EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="数字",广东体育
 http://120.84.96.25:808/hls/22/index.m3u8
 #EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="数字",新视觉
