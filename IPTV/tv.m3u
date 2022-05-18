@@ -241,7 +241,7 @@ https://cdn.hklive.tv/hls/108/index.m3u8
 #EXTINF:-1 tvg-id="109" tvg-name="新聞台" tvg-logo="https://live.hkanime.com.hk/png_logo/109.png" group-title="港澳台",新聞台
 https://cdn.hklive.tv/hls/109/index.m3u8
 #EXTINF:-1 tvg-id="110" tvg-name="直播台" tvg-logo="https://live.hkanime.com.hk/png_logo/110.png" group-title="港澳台",直播台
-https://cdn.hklive.tv/hls/109/index.m3u8
+https://cdn.hklive.tv/hls/110/index.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://live.hkanime.com.hk/png_logo/81.png" group-title="港澳台",翡翠台
 https://cdn.hklive.tv/hls/81/index.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台 (中英字幕)" tvg-logo="https://live.hkanime.com.hk/png_logo/81.png" group-title="港澳台",翡翠台 (中英字幕)
