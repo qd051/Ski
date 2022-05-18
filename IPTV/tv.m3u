@@ -226,7 +226,7 @@ http://live.tvfix.org/hls/fhzx.m3u8
 http://live.tvfix.org/hls/fhzw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰卫视香港台
 http://120.84.96.25:808/hls/81/index.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://news.now.com/revamp2014/images/logo.png",澳门莲花
+#EXTINF:-1 group-title="港澳台" tvg-logo="",澳门莲花
 http://120.84.96.25:808/hls/24/index.m3u8
 #EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港澳台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
