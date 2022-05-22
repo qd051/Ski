@@ -167,6 +167,8 @@ http://live.tvfix.org/hls/jykttv.m3u8
 https://tvfix.woodong.workers.dev/hls/xdmtv.m3u8
 #EXTINF:-1 group-title="数字频道",优漫卡通
 https://tvfix.woodong.workers.dev/hls/ymkttv.m3u8
+#EXTINF:-1 group-title="数字频道",IHOT-Y+
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 #EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="体育频道",广东体育
 http://120.84.96.25:808/hls/22/index.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="体育频道",五星体育
@@ -183,8 +185,6 @@ http://live.tvfix.org/hls/yxfyhd.m3u8
 https://tvfix.woodong.workers.dev/hls/zqhd.m3u8
 #EXTINF:-1 group-title="体育频道" tvg-logo="",Star Sports
 http://live.tvfix.org/hls/starsports.m3u8
-#EXTINF:-1 group-title="体育频道",IHOT-Y+
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/nnxwzh.jpg" group-title="地方频道",南宁新闻综合
 http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/nnxwzh.jpg" group-title="地方频道",南宁都市生活
@@ -389,47 +389,37 @@ http://120.84.96.25:808/hls/32/index.m3u8
 http://120.84.96.25:808/hls/33/index.m3u8
 #EXTINF:-1 tvg-id="6082" tvg-name="龙祥時代" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="台湾",龙祥時代
 http://120.84.96.25:808/hls/35/index.m3u8
-#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="台湾",寰宇新闻
+#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="台湾",寰宇新闻
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
-#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="台湾",TVBS新闻
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="台湾",TVBS新闻台
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
-#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="台湾",中视新闻
+#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="台湾",中视新闻台
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=zsxw
-#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="台湾",中视新闻
-http://seb.sason.top/sc/zsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="台湾",台视新闻
-http://seb.sason.top/sc/tsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="台湾",台视新闻
+#EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="台湾",台视新闻台
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
-#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="台湾",民视新闻
-http://seb.sason.top/sc/msxw_fhd.m3u8
-#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="台湾",民视新闻
+#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="台湾",民视新闻台
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw
-#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台湾",东森新闻
+#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台湾",东森新闻台
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
 #EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="台湾",东森财经新闻
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw
-#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="台湾",东森财经新闻
-http://seb.sason.top/sc/dscjxw_fhd.m3u8
 #EXTINF:-1 tvg-id="6072" tvg-name="三立财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="台湾",三立财经新闻
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw
-#EXTINF:-1 tvg-id="6072" tvg-name="三立财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="台湾",三立财经新闻
-http://seb.sason.top/sc/slinews_fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",三立台湾台
+#EXTINF:-1 tvg-id="6047" tvg-name="三立台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png" group-title="台湾",三立台湾台
 http://59.125.101.187:8501/playlist.m3u8
-#EXTINF:-1 group-title="台湾",時尚運動X
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv014&nid=69
-#EXTINF:-1 group-title="台湾",滾動力rollor
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live012&nid=249
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",亞洲旅遊台
+#EXTINF:-1 tvg-id="6172" tvg-name="亚洲旅游台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/asiatravel.png" group-title="台湾",亚洲旅游台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
-#EXTINF:-1 group-title="台湾",民視旅遊台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",民視旅遊台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61
-#EXTINF:-1 group-title="台湾",中天美食旅遊
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",中天美食旅遊
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
-#EXTINF:-1 group-title="台湾",智林體育台
+#EXTINF:-1 tvg-id="7182" tvg-name="智林体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E6%99%BA%E6%9E%97%E4%BD%93%E8%82%B2%E5%8F%B0.png" group-title="台湾",智林体育
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv101&nid=58
-#EXTINF:-1 group-title="台湾",LUXE TV Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",時尚運動X
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv014&nid=69
+#EXTINF:-1 tvg-id="7194" tvg-name="滚动力 rollor" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/roller.png" group-title="台湾",rollor
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live012&nid=249
+#EXTINF:-1 tvg-id="7193" tvg-name="LUXE TV Channel" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/luxetv.png" group-title="台湾",LUXETV
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live121&nid=175
 #EXTINF:-1 group-title="台湾",民視第一台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1
@@ -539,18 +529,7 @@ http://live.tvfix.org/hls/bbcnews.m3u8
 http://live.tvfix.org/hls/cnn.m3u8
 #EXTINF:-1 group-title="海外" tvg-logo="",今日俄罗斯电视台
 http://live.tvfix.org/hls/rt.m3u8
-#EXTINF:-1 group-title="台湾",寰宇新闻台
-https://ssttvv1.6zxr.xyz/fhwszw/index.m3u8
-#EXTINF:-1 group-title="台湾",华视新闻台
-https://ssttvv1.6zxr.xyz/tvbs56/index.m3u8
-#EXTINF:-1 group-title="台湾",三立新闻台
-https://ssttvv1.6zxr.xyz/twtv/index.m3u8
-#EXTINF:-1 group-title="台湾",东森新闻台
-https://ssttvv1.6zxr.xyz/dsxw/index.m3u8
-#EXTINF:-1 group-title="台湾",民视新闻台
-https://ssttvv1.6zxr.xyz/fhwszx/index.m3u8
-#EXTINF:-1 group-title="台湾",中天新闻台
-https://ssttvv1.6zxr.xyz/ztxw/index.m3u8
+
 
 #EXTINF:-1 ,Unknown_1
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
