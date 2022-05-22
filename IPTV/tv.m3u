@@ -289,6 +289,8 @@ https://api.leonardpark.dev/live/icable/109
 https://api.leonardpark.dev/live/icable/110
 #EXTINF:-1 group-title="香港" tvg-logo="",澳门莲花
 http://120.84.96.25:808/hls/24/index.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="",澳门莲花
+http://anren.live/HK/BiIOU11uLA.m3u8
 #EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="香港",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
@@ -537,7 +539,18 @@ http://live.tvfix.org/hls/bbcnews.m3u8
 http://live.tvfix.org/hls/cnn.m3u8
 #EXTINF:-1 group-title="海外" tvg-logo="",今日俄罗斯电视台
 http://live.tvfix.org/hls/rt.m3u8
-
+#EXTINF:-1 group-title="台湾",寰宇新闻台
+https://ssttvv1.6zxr.xyz/fhwszw/index.m3u8
+#EXTINF:-1 group-title="台湾",华视新闻台
+https://ssttvv1.6zxr.xyz/tvbs56/index.m3u8
+#EXTINF:-1 group-title="台湾",三立新闻台
+https://ssttvv1.6zxr.xyz/twtv/index.m3u8
+#EXTINF:-1 group-title="台湾",东森新闻台
+https://ssttvv1.6zxr.xyz/dsxw/index.m3u8
+#EXTINF:-1 group-title="台湾",民视新闻台
+https://ssttvv1.6zxr.xyz/fhwszx/index.m3u8
+#EXTINF:-1 group-title="台湾",中天新闻台
+https://ssttvv1.6zxr.xyz/ztxw/index.m3u8
 
 #EXTINF:-1 ,Unknown_1
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
