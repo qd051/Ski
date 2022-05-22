@@ -400,6 +400,8 @@ http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="台湾",民视新闻台
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台湾",东森新闻台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",東森LIVE
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
 #EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="台湾",东森财经新闻
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw
@@ -409,8 +411,7 @@ http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw
 http://59.125.101.187:8501/playlist.m3u8
 #EXTINF:-1 tvg-id="6172" tvg-name="亚洲旅游台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/asiatravel.png" group-title="台湾",亚洲旅游台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",民視旅遊台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",中天美食旅遊
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
 #EXTINF:-1 tvg-id="7182" tvg-name="智林体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E6%99%BA%E6%9E%97%E4%BD%93%E8%82%B2%E5%8F%B0.png" group-title="台湾",智林体育
@@ -421,76 +422,64 @@ http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv014&nid=69
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live012&nid=249
 #EXTINF:-1 tvg-id="7193" tvg-name="LUXE TV Channel" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/luxetv.png" group-title="台湾",LUXETV
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live121&nid=175
-#EXTINF:-1 group-title="台湾",民視第一台
+#EXTINF:-1 tvg-id="7133" tvg-name="民视第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-1.png" group-title="台湾",民视第一台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1
-#EXTINF:-1 group-title="台湾",民視台灣台
+#EXTINF:-1 tvg-id="7134" tvg-name="民视台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png" group-title="台湾",民视台湾台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv001&nid=2
-#EXTINF:-1 group-title="台湾",民視
+#EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E6%B0%91%E8%A7%86.png" group-title="台湾",民视
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
-#EXTINF:-1 group-title="台湾",中視
+#EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86.png" group-title="台湾",中视
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv040&nid=4
-#EXTINF:-1 group-title="台湾",華視
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6
-#EXTINF:-1 group-title="台湾",三立綜合台
+#EXTINF:-1 group-title="台湾",168
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=168
+#EXTINF:-1 tvg-id="6239" tvg-name="三立综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETZonghe.png" group-title="台湾",三立综合台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169
-#EXTINF:-1 group-title="台湾",客家電視台
+#EXTINF:-1 group-title="台湾",170
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=170
+#EXTINF:-1 tvg-id="6035" tvg-name="客家电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HakkaTV.png" group-title="台湾",客家电视台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
-#EXTINF:-1 group-title="台湾",新唐人亞太台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",新唐人亞太台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live050&nid=223
-#EXTINF:-1 group-title="台湾",ARIRANG阿里郎頻道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",ARIRANG阿里郎頻道
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv079&nid=189
-#EXTINF:-1 group-title="台湾",LiveABC互動英語頻道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",LiveABC互動英語頻道
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live030&nid=188
-#EXTINF:-1 group-title="台湾",ELTV生活英語台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",ELTV生活英語台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn20&nid=106
-#EXTINF:-1 group-title="台湾",MOMO親子台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",MOMO親子台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
-#EXTINF:-1 group-title="台湾",鏡電視新聞台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",鏡電視新聞台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
-#EXTINF:-1 group-title="台湾",東森新聞台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
-#EXTINF:-1 group-title="台湾",華視新聞
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",華視新聞
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
-#EXTINF:-1 group-title="台湾",民視新聞台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
-#EXTINF:-1 group-title="台湾",三立財經新聞iNEWS
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229
-#EXTINF:-1 group-title="台湾",TVBS新聞
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
-#EXTINF:-1 group-title="台湾",東森財經新聞台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
-#EXTINF:-1 group-title="台湾",中視新聞
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
-#EXTINF:-1 group-title="台湾",中天新聞台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",中天新聞台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
-#EXTINF:-1 group-title="台湾",SBN全球財經台
+#EXTINF:-1 tvg-id="6111" tvg-name="SBN全球财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SBN.png" group-title="台湾",SBN全球财经台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224
-#EXTINF:-1 group-title="台湾",民視綜藝台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv004&nid=16
-#EXTINF:-1 group-title="台湾",公視戲劇
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",公視戲劇
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
-#EXTINF:-1 group-title="台湾",民視影劇台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24
-#EXTINF:-1 group-title="台湾",好消息2台
+#EXTINF:-1 tvg-id="578" tvg-name="好消息二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GoodTV2.png" group-title="台湾",GoodTV2
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv17&nid=8
-#EXTINF:-1 group-title="台湾",人間衛視
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210
-#EXTINF:-1 group-title="台湾",經典電影台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",經典電影台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live021&nid=201
-#EXTINF:-1 group-title="台湾",經典卡通台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",經典卡通台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live022&nid=202
-#EXTINF:-1 group-title="台湾",精選動漫台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",精選動漫台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live024&nid=204
-#EXTINF:-1 group-title="台湾",華語戲劇台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",華語戲劇台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live005&nid=244
-#EXTINF:-1 group-title="台湾",華語綜藝台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",華語綜藝台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245
-#EXTINF:-1 group-title="海外",半島國際新聞台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv10&nid=85
-#EXTINF:-1 group-title="海外",VOA美國之音
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv03&nid=86
-#EXTINF:-1 group-title="海外",DW德國之聲
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",民視影劇台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",民視綜藝台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv004&nid=16
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",民視旅遊台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",综艺
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6
+#EXTINF:-1 tvg-id="6029" tvg-name="人间卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png" group-title="台湾",人间卫视
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210
 #EXTINF:-1 group-title="日本" tvg-logo="https://www.hualigs.cn/image/615568670b819.jpg",NHKWorld
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 group-title="日本" tvg-logo="https://www.hualigs.cn/image/61554e11f2db6.jpg",NHK 华语世界
@@ -529,8 +518,16 @@ http://live.tvfix.org/hls/bbcnews.m3u8
 http://live.tvfix.org/hls/cnn.m3u8
 #EXTINF:-1 group-title="海外" tvg-logo="",今日俄罗斯电视台
 http://live.tvfix.org/hls/rt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",半島國際新聞台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv10&nid=85
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",VOA美國之音
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv03&nid=86
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",DW德國之聲
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",111
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=5
 #EXTINF:-1 ,Unknown_1
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 ,Unknown_3
