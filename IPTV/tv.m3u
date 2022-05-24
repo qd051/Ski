@@ -488,6 +488,8 @@ https://tvfix.woodong.workers.dev/hls/tvbs.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="测试频道",星空卫视
 https://tvfix.woodong.workers.dev/hls/startv.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影频道",HBO
+http://59.125.101.187:8757/http/192.168.77.24:8081/hls/71/813/ch41.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影频道",HBO(粤语繁体)
 https://tvfix.woodong.workers.dev/hls/hbo.m3u8
 #EXTINF:-1 group-title="电影频道",HBO(粤语简体)
