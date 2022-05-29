@@ -446,7 +446,7 @@ https://tvfix.otomoski.workers.dev/hls/nhke2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",NHK WORLD
 https://tvfix.otomoski.workers.dev/hls/nhkworld.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",NHK WORLD(中文字幕)
-https://tvfix.otomoski.workers.dev/hls/nhkworldzh.m3u8
+https://tvfix.otomoski.workers.dev/hls/nhkworld2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",NHK WORLD Premium
 https://tvfix.otomoski.workers.dev/hls/nhkworldpremium.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外" tvg-logo="",BBC新闻频道
