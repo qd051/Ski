@@ -191,3 +191,29 @@ http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv10&nid=85
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv03&nid=86
 #EXTINF:-1 tvg-id="730" tvg-name="DW德国之声" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="海外",DW
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
+#EXTINF:-1 tvg-id="feddb9f4cdfee50074c4fddc37603f73" tvg-chno="31",數碼港台電視 31
+http://116.49.165.168:9981/stream/channelid/1958338046?ticket=eff089f243a3645f33ce82d870eb94759fe48574&profile=pass
+#EXTINF:-1 tvg-id="cfc5c55548350f50876f89daff688e94" tvg-chno="32",數碼港台電視 32
+http://116.49.165.168:9981/stream/channelid/1439024591?ticket=40c9b06949267f3c8756aadbdca5ae60e5650390&profile=pass
+#EXTINF:-1 tvg-id="c65661a7a2ff2151bd0b040833009bf6" tvg-chno="33",中央電視台綜合頻道（CCTV-1綜合)
+http://116.49.165.168:9981/stream/channelid/660690630?ticket=2b4ff2809b65a4bc97983f30dbaccf5c3c9a20e6&profile=pass
+#EXTINF:-1 tvg-id="1JBKLGyE6AnRGvk92A8x3m8qmXfh3fcEty" tvg-chno="76",香港國際財經台
+http://116.49.165.168:9981/stream/channelid/1015194673?ticket=48f7f17ee75a9dd8b6454df299fe770ef419edd3&profile=pass
+#EXTINF:-1 tvg-id="e957efc04ad5c426c67d69b177e65b4f" tvg-chno="77",香港開電視
+http://116.49.165.168:9981/stream/channelid/1089427433?ticket=dca84e6ca81c39c81796d9d6f7652649056e26c7&profile=pass
+#EXTINF:-1 tvg-id="bb02b0e4a05164f7dc40514cb96b7d3c" tvg-chno="78",78台
+http://116.49.165.168:9981/stream/channelid/1689256635?ticket=4bd5a08f85036f30fafa0a7650c255e78951913f&profile=pass
+#EXTINF:-1 tvg-id="bdba5b0527fcb7d87aef51c318b10326" tvg-chno="81",翡翠台
+http://116.49.165.168:9981/stream/channelid/89897661?ticket=8596c0156c7914decf8259fcd802a3dc6da36105&profile=pass
+#EXTINF:-1 tvg-id="e86933dd2b0211c339a0ed82817fa0f3" tvg-chno="82",J2台
+http://116.49.165.168:9981/stream/channelid/1563650536?ticket=7fbd51841c15435846fc404b02bc72831fb7729e&profile=pass
+#EXTINF:-1 tvg-id="2fe9e2ea8d7f509530d4a8bc0b45195d" tvg-chno="83",無綫新聞台
+http://116.49.165.168:9981/stream/channelid/1793255727?ticket=e56a748320dfb1611f86e31db5dfe03c88ae368c&profile=pass
+#EXTINF:-1 tvg-id="a42bd8a8c83af981bbb5c5b2ce07a51d" tvg-chno="84",明珠台
+http://116.49.165.168:9981/stream/channelid/685255588?ticket=02e8f6a511d8d633d7fd032a2a1dea44138a32ed&profile=pass
+#EXTINF:-1 tvg-id="f0b595986fa3521092c537d9040d890e" tvg-chno="85",無綫財經 · 資訊台
+http://116.49.165.168:9981/stream/channelid/412464624?ticket=bb4f92bbb7629987b931ebcadb89d6081890b1c9&profile=pass
+#EXTINF:-1 tvg-id="5130e6e453410028bbe768edb53f1239" tvg-chno="96",ViuTVsix
+http://116.49.165.168:9981/stream/channelid/1692807249?ticket=e08d44e6ea8835ca053f67d004d7bf4ec349e40c&profile=pass
+#EXTINF:-1 tvg-id="1JBKLGyE6AnRGvk92A8x3m8qmXfh3fcEty" tvg-chno="99",ViuTV
+http://116.49.165.168:9981/stream/channelid/295697949?ticket=fc707dcd2a9021099e04e79b9261da995b2dafae&profile=pass
