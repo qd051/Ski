@@ -141,9 +141,7 @@ http://39.134.134.88/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/index
 http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 #EXTINF:-1 tvg-id="7244" tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="4K",爱上4k
 http://111.20.33.93/PLTV/88888893/224/3221226352/index.m3u8
-#EXTINF:-1 tvg-logo="https://s1.ax1x.com/2022/04/14/L1JyFI.png" group-title="4K",纯享4K
-http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-#EXTINF:-1  tvg-logo="https://s1.ax1x.com/2022/04/14/L1JyFI.png"  group-title="4K",纯享4K 16M2160
+#EXTINF:-1  tvg-logo="https://s1.ax1x.com/2022/04/14/L1JyFI.png"  group-title="4K",纯享4K
 http://39.135.55.105:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="4K",欢笑剧场4K
 http://117.148.179.168/PLTV/88888888/224/3221230739/index.m3u8
