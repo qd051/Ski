@@ -68,7 +68,7 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221227164/index.m3u8?servicetype=1
 http://39.135.55.105:6610/PLTV/88888888/224/3221227242/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
 http://39.135.55.105:6610/PLTV/88888888/224/3221227141/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
+#EXTINF:-1 tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
 http://39.135.55.105:6610/PLTV/88888888/224/3221227216/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
 http://39.135.55.105:6610/PLTV/88888888/224/3221227236/index.m3u8?servicetype=1
