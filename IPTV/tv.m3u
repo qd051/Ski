@@ -193,6 +193,70 @@ http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/14
 http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 #EXTINF:-1 tvg-name="星空卫视" group-title="香港",星空卫视
 http://120.84.96.33:808/hls/79/index.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="" group-title="",翡翠台
+http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/1
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="" group-title="",明珠台
+http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/2
+#EXTINF:-1 tvg-name="线新闻台" tvg-logo="" group-title="",无线新闻台
+http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/3
+#EXTINF:-1 tvg-name="有线新闻台" tvg-logo="" group-title="",有线新闻台
+http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/4
+#EXTINF:-1 tvg-name="Now" tvg-logo="" group-title="",Now
+http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/5
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="" group-title="",ViuTV
+http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/6
+#EXTINF:-1 tvg-name="ViuTV 6" tvg-logo="" group-title="",ViuTV 6
+http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/7
+#EXTINF:-1 tvg-name="无线财经台" tvg-logo="" group-title="",无线财经台
+http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/8
+#EXTINF:-1 tvg-name="有线财经资讯台" tvg-logo="" group-title="",有线财经资讯台
+http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/9
+#EXTINF:-1 tvg-name="J2" tvg-logo="" group-title="",J2
+http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/10
+#EXTINF:-1 tvg-name="凤凰资讯台" tvg-logo="" group-title="",凤凰资讯台
+http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/16
+#EXTINF:-1 tvg-name="凤凰中文台" tvg-logo="" group-title="",凤凰中文台
+http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/17
+#EXTINF:-1 tvg-name="凤凰资讯台" tvg-logo="" group-title="",凤凰资讯台
+http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/18
+#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="" group-title="",澳视澳门
+http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/19
+#EXTINF:-1 tvg-name="澳门资讯" tvg-logo="" group-title="",澳门资讯
+http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/20
+#EXTINF:-1 tvg-name="澳门葡文台" tvg-logo="" group-title="",澳门葡文台
+http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/21
+#EXTINF:-1 tvg-name="澳门MACAU" tvg-logo="" group-title="",澳门MACAU
+http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/22
+#EXTINF:-1 tvg-name="澳门MACAU" tvg-logo="" group-title="",澳门MACAU
+http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/24
+#EXTINF:-1 tvg-name="澳门体育" tvg-logo="" group-title="",澳门体育
+http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/25
+#EXTINF:-1 tvg-name="Now爆谷台" tvg-logo="" group-title="",Now爆谷台
+http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/26
+#EXTINF:-1 tvg-name="千禧经典台" tvg-logo="" group-title="",千禧经典台
+http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/27
+#EXTINF:-1 tvg-name="TVB星河台" tvg-logo="" group-title="",TVB星河台
+http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/28
+#EXTINF:-1 tvg-name="天映频道" tvg-logo="" group-title="",天映频道
+http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/29
+#EXTINF:-1 tvg-name="卫视电影台" tvg-logo="" group-title="",卫视电影台
+http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/30
+#EXTINF:-1 tvg-name="美亚电影台" tvg-logo="" group-title="",美亚电影台
+http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/31
+#EXTINF:-1 tvg-name="民视HD" tvg-logo="" group-title="",民视HD
+http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/164
+#EXTINF:-1 tvg-name="华视HD" tvg-logo="" group-title="",华视HD
+http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/165
+#EXTINF:-1 tvg-name="中视HD" tvg-logo="" group-title="",中视HD
+http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/166
+#EXTINF:-1 tvg-name="公视台语台" tvg-logo="" group-title="",公视台语台
+http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/167
+#EXTINF:-1 tvg-name="公视" tvg-logo="" group-title="",公视
+http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/168
+#EXTINF:-1 tvg-name="民视台湾台" tvg-logo="" group-title="",民视台湾台
+http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/169
+#EXTINF:-1 tvg-name="民视第一台" tvg-logo="" group-title="",民视第一台
+http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/170
 
 #EXTINF:-1 tvg-id="6080" tvg-name="东森电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="台湾",东森电影
 http://120.84.96.33:808/hls/32/index.m3u8
