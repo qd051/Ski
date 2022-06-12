@@ -387,60 +387,17 @@ http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/477
 http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/479
 
 
-#EXTINF:-1,TVBS新闻台
-http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1,TVBS新闻台
-http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1,TVBS HD
 http://38.64.72.148:80/hls/modn/list/8005/chunklist0.m3u8
-#EXTINF:-1,TVBS HD
-http://38.64.72.148:80/hls/modn/list/8005/chunklist1.m3u8
 #EXTINF:-1,TVBSG
 http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-#EXTINF:-1,民视新闻台
-http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1,台视新闻台
-http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1,中天新闻台
-http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=53
-#EXTINF:-1,TVBS新闻台
-http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=54
-#EXTINF:-1,东森新闻台
-http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=55
-#EXTINF:-1,三立新闻台
-http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=57
-#EXTINF:-1,壹电视新闻台
-http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=58
-#EXTINF:-1,民视新闻台
-http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=59
-#EXTINF:-1,中视新闻台
-http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=60
-#EXTINF:-1,寰宇新闻
-http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=63
-#EXTINF:-1,中视
-http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=82
-#EXTINF:-1,台视
-http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=83
-#EXTINF:-1,民视
-http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=84
-#EXTINF:-1,华视
-http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=86
-#EXTINF:-1,TVBS
-http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=95
 #EXTINF:-1,TVBS欢乐台
 http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=97
-#EXTINF:-1,民视台湾台
-http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=99
-#EXTINF:-1,民视第一台
-http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=100
-#EXTINF:-1,民视综艺
-http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=101
-#EXTINF:-1,民视旅游
-http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=102
-#EXTINF:-1,民视影剧
-http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=103
 
-
+#EXTINF:-1,CINEMAX HD
+http://iptv12k.com:35461/live/8032022060101/452381/1214.m3u8
+#EXTINF:-1,OCN thrills
+http://iptv12k.com:35461/live/8032022060101/452381/3210.m3u8
 #EXTINF:1, NHK BS1
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:1, NHK BS Premium 
@@ -491,8 +448,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=HD&ccode=JP&m=d0:20
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:1, Sky A
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-
 #EXTINF:1, Gaora Sports
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:1, Nittere G+
@@ -518,78 +473,3 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=HD&ccode=JP&m=d0:20
 #EXTINF:1, Nittere News 24 
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-
-#EXTINF:-1,CHOSUN
-http://iptv12k.com:35461/live/8032022060101/452381/3217.m3u8
-#EXTINF:-1,CBS
-http://iptv12k.com:35461/live/8032022060101/452381/3216.m3u8
-#EXTINF:-1,SPOTV
-http://iptv12k.com:35461/live/8032022060101/452381/3215.m3u8
-#EXTINF:-1,KBSN sports
-http://iptv12k.com:35461/live/8032022060101/452381/3214.m3u8
-#EXTINF:-1,MNET
-http://iptv12k.com:35461/live/8032022060101/452381/3213.m3u8
-#EXTINF:-1,TV
-http://iptv12k.com:35461/live/8032022060101/452381/3212.m3u8
-#EXTINF:-1,SBS plus
-http://iptv12k.com:35461/live/8032022060101/452381/3211.m3u8
-#EXTINF:-1,OCN thrills
-http://iptv12k.com:35461/live/8032022060101/452381/3210.m3u8
-#EXTINF:-1,TV
-http://iptv12k.com:35461/live/8032022060101/452381/3209.m3u8
-#EXTINF:-1,KBS joy
-http://iptv12k.com:35461/live/8032022060101/452381/3208.m3u8
-#EXTINF:-1,SBS Sports
-http://iptv12k.com:35461/live/8032022060101/452381/3207.m3u8
-#EXTINF:-1,SBS Golf
-http://iptv12k.com:35461/live/8032022060101/452381/3206.m3u8
-#EXTINF:-1,JTBC Golf
-http://iptv12k.com:35461/live/8032022060101/452381/3205.m3u8
-#EXTINF:-1,kkkkk
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live121&nid=175
-#EXTINF:-1,NHK华语
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1,FOX NEWS
-http://iptv12k.com:35461/live/8032022060101/452381/1270.m3u8
-#EXTINF:-1,Smithsonian Channel
-http://iptv12k.com:35461/live/8032022060101/452381/1250.m3u8
-#EXTINF:-1,TSN 1
-http://iptv12k.com:35461/live/8032022060101/452381/1245.m3u8
-#EXTINF:-1,NBA
-http://iptv12k.com:35461/live/8032022060101/452381/1227.m3u8
-#EXTINF:-1,TSN 4
-http://iptv12k.com:35461/live/8032022060101/452381/1225.m3u8
-#EXTINF:-1,Warner TV
-http://iptv12k.com:35461/live/8032022060101/452381/1216.m3u8
-#EXTINF:-1,BBC lifestyle
-http://iptv12k.com:35461/live/8032022060101/452381/1215.m3u8
-#EXTINF:-1,BBC earth
-http://iptv12k.com:35461/live/8032022060101/452381/1210.m3u8
-#EXTINF:-1,CINEMAX HD
-http://iptv12k.com:35461/live/8032022060101/452381/1214.m3u8
-#EXTINF:-1,Travel Channel
-http://iptv12k.com:35461/live/8032022060101/452381/1213.m3u8
-#EXTINF:-1,ESPN
-http://iptv12k.com:35461/live/8032022060101/452381/1212.m3u8
-#EXTINF:-1,momo親子
-http://iptv12k.com:35461/live/8032022060101/452381/1209.m3u8
-#EXTINF:-1,DW
-http://iptv12k.com:35461/live/8032022060101/452381/1208.m3u8
-#EXTINF:-1,KBS2
-http://iptv12k.com:35461/live/8032022060101/452381/3233.m3u8
-#EXTINF:-1,KBS
-http://iptv12k.com:35461/live/8032022060101/452381/3232.m3u8
-#EXTINF:-1,MBC
-http://iptv12k.com:35461/live/8032022060101/452381/3231.m3u8
-#EXTINF:-1,MBN
-http://iptv12k.com:35461/live/8032022060101/452381/3230.m3u8
-#EXTINF:-1,JTBC
-http://iptv12k.com:35461/live/8032022060101/452381/3229.m3u8
-#EXTINF:-1,SOOTV2
-http://iptv12k.com:35461/live/8032022060101/452381/3228.m3u8
-#EXTINF:-1,TVN
-http://iptv12k.com:35461/live/8032022060101/452381/3227.m3u8
-#EXTINF:-1,CHANNEL A
-http://iptv12k.com:35461/live/8032022060101/452381/3226.m3u8
-#EXTINF:-1,INET
-http://iptv12k.com:35461/live/8032022060101/452381/3225.m3u8
