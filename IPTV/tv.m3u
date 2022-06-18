@@ -157,7 +157,8 @@ http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv10&nid=85
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv03&nid=86
 #EXTINF:-1 tvg-id="730" tvg-name="DW德国之声" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="海外",DW
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
-
+#EXTINF:-1 tvg-name="日本富士台" group-title="",日本富士台
+https://fujitv2.mov3.co/hls/fujitv.m3u8
 
 #EXTINF:-1 tvg-name="" group-title="",IPTV高清院线
 http://58.20.64.92:9998/tsfile/live/1033_1.m3u8
