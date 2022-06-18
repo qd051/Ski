@@ -159,19 +159,6 @@ http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv03&nid=86
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
 
 
-#EXTINF:-1,新加坡国际
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1,动物星球
-http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702 
-#EXTINF:-1,动物星球
-http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288 
-#EXTINF:-1,松视1台
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/477
-#EXTINF:-1,松视3台
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/479
-
-
-
 #EXTINF:-1 tvg-name="" group-title="",IPTV高清院线
 http://58.20.64.92:9998/tsfile/live/1033_1.m3u8
 #EXTINF:-1 tvg-name="" group-title="",IPTV古装剧场
