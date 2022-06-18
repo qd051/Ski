@@ -58,8 +58,6 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",ATV亞旅衛視
 http://jc-qlive-play.jingchangkan.cn/3473_2b8b624d570bb2b67.m3u8
 
-#EXTINF:-1 tvg-name="翡翠台" group-title="香港",翡翠台
-http://113.64.147.112:808/hls/18/index.m3u8
 
 #EXTINF:-1 tvg-name="有线603" group-title="香港",有线603
 http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/11
