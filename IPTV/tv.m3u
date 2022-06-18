@@ -51,88 +51,11 @@ https://api.leonardpark.dev/live/icable/108
 https://api.leonardpark.dev/live/icable/109
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",有线直播新闻台
 https://api.leonardpark.dev/live/icable/110
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港" tvg-logo="",澳门莲花
-http://120.84.96.33:808/hls/24/index.m3u8
 #EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="香港",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",ATV亞旅衛視
 http://jc-qlive-play.jingchangkan.cn/3473_2b8b624d570bb2b67.m3u8
 
-
-#EXTINF:-1 tvg-name="有线603" group-title="香港",有线603
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/11
-#EXTINF:-1 tvg-name="18台" group-title="香港",18台
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/12
-#EXTINF:-1 tvg-name="港台31" group-title="香港",港台31
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/13
-#EXTINF:-1 tvg-name="港台32" group-title="香港",港台32
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/14
-#EXTINF:-1 tvg-name="凤凰电影" group-title="香港",凤凰电影
-http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="" group-title="香港",翡翠台
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/1
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="" group-title="香港",明珠台
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/2
-#EXTINF:-1 tvg-name="线新闻台" tvg-logo="" group-title="香港",无线新闻台
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/3
-#EXTINF:-1 tvg-name="有线新闻台" tvg-logo="" group-title="香港",有线新闻台
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/4
-#EXTINF:-1 tvg-name="Now" tvg-logo="" group-title="香港",Now
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/5
-#EXTINF:-1 tvg-name="ViuTV" tvg-logo="" group-title="香港",ViuTV
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/6
-#EXTINF:-1 tvg-name="ViuTV 6" tvg-logo="" group-title="香港",ViuTV 6
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/7
-#EXTINF:-1 tvg-name="无线财经台" tvg-logo="" group-title="香港",无线财经台
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/8
-#EXTINF:-1 tvg-name="有线财经资讯台" tvg-logo="" group-title="香港",有线财经资讯台
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/9
-#EXTINF:-1 tvg-name="J2" tvg-logo="" group-title="香港",J2
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/10
-#EXTINF:-1 tvg-name="凤凰资讯台" tvg-logo="" group-title="香港",凤凰资讯台
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/16
-#EXTINF:-1 tvg-name="凤凰中文台" tvg-logo="" group-title="香港",凤凰中文台
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/17
-#EXTINF:-1 tvg-name="凤凰资讯台" tvg-logo="" group-title="香港",凤凰资讯台
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/18
-#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="" group-title="香港",澳视澳门
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/19
-#EXTINF:-1 tvg-name="澳门资讯" tvg-logo="" group-title="香港",澳门资讯
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/20
-#EXTINF:-1 tvg-name="澳门葡文台" tvg-logo="" group-title="香港",澳门葡文台
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/21
-#EXTINF:-1 tvg-name="澳门MACAU" tvg-logo="" group-title="香港",澳门MACAU
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/22
-#EXTINF:-1 tvg-name="澳门MACAU" tvg-logo="" group-title="香港",澳门MACAU
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/24
-#EXTINF:-1 tvg-name="澳门体育" tvg-logo="" group-title="香港",澳门体育
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/25
-#EXTINF:-1 tvg-name="Now爆谷台" tvg-logo="" group-title="香港",Now爆谷台
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/26
-#EXTINF:-1 tvg-name="千禧经典台" tvg-logo="" group-title="香港",千禧经典台
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/27
-#EXTINF:-1 tvg-name="TVB星河台" tvg-logo="" group-title="香港",TVB星河台
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/28
-#EXTINF:-1 tvg-name="天映频道" tvg-logo="" group-title="香港",天映频道
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/29
-#EXTINF:-1 tvg-name="卫视电影台" tvg-logo="" group-title="香港",卫视电影台
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/30
-#EXTINF:-1 tvg-name="美亚电影台" tvg-logo="" group-title="香港",美亚电影台
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/31
-#EXTINF:-1 tvg-name="民视HD" tvg-logo="" group-title="台湾",民视HD
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/164
-#EXTINF:-1 tvg-name="华视HD" tvg-logo="" group-title="台湾",华视HD
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/165
-#EXTINF:-1 tvg-name="中视HD" tvg-logo="" group-title="台湾",中视HD
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/166
-#EXTINF:-1 tvg-name="公视台语台" tvg-logo="" group-title="台湾",公视台语台
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/167
-#EXTINF:-1 tvg-name="公视" tvg-logo="" group-title="台湾",公视
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/168
-#EXTINF:-1 tvg-name="民视台湾台" tvg-logo="" group-title="台湾",民视台湾台
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/169
-#EXTINF:-1 tvg-name="民视第一台" tvg-logo="" group-title="台湾",民视第一台
-http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/170
 
 #EXTINF:-1 tvg-id="7127" tvg-name="龙华戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E6%88%8F%E5%89%A7.png" group-title="台湾",龙华戏剧
 http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
