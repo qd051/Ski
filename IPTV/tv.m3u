@@ -487,6 +487,14 @@ http://58.247.68.5:61985/hlsok/967c8913/index.m3u8
 http://58.247.68.5:61985/hlsok/231c4866/index.m3u8
 #EXTINF:-1 tvg-name="" group-title="未分组",博斯魅力
 http://58.247.68.5:61985/hlsok/5c2d477b/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",elevensports1
+http://58.247.68.5:61985/hlsok/9eec5c46/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",elevensports2
+http://58.247.68.5:61985/hlsok/a4970c8d/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="未分组",欧洲体育
+http://58.247.68.5:61985/hlsok/c3afb811/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="未分组",NBA动态
+http://58.247.68.5:61985/hlsok/ec8e7fc2/index.m3u8
 #EXTINF:-1 tvg-name="" group-title="未分组",东风37
 http://58.247.68.5:61985/hlsok/c1809a12/index.m3u8
 #EXTINF:-1 tvg-name="" group-title="未分组",年代MUCH
@@ -735,11 +743,4 @@ http://58.247.68.5:61985/hlsok/0b411ac7f/index.m3u8
 http://58.247.68.5:61985/hlsok/155051dfe/index.m3u8
 #EXTINF:-1 tvg-name="" group-title="未分组",NBA TV
 http://58.247.68.5:61985/hlshd/ph00101/index.m3u8
-#EXTINF:-1 tvg-name="" group-title="",elevensports1
-http://58.247.68.5:61985/hlsok/9eec5c46/index.m3u8
-#EXTINF:-1 tvg-name="" group-title="",elevensports2
-http://58.247.68.5:61985/hlsok/a4970c8d/index.m3u8
-#EXTINF:-1 tvg-name="" group-title="未分组",欧洲体育
-http://58.247.68.5:61985/hlsok/c3afb811/index.m3u8
-#EXTINF:-1 tvg-name="" group-title="未分组",NBA动态
-http://58.247.68.5:61985/hlsok/ec8e7fc2/index.m3u8
+
