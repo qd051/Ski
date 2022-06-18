@@ -1,110 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合
-http://39.135.55.105:6610/PLTV/88888888/224/3221226908/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2财经
-http://39.135.55.105:6610/PLTV/88888888/224/3221225923/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3综艺
-http://39.135.55.105:6610/PLTV/88888888/224/3221227055/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4中文国际
-http://39.135.55.105:6610/PLTV/88888888/224/3221226968/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5体育
-http://39.135.55.105:6610/PLTV/88888888/224/3221227170/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+体育赛事
-http://39.135.55.105:6610/PLTV/88888888/224/3221225939/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6电影
-http://39.135.55.105:6610/PLTV/88888888/224/3221227137/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7国防军事
-http://39.135.55.105:6610/PLTV/88888888/224/3221225927/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8电视剧
-http://39.135.55.105:6610/PLTV/88888888/224/3221227174/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9纪录
-http://39.135.55.105:6610/PLTV/88888888/224/3221225929/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10科教
-http://39.135.55.105:6610/PLTV/88888888/224/3221225931/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11戏曲
-http://39.135.55.105:6610/PLTV/88888888/224/3221226927/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12社会与法
-http://39.135.55.105:6610/PLTV/88888888/224/3221225932/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13新闻
-http://39.135.55.105:6610/PLTV/88888888/224/3221225817/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14少儿
-http://39.135.55.105:6610/PLTV/88888888/224/3221225933/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐
-http://39.135.55.105:6610/PLTV/88888888/224/3221226989/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV奥林匹克频道
-http://39.135.55.105:6610/PLTV/88888888/224/3221227125/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV奥林匹克频道
-http://39.134.115.163:8080/PLTV/88888910/224/3221226233/index.m3u8
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV奥林匹克频道HDR
-http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV奥林匹克频道4KHDR
-http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农村农业
-http://39.135.55.105:6610/PLTV/88888888/224/3221226986/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视", CCTV4K
-http://39.135.55.105:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视", CCTV-4K
-http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8K" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8k.jpg" group-title="央视", CCTV-8K超高清
-http://117.148.179.146/PLTV/88888888/224/3221233413/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8K" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8k.jpg" group-title="央视", CCTV8K超高清
-http://117.148.179.157/PLTV/88888888/224/3221233350/index.m3u8
-
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221227232/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221225870/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221227160/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221227246/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221226895/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221227178/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221227164/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221227242/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221227141/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221227216/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221227236/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221227205/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221227240/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221227156/index.m3u8?servicetype=1
-
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221227201/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221227063/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221227197/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221227095/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221227111/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221227209/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221227099/index.m3u8?servicetype=1
-
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221227182/index.m3u8?servicetype=1
-
-
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221227181/index.m3u8?servicetype=1
-
-#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="" group-title="卫视",海峡卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="数字频道",CHC高清电影
 http://111.20.33.93/TVOD/88888893/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="数字频道",CHC家庭影院 
@@ -116,7 +10,7 @@ http://140.207.241.3:8080/live/program/live/dsjchd/4000000/d1.m3u8
 #EXTINF:-1 group-title="数字频道",IHOT-Y+
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 #EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="数字频道",广东体育
-http://120.84.96.25:808/hls/22/index.m3u8
+http://113.64.147.112:808/hls/1/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/nnxwzh.jpg" group-title="地方频道",南宁新闻综合
 http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/nnxwzh.jpg" group-title="地方频道",南宁都市生活
@@ -141,26 +35,12 @@ http://39.134.134.88/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/index
 http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 #EXTINF:-1 tvg-id="7244" tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="4K",爱上4k
 http://111.20.33.93/PLTV/88888893/224/3221226352/index.m3u8
-#EXTINF:-1  tvg-logo="https://s1.ax1x.com/2022/04/14/L1JyFI.png"  group-title="4K",纯享4K
-http://39.135.55.105:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="4K",欢笑剧场4K
-http://117.148.179.168/PLTV/88888888/224/3221230739/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/nanguodushi.jpg" group-title="4K",南国都市4K
 http://ye23.win/iptv/gztv.php?id=shenghuo
 #EXTINF:-1 group-title="4K",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",LoveNature4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰卫视中文
-http://39.135.55.105:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰卫视资讯
-http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰中文 10M720
-http://183.207.248.170/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯 10M720
-http://183.207.249.143/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="香港",凤凰卫视香港台
-http://120.84.96.25:808/hls/81/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/320px-Now_Live_News_logo.svg.png" group-title="香港",Now 直播
 http://livetv.dnsfor.me:80/channel.3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-logo="https://news.now.com/revamp2014/images/logo.png" group-title="香港",Now 新闻
@@ -177,18 +57,9 @@ http://120.84.96.33:808/hls/24/index.m3u8
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",ATV亞旅衛視
 http://jc-qlive-play.jingchangkan.cn/3473_2b8b624d570bb2b67.m3u8
+
 #EXTINF:-1 tvg-name="翡翠台" group-title="香港",翡翠台
-http://120.84.96.33:808/hls/25/index.m3u8
-#EXTINF:-1 tvg-name="明珠台" group-title="香港",明珠台
-http://120.84.96.33:808/hls/26/index.m3u8
-#EXTINF:-1 tvg-name="香港台" group-title="香港",凤凰香港台
-http://120.84.96.33:808/hls/81/index.m3u8
-#EXTINF:-1 tvg-name="天映经典" group-title="香港",天映经典
-http://120.84.96.33:808/hls/85/index.m3u8
-#EXTINF:-1 tvg-name="J2" group-title="香港",J2
-http://120.84.96.33:808/hls/86/index.m3u8
-
-
+http://113.64.147.112:808/hls/18/index.m3u8
 
 #EXTINF:-1 tvg-name="有线603" group-title="香港",有线603
 http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/11
@@ -200,8 +71,6 @@ http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/13
 http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/14
 #EXTINF:-1 tvg-name="凤凰电影" group-title="香港",凤凰电影
 http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
-#EXTINF:-1 tvg-name="星空卫视" group-title="香港",星空卫视
-http://120.84.96.33:808/hls/79/index.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="" group-title="香港",翡翠台
 http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/1
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="" group-title="香港",明珠台
@@ -267,12 +136,6 @@ http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/169
 #EXTINF:-1 tvg-name="民视第一台" tvg-logo="" group-title="台湾",民视第一台
 http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/170
 
-#EXTINF:-1 tvg-id="6080" tvg-name="东森电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="台湾",东森电影
-http://120.84.96.33:808/hls/32/index.m3u8
-#EXTINF:-1 tvg-id="6084" tvg-name="东森洋片" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="台湾",东森洋片
-http://120.84.96.33:808/hls/33/index.m3u8
-#EXTINF:-1 tvg-id="6082" tvg-name="龙祥時代" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="台湾",龙祥時代
-http://120.84.96.33:808/hls/35/index.m3u8
 #EXTINF:-1 tvg-id="7127" tvg-name="龙华戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E6%88%8F%E5%89%A7.png" group-title="台湾",龙华戏剧
 http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 #EXTINF:-1 tvg-id="7126" tvg-name="龙华偶像" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E5%81%B6%E5%83%8F.png" group-title="台湾",龙华偶像
@@ -387,89 +250,1202 @@ http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/477
 http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/479
 
 
-#EXTINF:-1,TVBS HD
-http://38.64.72.148:80/hls/modn/list/8005/chunklist0.m3u8
-#EXTINF:-1,TVBSG
-http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-#EXTINF:-1,TVBS欢乐台
-http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=97
 
-#EXTINF:-1,CINEMAX HD
-http://iptv12k.com:35461/live/8032022060101/452381/1214.m3u8
-#EXTINF:-1,OCN thrills
-http://iptv12k.com:35461/live/8032022060101/452381/3210.m3u8
-#EXTINF:1, NHK BS1
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:1, NHK BS Premium 
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:1, BS Nittere
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:1, BS Asahi
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:1, BS TBS 
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:1, BS TV Tokyo
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:1, BS Fuji 
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:1, WOWOW Prime 
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:1, WOWOW Live 
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:1, WOWOW Cinema 
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:1, Star Channel 1
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:1, Star Channel 2
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:1, Star Channel 3
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:1, BS Animax  
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:1, BS Sky PerfecTV!   
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:1, J Sports 1  
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:1, J Sports 2  
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:1, J Sports 3  
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:1, J Sports 4  
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:1, BS Tsuri Vision  
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:1, Nippon Eiga Senmon Channel
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:1, Toei Channel
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:1, Channel Neco
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:1, Movie Plus
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:1, Sky A
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:1, Gaora Sports
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:1, Nittere G+
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:1, Golf Network
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:1, Jidaigeki Senmon Channel
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:1, Family Gekijo
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:1, Channel Ginga
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:1, Super! Drama TV
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:1, Fox Japan
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:1, Lala TV
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:1, Music On! TV
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:1, Kids Station
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:1, Nittere News 24 
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-name="" group-title="",IPTV高清院线
+http://58.20.64.92:9998/tsfile/live/1033_1.m3u8
+#EXTINF:-1 tvg-name="" group-title="",IPTV古装剧场
+http://58.20.64.92:9998/tsfile/live/1044_1.m3u8
+#EXTINF:-1 tvg-name="" group-title="",IPTV抗战剧场
+http://58.20.64.92:9998/tsfile/live/1032_1.m3u8
+#EXTINF:-1 tvg-name="" group-title="",经典功夫台
+https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
+#EXTINF:-1 tvg-name="" group-title="",金马影院
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-name="" group-title="",午夜影院
+https://pull.kktv8.com/livekktv/99592190.flv
+#EXTINF:-1 tvg-name="" group-title="",女神影院
+https://pull.kktv8.com/livekktv/99350550.flv
 
+#EXTINF:-1 tvg-name="" group-title="",民视 HD
+http://58.247.68.5:61985/hlsok/fd841196/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",中视 HD
+http://58.247.68.5:61985/hlsok/7b007f53/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",台视 HD
+http://58.247.68.5:61985/hlsok/0610e13c/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",华视 HD
+http://58.247.68.5:61985/hlsok/3d2107b0/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",公视 HD
+http://58.247.68.5:61985/hlsok/a98ccb72/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",CN卡通
+http://58.247.68.5:61985/hlsok/7fb19ba9/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",Animax
+http://58.247.68.5:61985/hlsok/4d696d82/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",Baby TV
+http://58.247.68.5:61985/hlsok/5c624ce4/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",东森电影
+http://58.247.68.5:61985/hlsok/75d7613b/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",东森洋片
+http://58.247.68.5:61985/hlsok/14561539/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",好莱坞
+http://58.247.68.5:61985/hlsok/a78680e4/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",龙祥电影
+http://58.247.68.5:61985/hlsok/e4a13cc1/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",纬来电影
+http://58.247.68.5:61985/hlsok/75966caf/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",TVBS
+http://58.247.68.5:61985/hlsok/e9c339cc/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",TVBS欢乐
+http://58.247.68.5:61985/hlsok/c9692259/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",TVBS新闻
+http://58.247.68.5:61985/hlsok/ea10c602/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",东森新闻
+http://58.247.68.5:61985/hlsok/1ecdeb5a/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",三立新闻
+http://58.247.68.5:61985/hlsok/0ebc9684/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",非凡新闻
+http://58.247.68.5:61985/hlsok/2187f64b/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",民视新闻
+http://58.247.68.5:61985/hlsok/ced345d4/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",中视新闻
+http://58.247.68.5:61985/hlsok/66836176/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",台视新闻
+http://58.247.68.5:61985/hlsok/c23f3737/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",华视新闻
+http://58.247.68.5:61985/hlsok/091887ce/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",凤凰中文 HD
+http://58.247.68.5:61985/hlsok/a1ddeef5/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",凤凰资讯 HD
+http://58.247.68.5:61985/hlsok/2c3cc674/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",凤凰香港 HD
+http://58.247.68.5:61985/hlsok/b18b32b6/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",Z频道
+http://58.247.68.5:61985/hlsok/12158ea6/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",国兴卫视
+http://58.247.68.5:61985/hlsok/9cd6fcae/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",HBO HD
+http://58.247.68.5:61985/hlsok/8fdeabec/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",HBO强档 HD
+http://58.247.68.5:61985/hlsok/335d6895/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",HBO家庭 HD
+http://58.247.68.5:61985/hlsok/1a67a2aa/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",HBO原创 HD
+http://58.247.68.5:61985/hlsok/3c54101b/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",探索亚洲 HD
+http://58.247.68.5:61985/hlsok/37c6ad51/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",探索頻道 HD
+http://58.247.68.5:61985/hlsok/592cd26f/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",探索科學 HD
+http://58.247.68.5:61985/hlsok/bf60aa18d/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",探索动力 HD
+http://58.247.68.5:61985/hlsok/c4421e308/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",國家地理 HD
+http://58.247.68.5:61985/hlsok/cab58bd3/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",地理野生 HD
+http://58.247.68.5:61985/hlsok/dc882466/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",TLC HD
+http://58.247.68.5:61985/hlsok/3beb476b/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",动物星球 HD
+http://58.247.68.5:61985/hlsok/76011b82/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",AXN HD
+http://58.247.68.5:61985/hlsok/c1c18f78/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",CINEMAX HD
+http://58.247.68.5:61985/hlsok/79be7824/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",WarnerTV HD
+http://58.247.68.5:61985/hlsok/9cb32ea0/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",亞洲美食 HD
+http://58.247.68.5:61985/hlsok/32fa8773/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",美食网 HD
+http://58.247.68.5:61985/hlsok/1dd145d4f/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",Star Movies HD
+http://58.247.68.5:61985/hlsok/716adb39/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",CI HD
+http://58.247.68.5:61985/hlsok/aad39e7d/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",Travel 旅游 HD
+http://58.247.68.5:61985/hlsok/06340a57/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",TVN HD
+http://58.247.68.5:61985/hlsok/c3efccf2/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",KMTV HD
+http://58.247.68.5:61985/hlsok/6d88eabe/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",HISTORY HD
+http://58.247.68.5:61985/hlsok/5c2de6d6/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",HGTV HD
+http://58.247.68.5:61985/hlsok/54506ff9/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",LIFE Time HD
+http://58.247.68.5:61985/hlsok/f25a92cc/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",BBC Earth  HD
+http://58.247.68.5:61985/hlsok/ea553fec/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",翡翠台
+http://58.247.68.5:61985/hlsok/892debf01/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",J2
+http://58.247.68.5:61985/hlsok/67eed8f2c/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",無線财经
+http://58.247.68.5:61985/hlsok/bf90c099d/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",無線新聞
+http://58.247.68.5:61985/hlsok/f104404f0/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",明珠台
+http://58.247.68.5:61985/hlsok/df1763cf9/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",卫视电影台
+http://58.247.68.5:61985/hlsok/2359ba51/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",卫视中文台
+http://58.247.68.5:61985/hlsok/3b15e6b2/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",星卫电影HD
+http://58.247.68.5:61985/hlsok/cfcece47/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",星卫娱乐台
+http://58.247.68.5:61985/hlsok/2657344c/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",美亚电影
+http://58.247.68.5:61985/hlsok/558343fa/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",elevensports1
+http://58.247.68.5:61985/hlsok/9eec5c46/index.m3u8
+#EXTINF:-1 tvg-name="" group-title="",elevensports2
+http://58.247.68.5:61985/hlsok/a4970c8d/index.m3u8
+
+
+
+#EXTINF:-1 group-title="未分组",欧洲体育
+http://58.247.68.5:61985/hlsok/c3afb811/index.m3u8
+#EXTINF:-1 group-title="未分组",NBA动态
+http://58.247.68.5:61985/hlsok/ec8e7fc2/index.m3u8
+#EXTINF:-1 group-title="未分组",高點綜合
+http://58.247.68.5:61985/hlsok/9569303e/index.m3u8
+#EXTINF:-1 group-title="未分组",壹新聞
+http://58.247.68.5:61985/hlsok/cc4d59da/index.m3u8
+#EXTINF:-1 group-title="未分组",壹综合
+http://58.247.68.5:61985/hlsok/f0546361/index.m3u8
+#EXTINF:-1 group-title="未分组",壹電影
+http://58.247.68.5:61985/hlsok/4dcedbb6/index.m3u8
+#EXTINF:-1 group-title="未分组",年代新聞
+http://58.247.68.5:61985/hlsok/3abbaa2d/index.m3u8
+#EXTINF:-1 group-title="未分组",博斯高球1
+http://58.247.68.5:61985/hlsok/69e91b16/index.m3u8
+#EXTINF:-1 group-title="未分组",博斯高球2
+http://58.247.68.5:61985/hlsok/331f6d9d/index.m3u8
+#EXTINF:-1 group-title="未分组",博斯无限
+http://58.247.68.5:61985/hlsok/da31cc90/index.m3u8
+#EXTINF:-1 group-title="未分组",博斯網球
+http://58.247.68.5:61985/hlsok/bdec2954/index.m3u8
+#EXTINF:-1 group-title="未分组",博斯运动1
+http://58.247.68.5:61985/hlsok/967c8913/index.m3u8
+#EXTINF:-1 group-title="未分组",博斯运动2
+http://58.247.68.5:61985/hlsok/231c4866/index.m3u8
+#EXTINF:-1 group-title="未分组",博斯魅力
+http://58.247.68.5:61985/hlsok/5c2d477b/index.m3u8
+#EXTINF:-1 group-title="未分组",东风37
+http://58.247.68.5:61985/hlsok/c1809a12/index.m3u8
+#EXTINF:-1 group-title="未分组",年代MUCH
+http://58.247.68.5:61985/hlsok/9755ce73/index.m3u8
+#EXTINF:-1 group-title="未分组",JET综合
+http://58.247.68.5:61985/hlsok/0c5bc08e/index.m3u8
+#EXTINF:-1 group-title="未分组",霹靂台灣台
+http://58.247.68.5:61985/hlsok/7b8dd162/index.m3u8
+#EXTINF:-1 group-title="未分组",東森財經
+http://58.247.68.5:61985/hlsok/7a3a85b7/index.m3u8
+#EXTINF:-1 group-title="未分组",東森戲劇
+http://58.247.68.5:61985/hlsok/35bb9175/index.m3u8
+#EXTINF:-1 group-title="未分组",東森綜合
+http://58.247.68.5:61985/hlsok/d3cc16e5/index.m3u8
+#EXTINF:-1 group-title="未分组",東森幼幼
+http://58.247.68.5:61985/hlsok/917ed93a/index.m3u8
+#EXTINF:-1 group-title="未分组",东森超视
+http://58.247.68.5:61985/hlsok/53633d87/index.m3u8
+#EXTINF:-1 group-title="未分组",纬来育乐
+http://58.247.68.5:61985/hlsok/f1a7b27f/index.m3u8
+#EXTINF:-1 group-title="未分组",纬来体育
+http://58.247.68.5:61985/hlsok/04a6b392/index.m3u8
+#EXTINF:-1 group-title="未分组",緯來戲劇
+http://58.247.68.5:61985/hlsok/f04a37c7/index.m3u8
+#EXTINF:-1 group-title="未分组",緯來綜合
+http://58.247.68.5:61985/hlsok/6bfaef10/index.m3u8
+#EXTINF:-1 group-title="未分组",纬来日本
+http://58.247.68.5:61985/hlsok/b9c4ab9a/index.m3u8
+#EXTINF:-1 group-title="未分组",纬来精彩
+http://58.247.68.5:61985/hlsok/9554fc33/index.m3u8
+#EXTINF:-1 group-title="未分组",中天新闻
+http://58.247.68.5:61985/hlsok/565046de1/index.m3u8
+#EXTINF:-1 group-title="未分组",中天綜合
+http://58.247.68.5:61985/hlsok/cd862c57/index.m3u8
+#EXTINF:-1 group-title="未分组",中天娱乐
+http://58.247.68.5:61985/hlsok/8767613c/index.m3u8
+#EXTINF:-1 group-title="未分组",三立財經
+http://58.247.68.5:61985/hlsok/5ff59fda/index.m3u8
+#EXTINF:-1 group-title="未分组",三立台灣
+http://58.247.68.5:61985/hlsok/04cace76/index.m3u8
+#EXTINF:-1 group-title="未分组",三立都會
+http://58.247.68.5:61985/hlsok/6fd6bcf8/index.m3u8
+#EXTINF:-1 group-title="未分组",三立戏剧
+http://58.247.68.5:61985/hlsok/e27df090/index.m3u8
+#EXTINF:-1 group-title="未分组",八大第一台
+http://58.247.68.5:61985/hlsok/0c1c9c69/index.m3u8
+#EXTINF:-1 group-title="未分组",八大綜合
+http://58.247.68.5:61985/hlsok/41bea7e4/index.m3u8
+#EXTINF:-1 group-title="未分组",八大娛樂
+http://58.247.68.5:61985/hlsok/ae8d3762/index.m3u8
+#EXTINF:-1 group-title="未分组",八大戲劇
+http://58.247.68.5:61985/hlsok/ecd48897/index.m3u8
+#EXTINF:-1 group-title="未分组",非凡新聞
+http://58.247.68.5:61985/hlsok/2187f64b/index.m3u8
+#EXTINF:-1 group-title="未分组",寰宇新闻
+http://58.247.68.5:61985/hlsok/1fb0838b/index.m3u8
+#EXTINF:-1 group-title="未分组",BABYfIRST
+http://58.247.68.5:61985/hlsok/d959b037/index.m3u8
+#EXTINF:-1 group-title="未分组",BBC卡通
+http://58.247.68.5:61985/hlsok/e9151843/index.m3u8
+#EXTINF:-1 group-title="未分组",BBCLIFE
+http://58.247.68.5:61985/hlsok/74fd4d2a/index.m3u8
+#EXTINF:-1 group-title="未分组",亞洲旅遊
+http://58.247.68.5:61985/hlsok/9331c00b/index.m3u8
+#EXTINF:-1 group-title="未分组",EYE旅游
+http://58.247.68.5:61985/hlsok/bb7e06ef/index.m3u8
+#EXTINF:-1 group-title="未分组",美食星球
+http://58.247.68.5:61985/hlsok/00740cb7/index.m3u8
+#EXTINF:-1 group-title="未分组",历史H2
+http://58.247.68.5:61985/hlsok/59d690d3/index.m3u8
+#EXTINF:-1 group-title="未分组",靖天電影
+http://58.247.68.5:61985/hlsok/b6690265/index.m3u8
+#EXTINF:-1 group-title="未分组",靖天戏剧
+http://58.247.68.5:61985/hlsok/ec8952ba/index.m3u8
+#EXTINF:-1 group-title="未分组",靖天日本
+http://58.247.68.5:61985/hlsok/22b2a3c1/index.m3u8
+#EXTINF:-1 group-title="未分组",MTV
+http://58.247.68.5:61985/hlsok/d909dee0/index.m3u8
+#EXTINF:-1 group-title="未分组",EVE
+http://58.247.68.5:61985/hlsok/f5fffbfc/index.m3u8
+#EXTINF:-1 group-title="未分组",公视台语台
+http://58.247.68.5:61985/hlsok/49ab3435/index.m3u8
+#EXTINF:-1 group-title="未分组",公視3HD
+http://58.247.68.5:61985/hlsok/a804122f/index.m3u8
+#EXTINF:-1 group-title="未分组",原住民
+http://58.247.68.5:61985/hlsok/8d6f904e/index.m3u8
+#EXTINF:-1 group-title="未分组",客家电视
+http://58.247.68.5:61985/hlsok/6caa4479/index.m3u8
+#EXTINF:-1 group-title="未分组",中视菁采台
+http://58.247.68.5:61985/hlsok/44aa1843/index.m3u8
+#EXTINF:-1 group-title="未分组",台视综合
+http://58.247.68.5:61985/hlsok/1364de9b/index.m3u8
+#EXTINF:-1 group-title="未分组",台视财经台
+http://58.247.68.5:61985/hlsok/1088d24f/index.m3u8
+#EXTINF:-1 group-title="未分组",MOMO親子
+http://58.247.68.5:61985/hlsok/e56e53b8/index.m3u8
+#EXTINF:-1 group-title="未分组",MOMO綜合
+http://58.247.68.5:61985/hlsok/cb76e2e5/index.m3u8
+#EXTINF:-1 group-title="未分组",人間衛視
+http://58.247.68.5:61985/hlsok/20880537/index.m3u8
+#EXTINF:-1 group-title="未分组",大爱电视台
+http://58.247.68.5:61985/hlsok/0fe40b1c/index.m3u8
+#EXTINF:-1 group-title="未分组",好消息
+http://58.247.68.5:61985/hlsok/9e23bf25/index.m3u8
+#EXTINF:-1 group-title="未分组",好消息2
+http://58.247.68.5:61985/hlsok/c56f11e4/index.m3u8
+#EXTINF:-1 group-title="未分组",TV1 FHD
+http://58.247.68.5:61985/hlsok/4cad7aab1/index.m3u8
+#EXTINF:-1 group-title="未分组",TV2 FHD
+http://58.247.68.5:61985/hlsok/e97ff690f/index.m3u8
+#EXTINF:-1 group-title="未分组",TV3 FHD
+http://58.247.68.5:61985/hlsok/00e0fc39b/index.m3u8
+#EXTINF:-1 group-title="未分组",TV3
+http://58.247.68.5:61985/hlsok/26fd4c4d9/index.m3u8
+#EXTINF:-1 group-title="未分组",RTM Sports FHD
+http://58.247.68.5:61985/hlsok/108b2bcbf/index.m3u8
+#EXTINF:-1 group-title="未分组",BERITA rtm FHD
+http://58.247.68.5:61985/hlsok/60ad5671a/index.m3u8
+#EXTINF:-1 group-title="未分组",Bernama News
+http://58.247.68.5:61985/hlsok/e6e9bd80b/index.m3u8
+#EXTINF:-1 group-title="未分组",TV ALHIJRAH FHD
+http://58.247.68.5:61985/hlsok/6a3279c14/index.m3u8
+#EXTINF:-1 group-title="未分组",AWANI  FHD
+http://58.247.68.5:61985/hlsok/6cd9a8b4d/index.m3u8
+#EXTINF:-1 group-title="未分组",NHK World FHD
+http://58.247.68.5:61985/hlsok/b98ebfaeb/index.m3u8
+#EXTINF:-1 group-title="未分组",CGTN
+http://58.247.68.5:61985/hlsok/b9377fa6e/index.m3u8
+#EXTINF:-1 group-title="未分组",CNN FHD
+http://58.247.68.5:61985/hlsok/3a8b05e8f/index.m3u8
+#EXTINF:-1 group-title="未分组",BBC World FHD
+http://58.247.68.5:61985/hlsok/8bfad9d08/index.m3u8
+#EXTINF:-1 group-title="未分组",Al Jazeera FHD
+http://58.247.68.5:61985/hlsok/91fade782/index.m3u8
+#EXTINF:-1 group-title="未分组",CNBC FHD
+http://58.247.68.5:61985/hlsok/bffcb7689/index.m3u8
+#EXTINF:-1 group-title="未分组",BloomBerg FHD
+http://58.247.68.5:61985/hlsok/b44316a45/index.m3u8
+#EXTINF:-1 group-title="未分组",Sky News FHD
+http://58.247.68.5:61985/hlsok/48e07bd8b/index.m3u8
+#EXTINF:-1 group-title="未分组",TA - DAA! FHD
+http://58.247.68.5:61985/hlsok/88fbc1710/index.m3u8
+#EXTINF:-1 group-title="未分组",Tutor SK FHD
+http://58.247.68.5:61985/hlsok/8dcb0269f/index.m3u8
+#EXTINF:-1 group-title="未分组",Tutor SMK FHD
+http://58.247.68.5:61985/hlsok/952405c41/index.m3u8
+#EXTINF:-1 group-title="未分组",Nickelodeon FHD
+http://58.247.68.5:61985/hlsok/bd26c9bef/index.m3u8
+#EXTINF:-1 group-title="未分组",Disney HD
+http://58.247.68.5:61985/hlsok/92d3d2fd1/index.m3u8
+#EXTINF:-1 group-title="未分组",Cartoon Network
+http://58.247.68.5:61985/hlsok/bffccef17/index.m3u8
+#EXTINF:-1 group-title="未分组",Nick jr FHD
+http://58.247.68.5:61985/hlsok/edbf8681e/index.m3u8
+#EXTINF:-1 group-title="未分组",Boomerang
+http://58.247.68.5:61985/hlsok/793feddf2/index.m3u8
+#EXTINF:-1 group-title="未分组",Moonbug Kids
+http://58.247.68.5:61985/hlsok/865cf9e84/index.m3u8
+#EXTINF:-1 group-title="未分组",ASSP 1 FHD
+http://58.247.68.5:61985/hlsok/e2a9fd412/index.m3u8
+#EXTINF:-1 group-title="未分组",ASSP 2 FHD
+http://58.247.68.5:61985/hlsok/6005446aa/index.m3u8
+#EXTINF:-1 group-title="未分组",ASSP 3 FHD
+http://58.247.68.5:61985/hlsok/3e8df4b90/index.m3u8
+#EXTINF:-1 group-title="未分组",ASSP 4 FHD
+http://58.247.68.5:61985/hlsok/67925edf7/index.m3u8
+#EXTINF:-1 group-title="未分组",ASSP 5 FHD
+http://58.247.68.5:61985/hlsok/639fd6dd8/index.m3u8
+#EXTINF:-1 group-title="未分组",ARENA FHD
+http://58.247.68.5:61985/hlsok/a806e8354/index.m3u8
+#EXTINF:-1 group-title="未分组",ARENA 2 FHD
+http://58.247.68.5:61985/hlsok/d51fac985/index.m3u8
+#EXTINF:-1 group-title="未分组",SPOTV FHD
+http://58.247.68.5:61985/hlsok/256a82c5f/index.m3u8
+#EXTINF:-1 group-title="未分组",beIN sports 1
+http://58.247.68.5:61985/hlsok/ea7fb0b25/index.m3u8
+#EXTINF:-1 group-title="未分组",beIN Sports 2
+http://58.247.68.5:61985/hlsok/1e067f9b2/index.m3u8
+#EXTINF:-1 group-title="未分组",beIN Sports 3
+http://58.247.68.5:61985/hlsok/2de26c1db/index.m3u8
+#EXTINF:-1 group-title="未分组",Eurosport FHD
+http://58.247.68.5:61985/hlsok/b3415a87e/index.m3u8
+#EXTINF:-1 group-title="未分组",PREMIER SPORTS
+http://58.247.68.5:61985/hlsok/015e92493/index.m3u8
+#EXTINF:-1 group-title="未分组",WWE FHD
+http://58.247.68.5:61985/hlsok/1de967e63/index.m3u8
+#EXTINF:-1 group-title="未分组",8TV HD
+http://58.247.68.5:61985/hlsok/8c1c704ed/index.m3u8
+#EXTINF:-1 group-title="未分组",TV9 HD
+http://58.247.68.5:61985/hlsok/0e77de8e0/index.m3u8
+#EXTINF:-1 group-title="未分组",CH5
+http://58.247.68.5:61985/hlsok/e8bcd3a7/index.m3u8
+#EXTINF:-1 group-title="未分组",CH8
+http://58.247.68.5:61985/hlsok/183ccfeb/index.m3u8
+#EXTINF:-1 group-title="未分组",CHU
+http://58.247.68.5:61985/hlsok/bb82f033/index.m3u8
+#EXTINF:-1 group-title="未分组",SURIA
+http://58.247.68.5:61985/hlsok/dc1cc94c/index.m3u8
+#EXTINF:-1 group-title="未分组",VST
+http://58.247.68.5:61985/hlsok/61728c95/index.m3u8
+#EXTINF:-1 group-title="未分组",CNA
+http://58.247.68.5:61985/hlsok/1306d57e/index.m3u8
+#EXTINF:-1 group-title="未分组",VIU
+http://58.247.68.5:61985/hlsok/3a9eab5e/index.m3u8
+#EXTINF:-1 group-title="未分组",VIU6
+http://58.247.68.5:61985/hlsok/cebb5bb2/index.m3u8
+#EXTINF:-1 group-title="未分组",RHK31
+http://58.247.68.5:61985/hlsok/3fab4f58/index.m3u8
+#EXTINF:-1 group-title="未分组",RHK32
+http://58.247.68.5:61985/hlsok/f9dff950/index.m3u8
+#EXTINF:-1 group-title="未分组",TRT World
+http://58.247.68.5:61985/hlsok/b8b44c212/index.m3u8
+#EXTINF:-1 group-title="未分组",DW TV English
+http://58.247.68.5:61985/hlsok/371681ff5/index.m3u8
+#EXTINF:-1 group-title="未分组",TV5 Monde
+http://58.247.68.5:61985/hlsok/daf75e405/index.m3u8
+#EXTINF:-1 group-title="未分组",France 24
+http://58.247.68.5:61985/hlsok/4fb562228/index.m3u8
+#EXTINF:-1 group-title="未分组",Russia Today
+http://58.247.68.5:61985/hlsok/28a925a0d/index.m3u8
+#EXTINF:-1 group-title="未分组",News Asia
+http://58.247.68.5:61985/hlsok/2cf1e39b9/index.m3u8
+#EXTINF:-1 group-title="未分组",AEC FHD
+http://58.247.68.5:61985/hlsok/8b490aaa2/index.m3u8
+#EXTINF:-1 group-title="未分组",欢喜台 FHD
+http://58.247.68.5:61985/hlsok/eed43eebc/index.m3u8
+#EXTINF:-1 group-title="未分组",全佳 FHD
+http://58.247.68.5:61985/hlsok/f8894d6f8/index.m3u8
+#EXTINF:-1 group-title="未分组",爱奇艺 FHD
+http://58.247.68.5:61985/hlsok/c0603ce98/index.m3u8
+#EXTINF:-1 group-title="未分组",双星 FHD
+http://58.247.68.5:61985/hlsok/c6e446ec2/index.m3u8
+#EXTINF:-1 group-title="未分组",AOD FHD
+http://58.247.68.5:61985/hlsok/95506d172/index.m3u8
+#EXTINF:-1 group-title="未分组",华丽台 FHD
+http://58.247.68.5:61985/hlsok/4c308ed71/index.m3u8
+#EXTINF:-1 group-title="未分组",天映 FHD
+http://58.247.68.5:61985/hlsok/25f0062c3/index.m3u8
+#EXTINF:-1 group-title="未分组",天映经典
+http://58.247.68.5:61985/hlsok/38bee4d5f/index.m3u8
+#EXTINF:-1 group-title="未分组",天映电影 FHD
+http://58.247.68.5:61985/hlsok/1adeba89d/index.m3u8
+#EXTINF:-1 group-title="未分组",小太阳 FHD
+http://58.247.68.5:61985/hlsok/8fc3aa637/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV-1 HD
+http://58.247.68.5:61985/hlsok/58fdf84b/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV-2 HD
+http://58.247.68.5:61985/hlsok/f7c1b505/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV-3 HD
+http://58.247.68.5:61985/hlsok/72b73c54/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV-4 HD
+http://58.247.68.5:61985/hlsok/9f2acb65/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV-5 HD
+http://58.247.68.5:61985/hlsok/ac09017a/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV-5P HD
+http://58.247.68.5:61985/hlsok/b7cefdf2/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV-6 HD
+http://58.247.68.5:61985/hlsok/291643ca/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV-7 HD
+http://58.247.68.5:61985/hlsok/31d939f9/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV-8 HD
+http://58.247.68.5:61985/hlsok/1dcfd45d/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV-9 HD
+http://58.247.68.5:61985/hlsok/6ffa158a/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV-10 HD
+http://58.247.68.5:61985/hlsok/527bd962/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV-11
+http://58.247.68.5:61985/hlsok/a9cdb3fd/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV-12 HD
+http://58.247.68.5:61985/hlsok/f7ed49cf/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV-13 HD
+http://58.247.68.5:61985/hlsok/96651d8c/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV-14 HD
+http://58.247.68.5:61985/hlsok/620b8ce3/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV-15
+http://58.247.68.5:61985/hlsok/86509c31/index.m3u8
+#EXTINF:-1 group-title="未分组",湖南卫视 HD
+http://58.247.68.5:61985/hlsok/f68464d9/index.m3u8
+#EXTINF:-1 group-title="未分组",浙江卫视 HD
+http://58.247.68.5:61985/hlsok/034fff50/index.m3u8
+#EXTINF:-1 group-title="未分组",东方卫视 HD
+http://58.247.68.5:61985/hlsok/ad58efb8/index.m3u8
+#EXTINF:-1 group-title="未分组",江苏卫视 HD
+http://58.247.68.5:61985/hlsok/7cb14c04/index.m3u8
+#EXTINF:-1 group-title="未分组",北京卫视
+http://58.247.68.5:61985/hlsok/0d05a000/index.m3u8
+#EXTINF:-1 group-title="未分组",深圳卫视
+http://58.247.68.5:61985/hlsok/3ec2ed61/index.m3u8
+#EXTINF:-1 group-title="未分组",广东卫视
+http://58.247.68.5:61985/hlsok/d1870b80/index.m3u8
+#EXTINF:-1 group-title="未分组",天津卫视
+http://58.247.68.5:61985/hlsok/14a7f857/index.m3u8
+#EXTINF:-1 group-title="未分组",湖北卫视
+http://58.247.68.5:61985/hlsok/d318b18c/index.m3u8
+#EXTINF:-1 group-title="未分组",TVB 经典
+http://58.247.68.5:61985/hlsok/e6b996579/index.m3u8
+#EXTINF:-1 group-title="未分组",TVB 星河
+http://58.247.68.5:61985/hlsok/2b448a969/index.m3u8
+#EXTINF:-1 group-title="未分组",TVB 娱乐新闻
+http://58.247.68.5:61985/hlsok/475bf8a6a/index.m3u8
+#EXTINF:-1 group-title="未分组",TVBS 亚洲
+http://58.247.68.5:61985/hlsok/940a0adba/index.m3u8
+#EXTINF:-1 group-title="未分组",GOLF HD
+http://58.247.68.5:61985/hlsok/a3b2186d3/index.m3u8
+#EXTINF:-1 group-title="未分组",STAR CRICKET HD
+http://58.247.68.5:61985/hlsok/d3e97a5b4/index.m3u8
+#EXTINF:-1 group-title="未分组",Champions TV1 HD
+http://58.247.68.5:61985/hlsok/9b498601a/index.m3u8
+#EXTINF:-1 group-title="未分组",Champions TV2 HD
+http://58.247.68.5:61985/hlsok/63cf51729/index.m3u8
+#EXTINF:-1 group-title="未分组",Champions TV3 HD
+http://58.247.68.5:61985/hlsok/0b411ac7f/index.m3u8
+#EXTINF:-1 group-title="未分组",Champions TV4 HD
+http://58.247.68.5:61985/hlsok/155051dfe/index.m3u8
+#EXTINF:-1 group-title="未分组",NBA TV
+http://58.247.68.5:61985/hlshd/ph00101/index.m3u8
+#EXTINF:-1 group-title="未分组",TV1 FHD
+http://58.247.68.5:61985/hlsok/4cad7aab1/index.m3u8
+#EXTINF:-1 group-title="未分组",TV2 FHD
+http://58.247.68.5:61985/hlsok/e97ff690f/index.m3u8
+#EXTINF:-1 group-title="未分组",TV3 FHD
+http://58.247.68.5:61985/hlsok/00e0fc39b/index.m3u8
+#EXTINF:-1 group-title="未分组",TV3
+http://58.247.68.5:61985/hlsok/26fd4c4d9/index.m3u8
+#EXTINF:-1 group-title="未分组",RTM Sports FHD
+http://58.247.68.5:61985/hlsok/108b2bcbf/index.m3u8
+#EXTINF:-1 group-title="未分组",BERITA rtm FHD
+http://58.247.68.5:61985/hlsok/60ad5671a/index.m3u8
+#EXTINF:-1 group-title="未分组",Bernama News
+http://58.247.68.5:61985/hlsok/e6e9bd80b/index.m3u8
+#EXTINF:-1 group-title="未分组",TV ALHIJRAH FHD
+http://58.247.68.5:61985/hlsok/6a3279c14/index.m3u8
+#EXTINF:-1 group-title="未分组",AWANI  FHD
+http://58.247.68.5:61985/hlsok/6cd9a8b4d/index.m3u8
+#EXTINF:-1 group-title="未分组",BBC World FHD
+http://58.247.68.5:61985/hlsok/8bfad9d08/index.m3u8
+#EXTINF:-1 group-title="未分组",Sky News FHD
+http://58.247.68.5:61985/hlsok/48e07bd8b/index.m3u8
+#EXTINF:-1 group-title="未分组",TA - DAA! FHD
+http://58.247.68.5:61985/hlsok/88fbc1710/index.m3u8
+#EXTINF:-1 group-title="未分组",Tutor SK FHD
+http://58.247.68.5:61985/hlsok/8dcb0269f/index.m3u8
+#EXTINF:-1 group-title="未分组",Tutor SMK FHD
+http://58.247.68.5:61985/hlsok/952405c41/index.m3u8
+#EXTINF:-1 group-title="未分组",Nickelodeon FHD
+http://58.247.68.5:61985/hlsok/bd26c9bef/index.m3u8
+#EXTINF:-1 group-title="未分组",Disney HD
+http://58.247.68.5:61985/hlsok/92d3d2fd1/index.m3u8
+#EXTINF:-1 group-title="未分组",Cartoon Network
+http://58.247.68.5:61985/hlsok/bffccef17/index.m3u8
+#EXTINF:-1 group-title="未分组",Nick jr FHD
+http://58.247.68.5:61985/hlsok/edbf8681e/index.m3u8
+#EXTINF:-1 group-title="未分组",Boomerang
+http://58.247.68.5:61985/hlsok/793feddf2/index.m3u8
+#EXTINF:-1 group-title="未分组",Moonbug Kids
+http://58.247.68.5:61985/hlsok/865cf9e84/index.m3u8
+#EXTINF:-1 group-title="未分组",ASSP 1 FHD
+http://58.247.68.5:61985/hlsok/e2a9fd412/index.m3u8
+#EXTINF:-1 group-title="未分组",ASSP 2 FHD
+http://58.247.68.5:61985/hlsok/6005446aa/index.m3u8
+#EXTINF:-1 group-title="未分组",ASSP 3 FHD
+http://58.247.68.5:61985/hlsok/3e8df4b90/index.m3u8
+#EXTINF:-1 group-title="未分组",ASSP 4 FHD
+http://58.247.68.5:61985/hlsok/67925edf7/index.m3u8
+#EXTINF:-1 group-title="未分组",ASSP 5 FHD
+http://58.247.68.5:61985/hlsok/639fd6dd8/index.m3u8
+#EXTINF:-1 group-title="未分组",ARENA FHD
+http://58.247.68.5:61985/hlsok/a806e8354/index.m3u8
+#EXTINF:-1 group-title="未分组",ARENA 2 FHD
+http://58.247.68.5:61985/hlsok/d51fac985/index.m3u8
+#EXTINF:-1 group-title="未分组",SPOTV FHD
+http://58.247.68.5:61985/hlsok/256a82c5f/index.m3u8
+#EXTINF:-1 group-title="未分组",beIN sports 1
+http://58.247.68.5:61985/hlsok/ea7fb0b25/index.m3u8
+#EXTINF:-1 group-title="未分组",beIN Sports 2
+http://58.247.68.5:61985/hlsok/1e067f9b2/index.m3u8
+#EXTINF:-1 group-title="未分组",beIN Sports 3
+http://58.247.68.5:61985/hlsok/2de26c1db/index.m3u8
+#EXTINF:-1 group-title="未分组",Eurosport FHD
+http://58.247.68.5:61985/hlsok/b3415a87e/index.m3u8
+#EXTINF:-1 group-title="未分组",PREMIER SPORTS
+http://58.247.68.5:61985/hlsok/015e92493/index.m3u8
+#EXTINF:-1 group-title="未分组",WWE FHD
+http://58.247.68.5:61985/hlsok/1de967e63/index.m3u8
+#EXTINF:-1 group-title="未分组",8TV HD
+http://58.247.68.5:61985/hlsok/8c1c704ed/index.m3u8
+#EXTINF:-1 group-title="未分组",TV9 HD
+http://58.247.68.5:61985/hlsok/0e77de8e0/index.m3u8
+#EXTINF:-1 group-title="未分组",CH5
+http://58.247.68.5:61985/hlsok/e8bcd3a7/index.m3u8
+#EXTINF:-1 group-title="未分组",CH8
+http://58.247.68.5:61985/hlsok/183ccfeb/index.m3u8
+#EXTINF:-1 group-title="未分组",CHU
+http://58.247.68.5:61985/hlsok/bb82f033/index.m3u8
+#EXTINF:-1 group-title="未分组",SURIA
+http://58.247.68.5:61985/hlsok/dc1cc94c/index.m3u8
+#EXTINF:-1 group-title="未分组",VST
+http://58.247.68.5:61985/hlsok/61728c95/index.m3u8
+#EXTINF:-1 group-title="未分组",CNA
+http://58.247.68.5:61985/hlsok/1306d57e/index.m3u8
+#EXTINF:-1 group-title="未分组",AEC FHD
+http://58.247.68.5:61985/hlsok/8b490aaa2/index.m3u8
+#EXTINF:-1 group-title="未分组",欢喜台 FHD
+http://58.247.68.5:61985/hlsok/eed43eebc/index.m3u8
+#EXTINF:-1 group-title="未分组",全佳 FHD
+http://58.247.68.5:61985/hlsok/f8894d6f8/index.m3u8
+#EXTINF:-1 group-title="未分组",爱奇艺 FHD
+http://58.247.68.5:61985/hlsok/c0603ce98/index.m3u8
+#EXTINF:-1 group-title="未分组",双星 FHD
+http://58.247.68.5:61985/hlsok/c6e446ec2/index.m3u8
+#EXTINF:-1 group-title="未分组",AOD FHD
+http://58.247.68.5:61985/hlsok/95506d172/index.m3u8
+#EXTINF:-1 group-title="未分组",华丽台 FHD
+http://58.247.68.5:61985/hlsok/4c308ed71/index.m3u8
+#EXTINF:-1 group-title="未分组",天映 FHD
+http://58.247.68.5:61985/hlsok/25f0062c3/index.m3u8
+#EXTINF:-1 group-title="未分组",天映经典
+http://58.247.68.5:61985/hlsok/38bee4d5f/index.m3u8
+#EXTINF:-1 group-title="未分组",天映电影 FHD
+http://58.247.68.5:61985/hlsok/1adeba89d/index.m3u8
+#EXTINF:-1 group-title="未分组",小太阳 FHD
+http://58.247.68.5:61985/hlsok/8fc3aa637/index.m3u8
+#EXTINF:-1 group-title="未分组",TVB 经典
+http://58.247.68.5:61985/hlsok/e6b996579/index.m3u8
+#EXTINF:-1 group-title="未分组",TVB 星河
+http://58.247.68.5:61985/hlsok/2b448a969/index.m3u8
+#EXTINF:-1 group-title="未分组",TVB 娱乐新闻
+http://58.247.68.5:61985/hlsok/475bf8a6a/index.m3u8
+#EXTINF:-1 group-title="未分组",TVBS 亚洲
+http://58.247.68.5:61985/hlsok/940a0adba/index.m3u8
+#EXTINF:-1 group-title="未分组",GOLF HD
+http://58.247.68.5:61985/hlsok/a3b2186d3/index.m3u8
+#EXTINF:-1 group-title="未分组",STAR CRICKET HD
+http://58.247.68.5:61985/hlsok/d3e97a5b4/index.m3u8
+#EXTINF:-1 group-title="未分组",Champions TV1 HD
+http://58.247.68.5:61985/hlsok/9b498601a/index.m3u8
+#EXTINF:-1 group-title="未分组",Champions TV2 HD
+http://58.247.68.5:61985/hlsok/63cf51729/index.m3u8
+#EXTINF:-1 group-title="未分组",Champions TV3 HD
+http://58.247.68.5:61985/hlsok/0b411ac7f/index.m3u8
+#EXTINF:-1 group-title="未分组",Champions TV4 HD
+http://58.247.68.5:61985/hlsok/155051dfe/index.m3u8
+#EXTINF:-1 group-title="未分组",NHK World FHD
+http://58.247.68.5:61985/hlsok/b98ebfaeb/index.m3u8
+#EXTINF:-1 group-title="未分组",CGTN
+http://58.247.68.5:61985/hlsok/b9377fa6e/index.m3u8
+#EXTINF:-1 group-title="未分组",CNN FHD
+http://58.247.68.5:61985/hlsok/3a8b05e8f/index.m3u8
+#EXTINF:-1 group-title="未分组",BBC World FHD
+http://58.247.68.5:61985/hlsok/8bfad9d08/index.m3u8
+#EXTINF:-1 group-title="未分组",Al Jazeera FHD
+http://58.247.68.5:61985/hlsok/91fade782/index.m3u8
+#EXTINF:-1 group-title="未分组",CNBC FHD
+http://58.247.68.5:61985/hlsok/bffcb7689/index.m3u8
+#EXTINF:-1 group-title="未分组",BloomBerg FHD
+http://58.247.68.5:61985/hlsok/b44316a45/index.m3u8
+#EXTINF:-1 group-title="未分组",Nickelodeon FHD
+http://58.247.68.5:61985/hlsok/bd26c9bef/index.m3u8
+#EXTINF:-1 group-title="未分组",Disney HD
+http://58.247.68.5:61985/hlsok/92d3d2fd1/index.m3u8
+#EXTINF:-1 group-title="未分组",Cartoon Network
+http://58.247.68.5:61985/hlsok/bffccef17/index.m3u8
+#EXTINF:-1 group-title="未分组",Nick jr FHD
+http://58.247.68.5:61985/hlsok/edbf8681e/index.m3u8
+#EXTINF:-1 group-title="未分组",Boomerang
+http://58.247.68.5:61985/hlsok/793feddf2/index.m3u8
+#EXTINF:-1 group-title="未分组",Moonbug Kids
+http://58.247.68.5:61985/hlsok/865cf9e84/index.m3u8
+#EXTINF:-1 group-title="未分组",TRT World
+http://58.247.68.5:61985/hlsok/b8b44c212/index.m3u8
+#EXTINF:-1 group-title="未分组",Russia Today
+http://58.247.68.5:61985/hlsok/28a925a0d/index.m3u8
+#EXTINF:-1 group-title="未分组",News Asia
+http://58.247.68.5:61985/hlsok/2cf1e39b9/index.m3u8
+#EXTINF:-1 group-title="未分组",NBA TV
+http://58.247.68.5:61985/hlshd/ph00101/index.m3u8
+#EXTINF:-1 group-title="未分组",凤凰中文 HD
+http://58.247.68.5:61985/hlsok/a1ddeef5/index.m3u8
+#EXTINF:-1 group-title="未分组",凤凰资讯 HD
+http://58.247.68.5:61985/hlsok/2c3cc674/index.m3u8
+#EXTINF:-1 group-title="未分组",凤凰香港 HD
+http://58.247.68.5:61985/hlsok/b18b32b6/index.m3u8
+#EXTINF:-1 group-title="未分组",翡翠台
+http://58.247.68.5:61985/hlsok/892debf01/index.m3u8
+#EXTINF:-1 group-title="未分组",J2
+http://58.247.68.5:61985/hlsok/67eed8f2c/index.m3u8
+#EXTINF:-1 group-title="未分组",無線财经
+http://58.247.68.5:61985/hlsok/bf90c099d/index.m3u8
+#EXTINF:-1 group-title="未分组",無線新聞
+http://58.247.68.5:61985/hlsok/f104404f0/index.m3u8
+#EXTINF:-1 group-title="未分组",明珠台
+http://58.247.68.5:61985/hlsok/df1763cf9/index.m3u8
+#EXTINF:-1 group-title="未分组",VIU
+http://58.247.68.5:61985/hlsok/3a9eab5e/index.m3u8
+#EXTINF:-1 group-title="未分组",VIU6
+http://58.247.68.5:61985/hlsok/cebb5bb2/index.m3u8
+#EXTINF:-1 group-title="未分组",RHK31
+http://58.247.68.5:61985/hlsok/3fab4f58/index.m3u8
+#EXTINF:-1 group-title="未分组",RHK32
+http://58.247.68.5:61985/hlsok/f9dff950/index.m3u8
+#EXTINF:-1 group-title="未分组",华丽台 FHD
+http://58.247.68.5:61985/hlsok/4c308ed71/index.m3u8
+#EXTINF:-1 group-title="未分组",天映 FHD
+http://58.247.68.5:61985/hlsok/25f0062c3/index.m3u8
+#EXTINF:-1 group-title="未分组",天映经典
+http://58.247.68.5:61985/hlsok/38bee4d5f/index.m3u8
+#EXTINF:-1 group-title="未分组",TVB 经典
+http://58.247.68.5:61985/hlsok/e6b996579/index.m3u8
+#EXTINF:-1 group-title="未分组",TVB 星河
+http://58.247.68.5:61985/hlsok/2b448a969/index.m3u8
+#EXTINF:-1 group-title="未分组",TVB 娱乐新闻
+http://58.247.68.5:61985/hlsok/475bf8a6a/index.m3u8
+#EXTINF:-1 group-title="未分组",民视 HD
+http://58.247.68.5:61985/hlsok/fd841196/index.m3u8
+#EXTINF:-1 group-title="未分组",中视 HD
+http://58.247.68.5:61985/hlsok/7b007f53/index.m3u8
+#EXTINF:-1 group-title="未分组",台视 HD
+http://58.247.68.5:61985/hlsok/0610e13c/index.m3u8
+#EXTINF:-1 group-title="未分组",华视 HD
+http://58.247.68.5:61985/hlsok/3d2107b0/index.m3u8
+#EXTINF:-1 group-title="未分组",公视 HD
+http://58.247.68.5:61985/hlsok/a98ccb72/index.m3u8
+#EXTINF:-1 group-title="未分组",CN卡通
+http://58.247.68.5:61985/hlsok/7fb19ba9/index.m3u8
+#EXTINF:-1 group-title="未分组",Animax
+http://58.247.68.5:61985/hlsok/4d696d82/index.m3u8
+#EXTINF:-1 group-title="未分组",Baby TV
+http://58.247.68.5:61985/hlsok/5c624ce4/index.m3u8
+#EXTINF:-1 group-title="未分组",东森电影
+http://58.247.68.5:61985/hlsok/75d7613b/index.m3u8
+#EXTINF:-1 group-title="未分组",东森洋片
+http://58.247.68.5:61985/hlsok/14561539/index.m3u8
+#EXTINF:-1 group-title="未分组",好莱坞
+http://58.247.68.5:61985/hlsok/a78680e4/index.m3u8
+#EXTINF:-1 group-title="未分组",龙祥电影
+http://58.247.68.5:61985/hlsok/e4a13cc1/index.m3u8
+#EXTINF:-1 group-title="未分组",纬来电影
+http://58.247.68.5:61985/hlsok/75966caf/index.m3u8
+#EXTINF:-1 group-title="未分组",TVBS
+http://58.247.68.5:61985/hlsok/e9c339cc/index.m3u8
+#EXTINF:-1 group-title="未分组",TVBS欢乐
+http://58.247.68.5:61985/hlsok/c9692259/index.m3u8
+#EXTINF:-1 group-title="未分组",TVBS新闻
+http://58.247.68.5:61985/hlsok/ea10c602/index.m3u8
+#EXTINF:-1 group-title="未分组",东森新闻
+http://58.247.68.5:61985/hlsok/1ecdeb5a/index.m3u8
+#EXTINF:-1 group-title="未分组",三立新闻
+http://58.247.68.5:61985/hlsok/0ebc9684/index.m3u8
+#EXTINF:-1 group-title="未分组",非凡新闻
+http://58.247.68.5:61985/hlsok/2187f64b/index.m3u8
+#EXTINF:-1 group-title="未分组",民视新闻
+http://58.247.68.5:61985/hlsok/ced345d4/index.m3u8
+#EXTINF:-1 group-title="未分组",中视新闻
+http://58.247.68.5:61985/hlsok/66836176/index.m3u8
+#EXTINF:-1 group-title="未分组",台视新闻
+http://58.247.68.5:61985/hlsok/c23f3737/index.m3u8
+#EXTINF:-1 group-title="未分组",华视新闻
+http://58.247.68.5:61985/hlsok/091887ce/index.m3u8
+#EXTINF:-1 group-title="未分组",Z频道
+http://58.247.68.5:61985/hlsok/12158ea6/index.m3u8
+#EXTINF:-1 group-title="未分组",国兴卫视
+http://58.247.68.5:61985/hlsok/9cd6fcae/index.m3u8
+#EXTINF:-1 group-title="未分组",HBO HD
+http://58.247.68.5:61985/hlsok/8fdeabec/index.m3u8
+#EXTINF:-1 group-title="未分组",HBO强档 HD
+http://58.247.68.5:61985/hlsok/335d6895/index.m3u8
+#EXTINF:-1 group-title="未分组",HBO家庭 HD
+http://58.247.68.5:61985/hlsok/1a67a2aa/index.m3u8
+#EXTINF:-1 group-title="未分组",HBO原创 HD
+http://58.247.68.5:61985/hlsok/3c54101b/index.m3u8
+#EXTINF:-1 group-title="未分组",探索亚洲 HD
+http://58.247.68.5:61985/hlsok/37c6ad51/index.m3u8
+#EXTINF:-1 group-title="未分组",探索頻道 HD
+http://58.247.68.5:61985/hlsok/592cd26f/index.m3u8
+#EXTINF:-1 group-title="未分组",探索科學 HD
+http://58.247.68.5:61985/hlsok/bf60aa18d/index.m3u8
+#EXTINF:-1 group-title="未分组",探索动力 HD
+http://58.247.68.5:61985/hlsok/c4421e308/index.m3u8
+#EXTINF:-1 group-title="未分组",國家地理 HD
+http://58.247.68.5:61985/hlsok/cab58bd3/index.m3u8
+#EXTINF:-1 group-title="未分组",地理野生 HD
+http://58.247.68.5:61985/hlsok/dc882466/index.m3u8
+#EXTINF:-1 group-title="未分组",TLC HD
+http://58.247.68.5:61985/hlsok/3beb476b/index.m3u8
+#EXTINF:-1 group-title="未分组",动物星球 HD
+http://58.247.68.5:61985/hlsok/76011b82/index.m3u8
+#EXTINF:-1 group-title="未分组",AXN HD
+http://58.247.68.5:61985/hlsok/c1c18f78/index.m3u8
+#EXTINF:-1 group-title="未分组",CINEMAX HD
+http://58.247.68.5:61985/hlsok/79be7824/index.m3u8
+#EXTINF:-1 group-title="未分组",WarnerTV HD
+http://58.247.68.5:61985/hlsok/9cb32ea0/index.m3u8
+#EXTINF:-1 group-title="未分组",亞洲美食 HD
+http://58.247.68.5:61985/hlsok/32fa8773/index.m3u8
+#EXTINF:-1 group-title="未分组",美食网 HD
+http://58.247.68.5:61985/hlsok/1dd145d4f/index.m3u8
+#EXTINF:-1 group-title="未分组",Star Movies HD
+http://58.247.68.5:61985/hlsok/716adb39/index.m3u8
+#EXTINF:-1 group-title="未分组",CI HD
+http://58.247.68.5:61985/hlsok/aad39e7d/index.m3u8
+#EXTINF:-1 group-title="未分组",Travel 旅游 HD
+http://58.247.68.5:61985/hlsok/06340a57/index.m3u8
+#EXTINF:-1 group-title="未分组",TVN HD
+http://58.247.68.5:61985/hlsok/c3efccf2/index.m3u8
+#EXTINF:-1 group-title="未分组",KMTV HD
+http://58.247.68.5:61985/hlsok/6d88eabe/index.m3u8
+#EXTINF:-1 group-title="未分组",HISTORY HD
+http://58.247.68.5:61985/hlsok/5c2de6d6/index.m3u8
+#EXTINF:-1 group-title="未分组",HGTV HD
+http://58.247.68.5:61985/hlsok/54506ff9/index.m3u8
+#EXTINF:-1 group-title="未分组",LIFE Time HD
+http://58.247.68.5:61985/hlsok/f25a92cc/index.m3u8
+#EXTINF:-1 group-title="未分组",BBC Earth  HD
+http://58.247.68.5:61985/hlsok/ea553fec/index.m3u8
+#EXTINF:-1 group-title="未分组",卫视电影台
+http://58.247.68.5:61985/hlsok/2359ba51/index.m3u8
+#EXTINF:-1 group-title="未分组",卫视中文台
+http://58.247.68.5:61985/hlsok/3b15e6b2/index.m3u8
+#EXTINF:-1 group-title="未分组",星卫电影HD
+http://58.247.68.5:61985/hlsok/cfcece47/index.m3u8
+#EXTINF:-1 group-title="未分组",星卫娱乐台
+http://58.247.68.5:61985/hlsok/2657344c/index.m3u8
+#EXTINF:-1 group-title="未分组",美亚电影
+http://58.247.68.5:61985/hlsok/558343fa/index.m3u8
+#EXTINF:-1 group-title="未分组",elevensports1
+http://58.247.68.5:61985/hlsok/9eec5c46/index.m3u8
+#EXTINF:-1 group-title="未分组",elevensports2
+http://58.247.68.5:61985/hlsok/a4970c8d/index.m3u8
+#EXTINF:-1 group-title="未分组",欧洲体育
+http://58.247.68.5:61985/hlsok/c3afb811/index.m3u8
+#EXTINF:-1 group-title="未分组",NBA动态
+http://58.247.68.5:61985/hlsok/ec8e7fc2/index.m3u8
+#EXTINF:-1 group-title="未分组",高點綜合
+http://58.247.68.5:61985/hlsok/9569303e/index.m3u8
+#EXTINF:-1 group-title="未分组",壹新聞
+http://58.247.68.5:61985/hlsok/cc4d59da/index.m3u8
+#EXTINF:-1 group-title="未分组",壹综合
+http://58.247.68.5:61985/hlsok/f0546361/index.m3u8
+#EXTINF:-1 group-title="未分组",壹電影
+http://58.247.68.5:61985/hlsok/4dcedbb6/index.m3u8
+#EXTINF:-1 group-title="未分组",年代新聞
+http://58.247.68.5:61985/hlsok/3abbaa2d/index.m3u8
+#EXTINF:-1 group-title="未分组",博斯高球1
+http://58.247.68.5:61985/hlsok/69e91b16/index.m3u8
+#EXTINF:-1 group-title="未分组",博斯高球2
+http://58.247.68.5:61985/hlsok/331f6d9d/index.m3u8
+#EXTINF:-1 group-title="未分组",博斯无限
+http://58.247.68.5:61985/hlsok/da31cc90/index.m3u8
+#EXTINF:-1 group-title="未分组",博斯網球
+http://58.247.68.5:61985/hlsok/bdec2954/index.m3u8
+#EXTINF:-1 group-title="未分组",博斯运动1
+http://58.247.68.5:61985/hlsok/967c8913/index.m3u8
+#EXTINF:-1 group-title="未分组",博斯运动2
+http://58.247.68.5:61985/hlsok/231c4866/index.m3u8
+#EXTINF:-1 group-title="未分组",博斯魅力
+http://58.247.68.5:61985/hlsok/5c2d477b/index.m3u8
+#EXTINF:-1 group-title="未分组",东风37
+http://58.247.68.5:61985/hlsok/c1809a12/index.m3u8
+#EXTINF:-1 group-title="未分组",年代MUCH
+http://58.247.68.5:61985/hlsok/9755ce73/index.m3u8
+#EXTINF:-1 group-title="未分组",JET综合
+http://58.247.68.5:61985/hlsok/0c5bc08e/index.m3u8
+#EXTINF:-1 group-title="未分组",霹靂台灣台
+http://58.247.68.5:61985/hlsok/7b8dd162/index.m3u8
+#EXTINF:-1 group-title="未分组",東森財經
+http://58.247.68.5:61985/hlsok/7a3a85b7/index.m3u8
+#EXTINF:-1 group-title="未分组",東森戲劇
+http://58.247.68.5:61985/hlsok/35bb9175/index.m3u8
+#EXTINF:-1 group-title="未分组",東森綜合
+http://58.247.68.5:61985/hlsok/d3cc16e5/index.m3u8
+#EXTINF:-1 group-title="未分组",東森幼幼
+http://58.247.68.5:61985/hlsok/917ed93a/index.m3u8
+#EXTINF:-1 group-title="未分组",东森超视
+http://58.247.68.5:61985/hlsok/53633d87/index.m3u8
+#EXTINF:-1 group-title="未分组",纬来育乐
+http://58.247.68.5:61985/hlsok/f1a7b27f/index.m3u8
+#EXTINF:-1 group-title="未分组",纬来体育
+http://58.247.68.5:61985/hlsok/04a6b392/index.m3u8
+#EXTINF:-1 group-title="未分组",緯來戲劇
+http://58.247.68.5:61985/hlsok/f04a37c7/index.m3u8
+#EXTINF:-1 group-title="未分组",緯來綜合
+http://58.247.68.5:61985/hlsok/6bfaef10/index.m3u8
+#EXTINF:-1 group-title="未分组",纬来日本
+http://58.247.68.5:61985/hlsok/b9c4ab9a/index.m3u8
+#EXTINF:-1 group-title="未分组",纬来精彩
+http://58.247.68.5:61985/hlsok/9554fc33/index.m3u8
+#EXTINF:-1 group-title="未分组",中天新闻
+http://58.247.68.5:61985/hlsok/565046de1/index.m3u8
+#EXTINF:-1 group-title="未分组",中天綜合
+http://58.247.68.5:61985/hlsok/cd862c57/index.m3u8
+#EXTINF:-1 group-title="未分组",中天娱乐
+http://58.247.68.5:61985/hlsok/8767613c/index.m3u8
+#EXTINF:-1 group-title="未分组",三立財經
+http://58.247.68.5:61985/hlsok/5ff59fda/index.m3u8
+#EXTINF:-1 group-title="未分组",三立台灣
+http://58.247.68.5:61985/hlsok/04cace76/index.m3u8
+#EXTINF:-1 group-title="未分组",三立都會
+http://58.247.68.5:61985/hlsok/6fd6bcf8/index.m3u8
+#EXTINF:-1 group-title="未分组",三立戏剧
+http://58.247.68.5:61985/hlsok/e27df090/index.m3u8
+#EXTINF:-1 group-title="未分组",八大第一台
+http://58.247.68.5:61985/hlsok/0c1c9c69/index.m3u8
+#EXTINF:-1 group-title="未分组",八大綜合
+http://58.247.68.5:61985/hlsok/41bea7e4/index.m3u8
+#EXTINF:-1 group-title="未分组",八大娛樂
+http://58.247.68.5:61985/hlsok/ae8d3762/index.m3u8
+#EXTINF:-1 group-title="未分组",八大戲劇
+http://58.247.68.5:61985/hlsok/ecd48897/index.m3u8
+#EXTINF:-1 group-title="未分组",非凡新聞
+http://58.247.68.5:61985/hlsok/2187f64b/index.m3u8
+#EXTINF:-1 group-title="未分组",寰宇新闻
+http://58.247.68.5:61985/hlsok/1fb0838b/index.m3u8
+#EXTINF:-1 group-title="未分组",BABYfIRST
+http://58.247.68.5:61985/hlsok/d959b037/index.m3u8
+#EXTINF:-1 group-title="未分组",BBC卡通
+http://58.247.68.5:61985/hlsok/e9151843/index.m3u8
+#EXTINF:-1 group-title="未分组",BBCLIFE
+http://58.247.68.5:61985/hlsok/74fd4d2a/index.m3u8
+#EXTINF:-1 group-title="未分组",亞洲旅遊
+http://58.247.68.5:61985/hlsok/9331c00b/index.m3u8
+#EXTINF:-1 group-title="未分组",EYE旅游
+http://58.247.68.5:61985/hlsok/bb7e06ef/index.m3u8
+#EXTINF:-1 group-title="未分组",美食星球
+http://58.247.68.5:61985/hlsok/00740cb7/index.m3u8
+#EXTINF:-1 group-title="未分组",历史H2
+http://58.247.68.5:61985/hlsok/59d690d3/index.m3u8
+#EXTINF:-1 group-title="未分组",靖天電影
+http://58.247.68.5:61985/hlsok/b6690265/index.m3u8
+#EXTINF:-1 group-title="未分组",靖天戏剧
+http://58.247.68.5:61985/hlsok/ec8952ba/index.m3u8
+#EXTINF:-1 group-title="未分组",靖天日本
+http://58.247.68.5:61985/hlsok/22b2a3c1/index.m3u8
+#EXTINF:-1 group-title="未分组",MTV
+http://58.247.68.5:61985/hlsok/d909dee0/index.m3u8
+#EXTINF:-1 group-title="未分组",EVE
+http://58.247.68.5:61985/hlsok/f5fffbfc/index.m3u8
+#EXTINF:-1 group-title="未分组",公视台语台
+http://58.247.68.5:61985/hlsok/49ab3435/index.m3u8
+#EXTINF:-1 group-title="未分组",公視3HD
+http://58.247.68.5:61985/hlsok/a804122f/index.m3u8
+#EXTINF:-1 group-title="未分组",原住民
+http://58.247.68.5:61985/hlsok/8d6f904e/index.m3u8
+#EXTINF:-1 group-title="未分组",客家电视
+http://58.247.68.5:61985/hlsok/6caa4479/index.m3u8
+#EXTINF:-1 group-title="未分组",中视菁采台
+http://58.247.68.5:61985/hlsok/44aa1843/index.m3u8
+#EXTINF:-1 group-title="未分组",台视综合
+http://58.247.68.5:61985/hlsok/1364de9b/index.m3u8
+#EXTINF:-1 group-title="未分组",台视财经台
+http://58.247.68.5:61985/hlsok/1088d24f/index.m3u8
+#EXTINF:-1 group-title="未分组",MOMO親子
+http://58.247.68.5:61985/hlsok/e56e53b8/index.m3u8
+#EXTINF:-1 group-title="未分组",MOMO綜合
+http://58.247.68.5:61985/hlsok/cb76e2e5/index.m3u8
+#EXTINF:-1 group-title="未分组",人間衛視
+http://58.247.68.5:61985/hlsok/20880537/index.m3u8
+#EXTINF:-1 group-title="未分组",大爱电视台
+http://58.247.68.5:61985/hlsok/0fe40b1c/index.m3u8
+#EXTINF:-1 group-title="未分组",好消息
+http://58.247.68.5:61985/hlsok/9e23bf25/index.m3u8
+#EXTINF:-1 group-title="未分组",好消息2
+http://58.247.68.5:61985/hlsok/c56f11e4/index.m3u8
+#EXTINF:-1 group-title="未分组",TVBS 亚洲
+http://58.247.68.5:61985/hlsok/940a0adba/index.m3u8
+#EXTINF:-1 group-title="未分组",CGTN
+http://58.247.68.5:61985/hlsok/b9377fa6e/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV-1 HD
+http://58.247.68.5:61985/hlsok/58fdf84b/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV-2 HD
+http://58.247.68.5:61985/hlsok/f7c1b505/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV-3 HD
+http://58.247.68.5:61985/hlsok/72b73c54/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV-4 HD
+http://58.247.68.5:61985/hlsok/9f2acb65/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV-5 HD
+http://58.247.68.5:61985/hlsok/ac09017a/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV-5P HD
+http://58.247.68.5:61985/hlsok/b7cefdf2/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV-6 HD
+http://58.247.68.5:61985/hlsok/291643ca/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV-7 HD
+http://58.247.68.5:61985/hlsok/31d939f9/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV-8 HD
+http://58.247.68.5:61985/hlsok/1dcfd45d/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV-9 HD
+http://58.247.68.5:61985/hlsok/6ffa158a/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV-10 HD
+http://58.247.68.5:61985/hlsok/527bd962/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV-11
+http://58.247.68.5:61985/hlsok/a9cdb3fd/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV-12 HD
+http://58.247.68.5:61985/hlsok/f7ed49cf/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV-13 HD
+http://58.247.68.5:61985/hlsok/96651d8c/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV-14 HD
+http://58.247.68.5:61985/hlsok/620b8ce3/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV-15
+http://58.247.68.5:61985/hlsok/86509c31/index.m3u8
+#EXTINF:-1 group-title="未分组",湖南卫视 HD
+http://58.247.68.5:61985/hlsok/f68464d9/index.m3u8
+#EXTINF:-1 group-title="未分组",浙江卫视 HD
+http://58.247.68.5:61985/hlsok/034fff50/index.m3u8
+#EXTINF:-1 group-title="未分组",东方卫视 HD
+http://58.247.68.5:61985/hlsok/ad58efb8/index.m3u8
+#EXTINF:-1 group-title="未分组",江苏卫视 HD
+http://58.247.68.5:61985/hlsok/7cb14c04/index.m3u8
+#EXTINF:-1 group-title="未分组",北京卫视
+http://58.247.68.5:61985/hlsok/0d05a000/index.m3u8
+#EXTINF:-1 group-title="未分组",深圳卫视
+http://58.247.68.5:61985/hlsok/3ec2ed61/index.m3u8
+#EXTINF:-1 group-title="未分组",广东卫视
+http://58.247.68.5:61985/hlsok/d1870b80/index.m3u8
+#EXTINF:-1 group-title="未分组",天津卫视
+http://58.247.68.5:61985/hlsok/14a7f857/index.m3u8
+#EXTINF:-1 group-title="未分组",湖北卫视
+http://58.247.68.5:61985/hlsok/d318b18c/index.m3u8
+#EXTINF:-1 group-title="未分组",TVBS新闻
+http://58.247.68.5:61985/hlsok/ea10c602/index.m3u8
+#EXTINF:-1 group-title="未分组",东森新闻
+http://58.247.68.5:61985/hlsok/1ecdeb5a/index.m3u8
+#EXTINF:-1 group-title="未分组",三立新闻
+http://58.247.68.5:61985/hlsok/0ebc9684/index.m3u8
+#EXTINF:-1 group-title="未分组",非凡新闻
+http://58.247.68.5:61985/hlsok/2187f64b/index.m3u8
+#EXTINF:-1 group-title="未分组",民视新闻
+http://58.247.68.5:61985/hlsok/ced345d4/index.m3u8
+#EXTINF:-1 group-title="未分组",中视新闻
+http://58.247.68.5:61985/hlsok/66836176/index.m3u8
+#EXTINF:-1 group-title="未分组",台视新闻
+http://58.247.68.5:61985/hlsok/c23f3737/index.m3u8
+#EXTINF:-1 group-title="未分组",华视新闻
+http://58.247.68.5:61985/hlsok/091887ce/index.m3u8
+#EXTINF:-1 group-title="未分组",壹新聞
+http://58.247.68.5:61985/hlsok/cc4d59da/index.m3u8
+#EXTINF:-1 group-title="未分组",年代新聞
+http://58.247.68.5:61985/hlsok/3abbaa2d/index.m3u8
+#EXTINF:-1 group-title="未分组",東森財經
+http://58.247.68.5:61985/hlsok/7a3a85b7/index.m3u8
+#EXTINF:-1 group-title="未分组",中天新闻
+http://58.247.68.5:61985/hlsok/565046de1/index.m3u8
+#EXTINF:-1 group-title="未分组",非凡新聞
+http://58.247.68.5:61985/hlsok/2187f64b/index.m3u8
+#EXTINF:-1 group-title="未分组",寰宇新闻
+http://58.247.68.5:61985/hlsok/1fb0838b/index.m3u8
+#EXTINF:-1 group-title="未分组",BERITA rtm FHD
+http://58.247.68.5:61985/hlsok/60ad5671a/index.m3u8
+#EXTINF:-1 group-title="未分组",Bernama News
+http://58.247.68.5:61985/hlsok/e6e9bd80b/index.m3u8
+#EXTINF:-1 group-title="未分组",AWANI  FHD
+http://58.247.68.5:61985/hlsok/6cd9a8b4d/index.m3u8
+#EXTINF:-1 group-title="未分组",NHK World FHD
+http://58.247.68.5:61985/hlsok/b98ebfaeb/index.m3u8
+#EXTINF:-1 group-title="未分组",CGTN
+http://58.247.68.5:61985/hlsok/b9377fa6e/index.m3u8
+#EXTINF:-1 group-title="未分组",CNN FHD
+http://58.247.68.5:61985/hlsok/3a8b05e8f/index.m3u8
+#EXTINF:-1 group-title="未分组",BBC World FHD
+http://58.247.68.5:61985/hlsok/8bfad9d08/index.m3u8
+#EXTINF:-1 group-title="未分组",Al Jazeera FHD
+http://58.247.68.5:61985/hlsok/91fade782/index.m3u8
+#EXTINF:-1 group-title="未分组",CNBC FHD
+http://58.247.68.5:61985/hlsok/bffcb7689/index.m3u8
+#EXTINF:-1 group-title="未分组",BloomBerg FHD
+http://58.247.68.5:61985/hlsok/b44316a45/index.m3u8
+#EXTINF:-1 group-title="未分组",TRT World
+http://58.247.68.5:61985/hlsok/b8b44c212/index.m3u8
+#EXTINF:-1 group-title="未分组",Russia Today
+http://58.247.68.5:61985/hlsok/28a925a0d/index.m3u8
+#EXTINF:-1 group-title="未分组",News Asia
+http://58.247.68.5:61985/hlsok/2cf1e39b9/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV-13 HD
+http://58.247.68.5:61985/hlsok/96651d8c/index.m3u8
+#EXTINF:-1 group-title="未分组",elevensports1
+http://58.247.68.5:61985/hlsok/9eec5c46/index.m3u8
+#EXTINF:-1 group-title="未分组",elevensports2
+http://58.247.68.5:61985/hlsok/a4970c8d/index.m3u8
+#EXTINF:-1 group-title="未分组",欧洲体育
+http://58.247.68.5:61985/hlsok/c3afb811/index.m3u8
+#EXTINF:-1 group-title="未分组",NBA动态
+http://58.247.68.5:61985/hlsok/ec8e7fc2/index.m3u8
+#EXTINF:-1 group-title="未分组",博斯高球1
+http://58.247.68.5:61985/hlsok/69e91b16/index.m3u8
+#EXTINF:-1 group-title="未分组",博斯高球2
+http://58.247.68.5:61985/hlsok/331f6d9d/index.m3u8
+#EXTINF:-1 group-title="未分组",博斯无限
+http://58.247.68.5:61985/hlsok/da31cc90/index.m3u8
+#EXTINF:-1 group-title="未分组",博斯網球
+http://58.247.68.5:61985/hlsok/bdec2954/index.m3u8
+#EXTINF:-1 group-title="未分组",博斯运动1
+http://58.247.68.5:61985/hlsok/967c8913/index.m3u8
+#EXTINF:-1 group-title="未分组",博斯运动2
+http://58.247.68.5:61985/hlsok/231c4866/index.m3u8
+#EXTINF:-1 group-title="未分组",博斯魅力
+http://58.247.68.5:61985/hlsok/5c2d477b/index.m3u8
+#EXTINF:-1 group-title="未分组",纬来体育
+http://58.247.68.5:61985/hlsok/04a6b392/index.m3u8
+#EXTINF:-1 group-title="未分组",RTM Sports FHD
+http://58.247.68.5:61985/hlsok/108b2bcbf/index.m3u8
+#EXTINF:-1 group-title="未分组",ASSP 1 FHD
+http://58.247.68.5:61985/hlsok/e2a9fd412/index.m3u8
+#EXTINF:-1 group-title="未分组",ASSP 2 FHD
+http://58.247.68.5:61985/hlsok/6005446aa/index.m3u8
+#EXTINF:-1 group-title="未分组",ASSP 3 FHD
+http://58.247.68.5:61985/hlsok/3e8df4b90/index.m3u8
+#EXTINF:-1 group-title="未分组",ASSP 4 FHD
+http://58.247.68.5:61985/hlsok/67925edf7/index.m3u8
+#EXTINF:-1 group-title="未分组",ASSP 5 FHD
+http://58.247.68.5:61985/hlsok/639fd6dd8/index.m3u8
+#EXTINF:-1 group-title="未分组",ARENA FHD
+http://58.247.68.5:61985/hlsok/a806e8354/index.m3u8
+#EXTINF:-1 group-title="未分组",ARENA 2 FHD
+http://58.247.68.5:61985/hlsok/d51fac985/index.m3u8
+#EXTINF:-1 group-title="未分组",SPOTV FHD
+http://58.247.68.5:61985/hlsok/256a82c5f/index.m3u8
+#EXTINF:-1 group-title="未分组",beIN sports 1
+http://58.247.68.5:61985/hlsok/ea7fb0b25/index.m3u8
+#EXTINF:-1 group-title="未分组",beIN Sports 2
+http://58.247.68.5:61985/hlsok/1e067f9b2/index.m3u8
+#EXTINF:-1 group-title="未分组",beIN Sports 3
+http://58.247.68.5:61985/hlsok/2de26c1db/index.m3u8
+#EXTINF:-1 group-title="未分组",Eurosport FHD
+http://58.247.68.5:61985/hlsok/b3415a87e/index.m3u8
+#EXTINF:-1 group-title="未分组",PREMIER SPORTS
+http://58.247.68.5:61985/hlsok/015e92493/index.m3u8
+#EXTINF:-1 group-title="未分组",WWE FHD
+http://58.247.68.5:61985/hlsok/1de967e63/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV-5 HD
+http://58.247.68.5:61985/hlsok/ac09017a/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV-5P HD
+http://58.247.68.5:61985/hlsok/b7cefdf2/index.m3u8
+#EXTINF:-1 group-title="未分组",GOLF HD
+http://58.247.68.5:61985/hlsok/a3b2186d3/index.m3u8
+#EXTINF:-1 group-title="未分组",STAR CRICKET HD
+http://58.247.68.5:61985/hlsok/d3e97a5b4/index.m3u8
+#EXTINF:-1 group-title="未分组",Champions TV1 HD
+http://58.247.68.5:61985/hlsok/9b498601a/index.m3u8
+#EXTINF:-1 group-title="未分组",Champions TV2 HD
+http://58.247.68.5:61985/hlsok/63cf51729/index.m3u8
+#EXTINF:-1 group-title="未分组",Champions TV3 HD
+http://58.247.68.5:61985/hlsok/0b411ac7f/index.m3u8
+#EXTINF:-1 group-title="未分组",Champions TV4 HD
+http://58.247.68.5:61985/hlsok/155051dfe/index.m3u8
+#EXTINF:-1 group-title="未分组",NBA TV
+http://58.247.68.5:61985/hlshd/ph00101/index.m3u8
+#EXTINF:-1 group-title="未分组",东森电影
+http://58.247.68.5:61985/hlsok/75d7613b/index.m3u8
+#EXTINF:-1 group-title="未分组",东森洋片
+http://58.247.68.5:61985/hlsok/14561539/index.m3u8
+#EXTINF:-1 group-title="未分组",好莱坞
+http://58.247.68.5:61985/hlsok/a78680e4/index.m3u8
+#EXTINF:-1 group-title="未分组",龙祥电影
+http://58.247.68.5:61985/hlsok/e4a13cc1/index.m3u8
+#EXTINF:-1 group-title="未分组",纬来电影
+http://58.247.68.5:61985/hlsok/75966caf/index.m3u8
+#EXTINF:-1 group-title="未分组",HBO HD
+http://58.247.68.5:61985/hlsok/8fdeabec/index.m3u8
+#EXTINF:-1 group-title="未分组",HBO强档 HD
+http://58.247.68.5:61985/hlsok/335d6895/index.m3u8
+#EXTINF:-1 group-title="未分组",HBO家庭 HD
+http://58.247.68.5:61985/hlsok/1a67a2aa/index.m3u8
+#EXTINF:-1 group-title="未分组",HBO原创 HD
+http://58.247.68.5:61985/hlsok/3c54101b/index.m3u8
+#EXTINF:-1 group-title="未分组",AXN HD
+http://58.247.68.5:61985/hlsok/c1c18f78/index.m3u8
+#EXTINF:-1 group-title="未分组",CINEMAX HD
+http://58.247.68.5:61985/hlsok/79be7824/index.m3u8
+#EXTINF:-1 group-title="未分组",WarnerTV HD
+http://58.247.68.5:61985/hlsok/9cb32ea0/index.m3u8
+#EXTINF:-1 group-title="未分组",Star Movies HD
+http://58.247.68.5:61985/hlsok/716adb39/index.m3u8
+#EXTINF:-1 group-title="未分组",CI HD
+http://58.247.68.5:61985/hlsok/aad39e7d/index.m3u8
+#EXTINF:-1 group-title="未分组",卫视电影台
+http://58.247.68.5:61985/hlsok/2359ba51/index.m3u8
+#EXTINF:-1 group-title="未分组",星卫电影HD
+http://58.247.68.5:61985/hlsok/cfcece47/index.m3u8
+#EXTINF:-1 group-title="未分组",美亚电影
+http://58.247.68.5:61985/hlsok/558343fa/index.m3u8
+#EXTINF:-1 group-title="未分组",壹電影
+http://58.247.68.5:61985/hlsok/4dcedbb6/index.m3u8
+#EXTINF:-1 group-title="未分组",靖天電影
+http://58.247.68.5:61985/hlsok/b6690265/index.m3u8
+#EXTINF:-1 group-title="未分组",爱奇艺 FHD
+http://58.247.68.5:61985/hlsok/c0603ce98/index.m3u8
+#EXTINF:-1 group-title="未分组",天映 FHD
+http://58.247.68.5:61985/hlsok/25f0062c3/index.m3u8
+#EXTINF:-1 group-title="未分组",天映经典
+http://58.247.68.5:61985/hlsok/38bee4d5f/index.m3u8
+#EXTINF:-1 group-title="未分组",天映电影 FHD
+http://58.247.68.5:61985/hlsok/1adeba89d/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV-6 HD
+http://58.247.68.5:61985/hlsok/291643ca/index.m3u8
+#EXTINF:-1 group-title="未分组",CN卡通
+http://58.247.68.5:61985/hlsok/7fb19ba9/index.m3u8
+#EXTINF:-1 group-title="未分组",Animax
+http://58.247.68.5:61985/hlsok/4d696d82/index.m3u8
+#EXTINF:-1 group-title="未分组",Baby TV
+http://58.247.68.5:61985/hlsok/5c624ce4/index.m3u8
+#EXTINF:-1 group-title="未分组",東森幼幼
+http://58.247.68.5:61985/hlsok/917ed93a/index.m3u8
+#EXTINF:-1 group-title="未分组",BABYfIRST
+http://58.247.68.5:61985/hlsok/d959b037/index.m3u8
+#EXTINF:-1 group-title="未分组",BBC卡通
+http://58.247.68.5:61985/hlsok/e9151843/index.m3u8
+#EXTINF:-1 group-title="未分组",MOMO親子
+http://58.247.68.5:61985/hlsok/e56e53b8/index.m3u8
+#EXTINF:-1 group-title="未分组",Nickelodeon FHD
+http://58.247.68.5:61985/hlsok/bd26c9bef/index.m3u8
+#EXTINF:-1 group-title="未分组",Disney HD
+http://58.247.68.5:61985/hlsok/92d3d2fd1/index.m3u8
+#EXTINF:-1 group-title="未分组",Cartoon Network
+http://58.247.68.5:61985/hlsok/bffccef17/index.m3u8
+#EXTINF:-1 group-title="未分组",Nick jr FHD
+http://58.247.68.5:61985/hlsok/edbf8681e/index.m3u8
+#EXTINF:-1 group-title="未分组",Boomerang
+http://58.247.68.5:61985/hlsok/793feddf2/index.m3u8
+#EXTINF:-1 group-title="未分组",Moonbug Kids
+http://58.247.68.5:61985/hlsok/865cf9e84/index.m3u8
+#EXTINF:-1 group-title="未分组",小太阳 FHD
+http://58.247.68.5:61985/hlsok/8fc3aa637/index.m3u8
