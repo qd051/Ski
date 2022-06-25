@@ -99,7 +99,38 @@ https://iplive-try.wasu.tv/11053.m3u8?group=600112&servicetype=0&livemode=1&serv
 http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
 #EXTINF:-1,五星体育
 http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
-
+#EXTINF:-1,好莱坞影院
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1,黑莓电影
+http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=no
+#EXTINF:-1,超级电影台
+http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
+#EXTINF:-1,动作电影
+http://39.134.66.66/PLTV/88888888/224/3221225555/index.m3u8
+#EXTINF:-1,开心影院
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1,喜剧联盟
+http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8
+#EXTINF:-1,怀旧老片
+http://117.148.179.146/PLTV/88888888/224/3221231513/index.m3u8
+#EXTINF:-1,僵尸剧场
+http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8
+#EXTINF:-1,TVB剧场
+http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
+#EXTINF:-1,试胆大会
+http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8
+#EXTINF:-1,军旅剧场
+http://117.148.179.145/PLTV/88888888/224/3221231585/index.m3u8
+#EXTINF:-1,追剧少女
+http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8
+#EXTINF:-1,y+频道
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
+#EXTINF:-1,K K_女神影院
+http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
+#EXTINF:-1,K K_喜剧电影
+http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
+#EXTINF:-1,午夜影院
+https://pull.kktv8.com/livekktv/99592190.flv
 
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="数字频道",CHC高清电影
 http://111.20.33.93/TVOD/88888893/224/3221226463/index.m3u8
