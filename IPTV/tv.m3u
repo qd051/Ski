@@ -123,14 +123,6 @@ http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8
 http://117.148.179.145/PLTV/88888888/224/3221231585/index.m3u8
 #EXTINF:-1,追剧少女
 http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8
-#EXTINF:-1,y+频道
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
-#EXTINF:-1,K K_女神影院
-http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
-#EXTINF:-1,K K_喜剧电影
-http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
-#EXTINF:-1,午夜影院
-https://pull.kktv8.com/livekktv/99592190.flv
 
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="数字频道",CHC高清电影
 http://111.20.33.93/TVOD/88888893/224/3221226463/index.m3u8
