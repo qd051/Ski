@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1,黑龙江新闻
-http://39.134.65.149/PLTV/88888888/224/3221225967/1.m3u8
-#EXTINF:-1,黑龙江文体
-http://39.134.65.149/PLTV/88888888/224/3221225965/1.m3u8
-#EXTINF:-1,黑龙江影视
-http://39.134.65.149/PLTV/88888888/224/3221225973/1.m3u8
-#EXTINF:-1,黑龙江都市
-http://39.134.65.151/PLTV/88888888/224/3221225969/1.m3u8
-#EXTINF:-1,黑龙江少儿
-http://39.134.65.143/PLTV/88888888/224/3221226002/1.m3u8
-#EXTINF:-1,黑龙江公共农业
-http://39.134.65.149/PLTV/88888888/224/3221225994/1.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1 综合
 https://iplive-try.wasu.tv/11078.m3u8?group=600112&servicetype=0&livemode=1&servicegrade=2&servicesp=dangbei&userid=dangbei_user_c4:e1:a1:c2:0e:91&tvid=03019Q9908AB284C41F8E&stbid=0fdf605ceb89598a4b4f3bbea5a9b315&authNum=1643171858140-2-0050646e5c7933bdc45871c5d629d453
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2 财经
@@ -146,6 +134,18 @@ http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
 http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/nnggpd.jpg" group-title="地方频道",南宁公共
 http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
+#EXTINF:-1,黑龙江新闻
+http://39.134.65.149/PLTV/88888888/224/3221225967/1.m3u8
+#EXTINF:-1,黑龙江文体
+http://39.134.65.149/PLTV/88888888/224/3221225965/1.m3u8
+#EXTINF:-1,黑龙江影视
+http://39.134.65.149/PLTV/88888888/224/3221225973/1.m3u8
+#EXTINF:-1,黑龙江都市
+http://39.134.65.151/PLTV/88888888/224/3221225969/1.m3u8
+#EXTINF:-1,黑龙江少儿
+http://39.134.65.143/PLTV/88888888/224/3221226002/1.m3u8
+#EXTINF:-1,黑龙江公共农业
+http://39.134.65.149/PLTV/88888888/224/3221225994/1.m3u8
 #EXTINF:-1 tvg-name="北京IPTV淘电影" tvg-logo="http://n.ysyz.top:99/buyaolian/bjiptvdy.png" group-title="地方频道",北京IPTV淘电影
 http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO7Z60nQmH%2FQdgWVzAI0y58w%3D%3D%3A20211105223205%2C10000100000000050000000003887498%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 #EXTINF:-1 tvg-name="北京IPTV淘剧场" tvg-logo="https://www.hualigs.cn/image/6153d99a454ef.jpg" group-title="地方频道",北京IPTV淘剧场
