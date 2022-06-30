@@ -113,7 +113,10 @@ http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8
 http://117.148.179.145/PLTV/88888888/224/3221231585/index.m3u8
 #EXTINF:-1,追剧少女
 http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8
-
+#EXTINF:-1,Hot亚洲影院
+http://39.136.48.2:8089/PLTV/88888888/224/3221225844/index.m3u8
+#EXTINF:-1,Hot欧美影院
+http://39.136.48.4:8089/PLTV/88888888/224/3221226345/index.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="数字频道",CHC高清电影
 http://111.20.33.93/TVOD/88888893/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="数字频道",CHC家庭影院 
