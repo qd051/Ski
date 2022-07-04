@@ -133,7 +133,7 @@ http://140.207.241.3:8080/live/program/live/dsjchd/4000000/d1.m3u8
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 #EXTINF:-1 tvg-name="精品體育" tvg-logo="" group-title="数字频道",精品體育
 http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="" group-title="数字频道",五星体育
+#EXTINF:-1 tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="数字频道",五星体育
 http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="数字频道",广东体育
 http://113.64.147.112:808/hls/1/index.m3u8
