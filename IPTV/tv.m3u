@@ -175,10 +175,6 @@ http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index
 http://111.20.33.93/PLTV/88888893/224/3221226352/index.m3u8
 #EXTINF:-1 tvg-name="纯享4k" tvg-logo="" group-title="4K",纯享4k
 http://39.135.32.10:6610/000000001000/HD-20M-2160P-chunxiang4k/1.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="纯享4k" tvg-logo="" group-title="4K",纯享4k
-http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-#EXTINF:-1 tvg-name="纯享4k" tvg-logo="" group-title="4K",纯享4k
-http://39.135.138.58:18890/PLTV/88888888/224/3221225786/index.m3u8
 #EXTINF:-1 tvg-name="南国都市4K" tvg-logo="http://www.tvyan.com/uploads/dianshi/nanguodushi.jpg" group-title="4K",南国都市4K
 http://ye23.win/iptv/gztv.php?id=shenghuo
 #EXTINF:-1 tvg-name="苏州4K" group-title="4K",苏州4K
