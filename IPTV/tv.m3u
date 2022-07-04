@@ -121,6 +121,16 @@ http://39.136.48.4:8089/PLTV/88888888/224/3221226345/index.m3u8
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/625204865
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="数字频道",云上电影院
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/625703337
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="数字频道",IPTV高清院线
+http://58.20.64.92:9998/tsfile/live/1033_1.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="数字频道",IPTV古装剧场
+http://58.20.64.92:9998/tsfile/live/1044_1.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="数字频道",IPTV抗战剧场
+http://58.20.64.92:9998/tsfile/live/1032_1.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="数字频道",经典功夫台
+https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="数字频道",金马影院
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="数字频道",CHC高清电影
 http://111.20.33.93/TVOD/88888893/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="数字频道",CHC家庭影院 
@@ -311,14 +321,5 @@ http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
 #EXTINF:-1 tvg-name="日本富士台" group-title="",日本富士台
 https://fujitv2.mov3.co/hls/fujitv.m3u8
 
-#EXTINF:-1 tvg-name="" group-title="",IPTV高清院线
-http://58.20.64.92:9998/tsfile/live/1033_1.m3u8
-#EXTINF:-1 tvg-name="" group-title="",IPTV古装剧场
-http://58.20.64.92:9998/tsfile/live/1044_1.m3u8
-#EXTINF:-1 tvg-name="" group-title="",IPTV抗战剧场
-http://58.20.64.92:9998/tsfile/live/1032_1.m3u8
-#EXTINF:-1 tvg-name="" group-title="",经典功夫台
-https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
-#EXTINF:-1 tvg-name="" group-title="",金马影院
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
 
