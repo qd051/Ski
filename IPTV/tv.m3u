@@ -111,9 +111,9 @@ http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8
 http://117.148.179.145/PLTV/88888888/224/3221231585/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="数字频道",追剧少女
 http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="数字频道",Hot亚洲影院
+#EXTINF:-1 tvg-name="亚洲影院" tvg-logo="" group-title="数字频道",亚洲影院
 http://39.136.48.2:8089/PLTV/88888888/224/3221225844/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="数字频道",Hot欧美影院
+#EXTINF:-1 tvg-name="欧美影院" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/OMYY.jpg" group-title="数字频道",欧美影院
 http://39.136.48.4:8089/PLTV/88888888/224/3221226345/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="数字频道",科幻电影
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/625204865
