@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1,jasmin_tv
+http://195.154.185.179/xx_jasmin_tv/index.m3u8
+#EXTINF:-1,fashion_tv
+http://195.154.185.179/xx_fashion_tv/index.m3u8
+#EXTINF:-1,nuart_tv
+http://195.154.185.179/xx_nuart_tv/index.m3u8
+#EXTINF:-1,playboy_tv
+http://195.154.185.179:80/xx_playboy_tv/index.m3u8
+#EXTINF:-1,hot_tv
+http ://195.154.185.179:80/xx_hot_tv/index.m3u8
+#EXTINF:-1,hustler_tv
+http://195.154.185.179:80/xx_hustler_tv/index.m3u8
+#EXTINF:-1,leo_tv
+http://195.154.185.179 :80/xx_leo_tv/index.m3u8
+#EXTINF:-1,pink_o_tv
+http://195.154.185.179:80/xx_pink_o_tv/index.m3u8
+#EXTINF:-1,o_la_la_tv
+http://195.154.185.179:80/xx_o_la_la_tv/index.m3u8
+#EXTINF:-1,venus_tv
+http://195.154.185.179:80/xx_venus_tv/index.m3u8
+#EXTINF:-1,prive_tv
+http://195.154.185.179:80/xx_prive_tv/index.m3u8
+#EXTINF:-1,Dorcel TV HD
+http://212.18.115.193:3169/play/dorcel/index.m3u8
+#EXTINF:-1,Evil Angel
+http://212.18.115.193:3169/play/a007/index.m3u8
+#EXTINF:-1,Ftv
+http://212.18.115.193:3169/play/ftv/index.m3u8
+#EXTINF:-1,HOT
+http://212.18.115.193:3169/play/a00d/index.m3u8
