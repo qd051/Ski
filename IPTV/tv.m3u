@@ -393,3 +393,51 @@ http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv03&nid=86
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
 #EXTINF:-1 tvg-name="日本富士台" tvg-logo="" group-title="海外",日本富士台
 https://fujitv2.mov3.co/hls/fujitv.m3u8
+
+
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="TVFix",CCTV-1 综合
+http://live.tvfix.org/hls/cctv1hd.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="TVFix",CCTV-2 财经
+http://live.tvfix.org/hls/cctv2hd.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="TVFix",CCTV-3 综艺
+http://live.tvfix.org/hls/cctv3hd.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="TVFix",CCTV-4 中文国际
+http://live.tvfix.org/hls/cctv4hd.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="TVFix",CCTV-5 体育
+http://live.tvfix.org/hls/cctv5hd.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="TVFix",CCTV5+ 体育赛事
+http://live.tvfix.org/hls/cctv5phd.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="TVFix",CCTV-6 电影
+http://live.tvfix.org/hls/cctv6hd.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="TVFix",CCTV-7 国防军事
+http://live.tvfix.org/hls/cctv7hd.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="TVFix",CCTV-8 电视剧
+http://live.tvfix.org/hls/cctv8hd.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="TVFix",CCTV-9 纪录
+http://live.tvfix.org/hls/cctv9hd.m3u8
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="TVFix",CCTV-10 科教
+http://live.tvfix.org/hls/cctv10hd.m3u8
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="TVFix",CCTV-11 戏曲
+http://live.tvfix.org/hls/cctv11hd.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="TVFix",CCTV-12 社会与法
+http://live.tvfix.org/hls/cctv12hd.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="TVFix",CCTV-13 新闻
+http://live.tvfix.org/hls/cctv13hd.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="TVFix",CCTV-14 少儿
+http://live.tvfix.org/hls/cctv14hd.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="TVFix",CCTV-15 音乐
+http://live.tvfix.org/hls/cctv15hd.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="TVFix",CCTV16 奥林匹克频道
+http://live.tvfix.org/hls/cctv16hd.m3u8
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="TVFix",CCTV-17 农村农业
+http://live.tvfix.org/hls/cctv17hd.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="TVFix",江苏卫视
+http://live.tvfix.org/hls/jshd.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="TVFix",浙江卫视
+http://live.tvfix.org/hls/zjhd.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="TVFix",湖南卫视
+http://live.tvfix.org/hls/hunanhd.m3u8
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="TVFix",北京卫视
+http://live.tvfix.org/hls/brtv1hd.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="TVFix",东方卫视
+http://live.tvfix.org/hls/dfhd.m3u8
