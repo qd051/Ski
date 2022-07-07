@@ -123,10 +123,6 @@ http://112.74.200.9:88/tv000000/m3u8.php?/migu/625204865
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/625703337
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="数字频道",经典功夫台
 https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
-#EXTINF:-1,华数1
-http://171.108.239.6:8181/tsfile/live/1019_1.m3u8
-#EXTINF:-1,华数2
-http://171.108.239.6:8181/tsfile/live/1022_1.m3u8
 #EXTINF:-1,电影
 http://171.108.239.6:8181/tsfile/live/1023_1.m3u8
 
@@ -277,6 +273,15 @@ http://171.108.239.6:8181/tsfile/live/1012_1.m3u8
 http://171.108.239.6:8181/tsfile/live/1013_1.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",私人影院
 http://171.108.239.6:8181/tsfile/live/1014_1.m3u8
+
+#EXTINF:-1 tvg-name="纬来日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="台湾",纬来日本
+http://www.xdzb.top:889/2/gtdl/gdjy.php?id=10&p=0
+#EXTINF:-1 tvg-name="纬来电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png" group-title="台湾",纬来电影
+http://www.xdzb.top:889/2/gtdl/gdjy.php?id=9&p=0
+#EXTINF:-1 tvg-name="纬来综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandOnTV.png" group-title="台湾",纬来综合
+http://www.xdzb.top:889/2/gtdl/gdjy.php?id=12&p=0
+#EXTINF:-1 tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="台湾",好莱坞电影
+http://www.xdzb.top:889/2/gtdl/gdjy.php?id=54&p=0
 #EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E6%88%8F%E5%89%A7.png" group-title="台湾",龙华戏剧
 http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 #EXTINF:-1 tvg-name="龙华偶像" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E5%81%B6%E5%83%8F.png" group-title="台湾",龙华偶像
