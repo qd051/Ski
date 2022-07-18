@@ -436,7 +436,7 @@ http://61.219.170.95:18540/.m3u8
 http://61.219.170.95:18541/.m3u8
 #EXTINF:-1 tvg-name="Animax" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="台湾",Animax
 http://61.219.170.95:18550/.m3u8
-#EXTINF:-1 tvg-name="AXN" tvg-logo="https://github.com/qd051/Ski/edit/master/IPTV/tv.m3u" group-title="海外",AXN
+#EXTINF:-1 tvg-name="AXN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="海外",AXN
 http://61.219.170.95:18548/.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="海外",Star World
 http://61.219.170.95:18504/.m3u8
