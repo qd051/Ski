@@ -198,6 +198,10 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰中文
 http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯
+http://61.219.170.95:18565/.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰中文
+http://61.219.170.95:18566/.m3u8
 #EXTINF:-1 tvg-name="港台電視31" tvg-logo="https://live.hkanime.com.hk/png_logo/31.png" group-title="香港",港台電視31
 https://cdn.hklive.tv/hls/31/index.m3u8
 #EXTINF:-1 tvg-name="港台電視32" tvg-logo="https://live.hkanime.com.hk/png_logo/32.png" group-title="香港",港台電視32
@@ -247,6 +251,22 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="香港",ATV亞旅衛視
 http://jc-qlive-play.jingchangkan.cn/3473_2b8b624d570bb2b67.m3u8
 
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",卫视电影台
+http://61.219.170.95:18529/.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",GTV八大综合台
+http://61.219.170.95:18517/.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",GTV八大第1台
+http://61.219.170.95:18539/.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",纬来戏剧台
+http://61.219.170.95:18557/.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",卫视中文台
+http://61.219.170.95:18522/.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",台视HD
+http://61.219.170.95:18543/.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",龙华戏剧台
+http://61.219.170.95:18507/.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",东风37台
+http://61.219.170.95:18560/.m3u8
 
 #EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E6%88%8F%E5%89%A7.png" group-title="台湾",龙华戏剧
 http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
