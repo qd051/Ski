@@ -188,10 +188,12 @@ http://39.135.32.10:6610/000000001000/HD-20M-2160P-chunxiang4k/1.m3u8?IASHttpSes
 http://ye23.win/iptv/gztv.php?id=shenghuo
 #EXTINF:-1 tvg-name="苏州4K" group-title="4K",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 tvg-name="欢笑剧场4k" group-title="4K",欢笑剧场4k
+#EXTINF:-1 tvg-name="欢笑剧场4k" group-title="4K",欢笑剧场4K
 http://111.20.33.93/PLTV/88888893/224/3221226582/index.m3u8
-#EXTINF:-1 tvg-name="LoveNature4K" tvg-logo="" group-title="4K",LoveNature4K
+#EXTINF:-1 tvg-name="LoveNature4K" tvg-logo="" group-title="4K",LoveNature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-name="LoveNature4K" tvg-logo="" group-title="4K",Clarity 4K
+https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯
 http://19x6f33139.iok.la:808/hls/1/index.m3u8
