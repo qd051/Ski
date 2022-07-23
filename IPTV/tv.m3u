@@ -326,6 +326,11 @@ http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv03&nid=86
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
 #EXTINF:-1 tvg-name="日本富士台" tvg-logo="" group-title="海外",日本富士台
 https://fujitv2.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="" group-title="海外",ESPN
+http://144.126.137.157/fs2.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="海外",ESPN 2
+http://144.126.137.157/espn2.m3u8
+
 
 #EXTINF:-1 tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86.png" group-title="台湾",台视
 http://61.219.170.95:18543/.m3u8
