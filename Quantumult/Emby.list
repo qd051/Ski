@@ -1,20 +1,14 @@
   # > Emby
-  DOMAIN-SUFFIX,emby.xeton.dev,Emby
-  DOMAIN-SUFFIX,emby-cf.plusmedia.site,Emby
-  DOMAIN-SUFFIX,jellyfin.xeton.dev,Emby
-  DOMAIN-SUFFIX,movie.xeton.dev,Emby
-  DOMAIN-SUFFIX,usa1.jmsooo.com,Emby
-  DOMAIN-SUFFIX,usa2.jmsooo.com,Emby
-  DOMAIN-SUFFIX,usa3.jmsooo.com,Emby
-  DOMAIN-SUFFIX,sg1.jmsooo.com,Emby
-  DOMAIN-SUFFIX,pub1.emby.wtf,Emby
-  DOMAIN-SUFFIX,pub1cm1.emby.wtf,Emby
-  DOMAIN-SUFFIX,pub2.emby.wtf,Emby
-  DOMAIN-SUFFIX,pub2cm1.emby.wtf,Emby
-  DOMAIN-SUFFIX,pub3.emby.wtf,Emby
-  DOMAIN-SUFFIX,pub3cm1.emby.wtf,Emby
+  DOMAIN-SUFFIX,emby.misakaf.xyz,Emby
+  DOMAIN-SUFFIX,emby.riches.cloud,Emby
+  DOMAIN-SUFFIX,cf.jmsooo.com,Emby
+  DOMAIN-SUFFIX,ha.jmsooo.com,Emby
+  DOMAIN-SUFFIX,hk.emby.kim,Emby
+  DOMAIN-SUFFIX,sg.emby.kim,Emby
+  DOMAIN-SUFFIX,emby.kim,Emby
+  DOMAIN-SUFFIX,play.charontv.com,Emby
   DOMAIN-SUFFIX,cf.odysseyplus.site,Emby
   DOMAIN-SUFFIX,sg.odysseyplus.site,Emby
-  DOMAIN-SUFFIX,sg2.odysseyplus.site,Emby
-  DOMAIN-SUFFIX,ru.odysseyplus.site,Emby
-  DOMAIN-SUFFIX,sp.odysseyplus.site,Emby
+  DOMAIN-SUFFIX,us.odysseyplus.site,Emby
+  DOMAIN-SUFFIX,kr.odysseyplus.site,Emby
+  DOMAIN-SUFFIX,jp.odysseyplus.site,Emby
