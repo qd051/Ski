@@ -328,9 +328,12 @@ http://144.126.137.157/fs2.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="海外",ESPN 2
 http://144.126.137.157/espn2.m3u8
 
-
-#EXTINF:-1,鳳凰衛視
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯台
+http://61.219.170.95:18565/.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰中文台
 http://61.219.170.95:18566/.m3u8
+#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="台湾",寰宇新闻台
+http://61.219.170.95:18569/.m3u8
 #EXTINF:-1 tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86.png" group-title="台湾",台视
 http://61.219.170.95:18543/.m3u8
 #EXTINF:-1 tvg-name="人间卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png" group-title="台湾",人间卫视
