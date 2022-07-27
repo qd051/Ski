@@ -226,9 +226,9 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="香港",ATV亞旅衛視
 http://jc-qlive-play.jingchangkan.cn/3473_2b8b624d570bb2b67.m3u8
 
-#EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E6%88%8F%E5%89%A7.png" group-title="台湾",龙华戏剧
+
 http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-#EXTINF:-1 tvg-name="龙华偶像" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E5%81%B6%E5%83%8F.png" group-title="台湾",龙华偶像
+
 http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 #EXTINF:-1 tvg-name="龙华日韩" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E6%97%A5%E9%9F%A9.png" group-title="台湾",龙华日韩
 http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
@@ -334,10 +334,14 @@ http://144.126.137.157/fs2.m3u8
 http://144.126.137.157/espn2.m3u8
 
 
+#EXTINF:-1,鳳凰衛視
+http://61.219.170.95:18566/.m3u8
 #EXTINF:-1 tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86.png" group-title="台湾",台视
 http://61.219.170.95:18543/.m3u8
 #EXTINF:-1 tvg-name="人间卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png" group-title="台湾",人间卫视
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1 tvg-name="人间卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png" group-title="台湾",人間衛視
+http://61.219.170.95:18561/.m3u8
 #EXTINF:-1 tvg-name="非凡商业台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueUSTVHDUSTVHD.png" group-title="台湾",非凡商业
 http://61.219.170.95:18510/.m3u8
 #EXTINF:-1 tvg-name="中天娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="台湾",中天娱乐
@@ -346,6 +350,12 @@ http://61.219.170.95:18521/.m3u8
 http://61.219.170.95:18522/.m3u8
 #EXTINF:-1 tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="台湾",卫视电影
 http://61.219.170.95:18529/.m3u8
+
+
+#EXTINF:-1 tvg-name="龙华电影" tvg-logo="" group-title="台湾",龙华电影
+http://61.219.170.95:18574/.m3u8
+#EXTINF:-1 tvg-name="龙华偶像" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E5%81%B6%E5%83%8F.png" group-title="台湾",龙华偶像
+http://61.219.170.95:18573/.m3u8
 #EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E6%88%8F%E5%89%A7.png" group-title="台湾",龙华戏剧
 http://61.219.170.95:18507/.m3u8
 #EXTINF:-1 tvg-name="龙华日韩台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E6%97%A5%E9%9F%A9.png" group-title="台湾",龙华日韩
@@ -354,24 +364,48 @@ http://61.219.170.95:18508/.m3u8
 http://61.219.170.95:18517/.m3u8
 #EXTINF:-1 tvg-name="八大第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png" group-title="台湾",八大第一
 http://61.219.170.95:18539/.m3u8
+
+#EXTINF:-1,纬来电影
+http://114.34.191.36:8555/.m3u8
+#EXTINF:-1 tvg-name="纬来戏剧台" tvg-logo="" group-title="台湾",纬来戏剧
+http://61.219.170.95:18557/.m3u8
 #EXTINF:-1 tvg-name="纬来日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="台湾",纬来日本
 http://61.219.170.95:18524/.m3u8
 #EXTINF:-1 tvg-name="纬来综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandOnTV.png" group-title="台湾",纬来综合
 http://61.219.170.95:18540/.m3u8
 #EXTINF:-1 tvg-name="纬来育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" group-title="台湾",纬来育乐
 http://61.219.170.95:18541/.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",東風37
+http://61.219.170.95:18560/.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",大愛7
+http://61.219.170.95:18567/.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",亞洲旅遊
+http://61.219.170.95:18568/.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",東森超視
+http://61.219.170.95:18555/.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="台湾",年代MUDH
+http://61.219.170.95:18558/.m3u8
 #EXTINF:-1 tvg-name="Animax" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="台湾",Animax
 http://61.219.170.95:18550/.m3u8
 #EXTINF:-1 tvg-name="AXN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="海外",AXN
 http://61.219.170.95:18548/.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="海外",Star World
+#EXTINF:-1 tvg-name="Star World" tvg-logo="" group-title="海外",Star World
 http://61.219.170.95:18504/.m3u8
 #EXTINF:-1 tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="海外",CNBC
 http://61.219.170.95:18551/.m3u8
 #EXTINF:-1 tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="海外",NHK世界
 http://61.219.170.95:18525/.m3u8
-#EXTINF:-1,Star World
-#http://61.219.170.95:18504/http/192.168.1.9:8081/hls/61/803/ch02.m3u8
+#EXTINF:-1,STARWORLD
+http://114.34.191.36:8561/.m3u8
+#EXTINF:-1,好莱坞电影
+http://114.34.191.36:8554/.m3u8
+#EXTINF:-1,CINEMAX
+http://114.34.191.36:8559/.m3u8
+#EXTINF:-1,STARMOVIES
+http://114.34.191.36:8560/.m3u8
+
+
+
 #EXTINF:-1,龙华日韩
 #http://61.219.170.95:18508/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8
 #EXTINF:-1,卫视中文
@@ -390,7 +424,9 @@ http://61.219.170.95:18525/.m3u8
 #http://61.219.170.95:18550/http/192.168.1.9:8081/hls/70/812/ch39.m3u8
 #EXTINF:-1,NHK世界
 #http://61.219.170.95:18525/http/192.168.1.9:8081/hls/62/804/ch06.m3u8
+#EXTINF:-1,Star World
+#http://61.219.170.95:18504/http/192.168.1.9:8081/hls/61/803/ch02.m3u8
+
 
 #EXTINF:-1,欢笑剧场4K
 http://111.20.33.82:80/PLTV/88888893/224/3221226582/index.m3u8?icpid=88888893&from=1&hms_devid=844
-
