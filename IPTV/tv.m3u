@@ -190,6 +190,8 @@ http://ye23.win/iptv/gztv.php?id=shenghuo
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-name="欢笑剧场4k" group-title="4K",欢笑剧场4K
 http://111.20.33.93/PLTV/88888893/224/3221226582/index.m3u8
+#EXTINF:-1 tvg-name="欢笑剧场4k" group-title="4K",欢笑剧场4K
+http://111.20.33.82:80/PLTV/88888893/224/3221226582/index.m3u8?icpid=88888893&from=1&hms_devid=844
 #EXTINF:-1 tvg-name="LoveNature4K" tvg-logo="" group-title="4K",LoveNature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-name="LoveNature4K" tvg-logo="" group-title="4K",Clarity 4K
@@ -417,6 +419,3 @@ http://114.34.191.36:8560/.m3u8
 #EXTINF:-1,Star World
 #http://61.219.170.95:18504/http/192.168.1.9:8081/hls/61/803/ch02.m3u8
 
-
-#EXTINF:-1,欢笑剧场4K
-http://111.20.33.82:80/PLTV/88888893/224/3221226582/index.m3u8?icpid=88888893&from=1&hms_devid=844
