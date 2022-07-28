@@ -394,14 +394,6 @@ http://61.219.170.95:18504/.m3u8
 http://61.219.170.95:18551/.m3u8
 #EXTINF:-1 tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="海外",NHK世界
 http://61.219.170.95:18525/.m3u8
-#EXTINF:-1,STARWORLD
-http://114.34.191.36:8561/.m3u8
-#EXTINF:-1,好莱坞电影
-http://114.34.191.36:8554/.m3u8
-#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="海外",CINEMAX
-http://114.34.191.36:8559/.m3u8
-#EXTINF:-1 tvg-name="StarMoviesHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="海外",StarMovies
-http://114.34.191.36:8560/.m3u8
 
 
 
