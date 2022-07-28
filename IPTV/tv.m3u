@@ -208,9 +208,11 @@ http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰中文
 http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯
-http://61.219.170.95:18565/.m3u8
+http://171.110.62.170:8181/tsfile/live/1069_1.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰中文
-http://61.219.170.95:18566/.m3u8
+http://171.110.62.170:8181/tsfile/live/1070_1.m3u8
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="香港",凤凰香港
+http://171.110.62.170:8181/tsfile/live/1071_1.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/320px-Now_Live_News_logo.svg.png" group-title="香港",Now 直播
 http://livetv.dnsfor.me:80/channel.3.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" tvg-logo="https://news.now.com/revamp2014/images/logo.png" group-title="香港",Now 新闻
@@ -229,7 +231,10 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://jc-qlive-play.jingchangkan.cn/3473_2b8b624d570bb2b67.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="香港",天眏经典
 http://120.84.96.142:808/hls/85/index.m3u8
-
+#EXTINF:-1,东森电影
+http://120.84.96.142:808/hls/32/index.m3u8
+#EXTINF:-1,龙祥电影
+http://120.84.96.142:808/hls/35/index.m3u8
 
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="台湾",寰宇新闻台
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
