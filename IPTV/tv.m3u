@@ -207,6 +207,12 @@ http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 http://61.219.170.95:18565/.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰中文台
 http://61.219.170.95:18566/.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="香港",翡翠台
+https://cdn.hklive.tv/xxxx/81/index.m3u8
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="香港",ViuTV
+https://cdn.hklive.tv/xxxx/96/index.m3u8
+#EXTINF:-1 tvg-name="ViuTV6" tvg-logo="" group-title="香港",ViuTV6
+https://cdn.hklive.tv/xxxx/99/index.m3u8
 #EXTINF:-1 tvg-name="Now直播" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/320px-Now_Live_News_logo.svg.png" group-title="香港",Now直播
 http://livetv.dnsfor.me:80/channel.3.m3u8
 #EXTINF:-1 tvg-name="Now新闻" tvg-logo="https://news.now.com/revamp2014/images/logo.png" group-title="香港",Now新闻
