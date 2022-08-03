@@ -87,9 +87,9 @@ http://117.148.179.157/PLTV/88888888/224/3221233413/index.m3u8?zzhongd
 
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
 
-#EXTINF:-1,海峡卫视
+#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="" group-title="卫视",海峡卫视
 #http://61.219.170.95:18533/http/192.168.1.9:8077/hls/42/80/fjttv.m3u8
-#EXTINF:-1,海峡卫视
+#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="" group-title="卫视",海峡卫视
 http://61.219.170.95:18533/.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="数字频道",黑莓电影
