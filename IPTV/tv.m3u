@@ -92,29 +92,29 @@ http://117.148.179.157/PLTV/88888888/224/3221233413/index.m3u8?zzhongd
 #EXTINF:-1 tvg-name="海峡卫视" tvg-logo="" group-title="卫视",海峡卫视
 http://61.219.170.95:18533/.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="数字频道",黑莓电影
+#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="" group-title="数字频道",黑莓电影
 http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=no
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="数字频道",超级电影
+#EXTINF:-1 tvg-name="超级电影" tvg-logo="" group-title="数字频道",超级电影
 http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="数字频道",好莱坞影院
+#EXTINF:-1 tvg-name="好莱坞影院" tvg-logo="" group-title="数字频道",好莱坞影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="数字频道",海外电影
+#EXTINF:-1 tvg-name="海外电影" tvg-logo="" group-title="数字频道",海外电影
 http://171.110.62.170:8181/tsfile/live/1147_1.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="数字频道",喜剧联盟
+#EXTINF:-1 tvg-name="喜剧联盟" tvg-logo="" group-title="数字频道",喜剧联盟
 http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="数字频道",怀旧老片
+#EXTINF:-1 tvg-name="怀旧老片" tvg-logo="" group-title="数字频道",怀旧老片
 http://117.148.179.146/PLTV/88888888/224/3221231513/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="数字频道",僵尸剧场
+#EXTINF:-1 tvg-name="僵尸剧场" tvg-logo="" group-title="数字频道",僵尸剧场
 http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="数字频道",TVB剧场
-http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="数字频道",试胆大会
+#EXTINF:-1 tvg-name="试胆大会" tvg-logo="" group-title="数字频道",试胆大会
 http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="数字频道",军旅剧场
+#EXTINF:-1 tvg-name="军旅剧场" tvg-logo="" group-title="数字频道",军旅剧场
 http://117.148.179.145/PLTV/88888888/224/3221231585/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="数字频道",追剧少女
+#EXTINF:-1 tvg-name="追剧少女" tvg-logo="" group-title="数字频道",追剧少女
 http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="数字频道",经典功夫台
+#EXTINF:-1 tvg-name="TVB剧场" tvg-logo="" group-title="数字频道",TVB剧场
+http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
+#EXTINF:-1 tvg-name="经典功夫台" tvg-logo="" group-title="数字频道",经典功夫台
 https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
 
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="数字频道",CHC动作电影
