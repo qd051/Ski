@@ -227,14 +227,8 @@ http://jc-qlive-play.jingchangkan.cn/3473_2b8b624d570bb2b67.m3u8
 http://171.110.62.170:8181/tsfile/live/1004_1.m3u8
 #EXTINF:-1 tvg-name="天眏经典" tvg-logo="" group-title="香港",天眏经典
 http://171.110.62.170:8181/tsfile/live/1000_1.m3u8
-#EXTINF:-1 tvg-name="天眏经典" tvg-logo="" group-title="香港",天眏经典
-http://120.84.96.142:808/hls/85/index.m3u8
 
 
-#EXTINF:-1 tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="台湾",东森电影台
-http://120.84.96.142:808/hls/32/index.m3u8
-#EXTINF:-1 tvg-name="LSTime电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="台湾",LSTime电影台
-http://120.84.96.142:808/hls/35/index.m3u8
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="台湾",寰宇新闻台
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
 #EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="台湾",TVBS新闻台
