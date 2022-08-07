@@ -279,6 +279,8 @@ http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw
 http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 tvg-name="TVBS欢乐" tvg-logo="" group-title="台湾",TVBS欢乐
 rtmp://59.124.75.138/sat/tv421
+#EXTINF:-1 tvg-name="TVBS经典" logo="" group-title="台湾",TVBS经典
+http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
 #EXTINF:-1 tvg-name="东森美洲卫视" tvg-logo="" group-title="台湾",东森美洲卫视
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 tvg-name="公视" logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="台湾",公视
