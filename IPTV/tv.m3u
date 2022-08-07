@@ -385,6 +385,8 @@ http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv10&nid=85
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv03&nid=86
 #EXTINF:-1 tvg-name="DW德国之声" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="海外",DW
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
+#EXTINF:-1 tvg-name="CNN" logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="海外",CNN
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 tvg-name="日本富士台" tvg-logo="" group-title="海外",日本富士台
 https://fujitv2.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="" group-title="海外",ESPN
