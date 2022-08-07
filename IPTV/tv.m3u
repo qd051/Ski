@@ -238,15 +238,22 @@ http://171.110.62.170:8181/tsfile/live/1000_1.m3u8
 #EXTINF:-1 tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="香港",美亚高清电影台
 http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
 
-
+#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="台湾",寰宇新闻台
+https://git.io/JgkpO
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="台湾",寰宇新闻台
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
+#EXTINF:-1 tvg-name="壹电视新闻台" logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="台湾" ,壹电视新闻台
+http://stream.nexttv.com.tw/n001/playlist.m3u8
 #EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="台湾",TVBS新闻台
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1 tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="台湾",台视新闻台
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
 #EXTINF:-1 tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="台湾",民视新闻台
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw
+#EXTINF:-1 tvg-name="中视新闻" logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="台湾",中视新闻
+https://git.io/Jgkxz
+#EXTINF:-1 tvg-name="中视新闻" logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="台湾",中视新闻
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="http://www.tvyan.com/uploads/dianshi/ctinews.jpg" group-title="台湾",中天新闻
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
 #EXTINF:-1 tvg-name="镜电视新闻台" tvg-logo="" group-title="台湾",镜电视新闻台
@@ -259,6 +266,8 @@ http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
 #EXTINF:-1 tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="台湾",东森财经新闻
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw
+#EXTINF:-1 tvg-name="三立iNEWS" logo="" group-title="台湾" ,三立iNEWS
+https://git.io/Jgkxj
 #EXTINF:-1 tvg-name="三立财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="台湾",三立财经新闻
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw
 #EXTINF:-1 tvg-name="TVBSG" tvg-logo="" group-title="台湾",TVBSG
@@ -267,8 +276,10 @@ http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 rtmp://59.124.75.138/sat/tv421
 #EXTINF:-1 tvg-name="东森美洲卫视" tvg-logo="" group-title="台湾",东森美洲卫视
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-#EXTINF:-1 tvg-name="华视" tvg-logo="" group-title="台湾",华视
+#EXTINF:-1 tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="台湾",华视
 rtmp://59.124.75.138/sat/tv111
+#EXTINF:-1 tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="台湾",华视
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6
 #EXTINF:-1 tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86.png" group-title="台湾",中视
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv040&nid=4
 #EXTINF:-1 tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E6%B0%91%E8%A7%86.png" group-title="台湾",民视
@@ -315,6 +326,8 @@ http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224
 #EXTINF:-1 tvg-name="好消息二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GoodTV2.png" group-title="台湾",GoodTV2
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv17&nid=8
+#EXTINF:-1 tvg-name="采昌影剧台" logo="http://epg.51zmt.top:8000/tb1/gt/采昌影剧.png" group-title="台湾",采昌影剧
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv049&nid=25
 #EXTINF:-1 tvg-name="经典电影台" tvg-logo="" group-title="台湾",经典电影台
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live021&nid=201
 #EXTINF:-1 tvg-name="经典卡通台" tvg-logo="" group-title="台湾",经典卡通台
