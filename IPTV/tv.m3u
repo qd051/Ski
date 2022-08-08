@@ -442,10 +442,13 @@ http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 tvg-name="日本富士台" tvg-logo="" group-title="海外",日本富士台
 https://fujitv2.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 tvg-name="esportsmax" tvg-logo="" group-title="海外",esportsmax
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="" group-title="海外",ESPN
 http://144.126.137.157/fs2.m3u8
 #EXTINF:-1 tvg-name="ESPN2" tvg-logo="" group-title="海外",ESPN2
 http://144.126.137.157/espn2.m3u8
+
 
 
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="台湾",寰宇新闻台
