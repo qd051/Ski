@@ -70,7 +70,7 @@ http://117.148.179.157/PLTV/88888888/224/3221233413/index.m3u8?zzhongd
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
 
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视
-https://epg.pm/stream/573a9a311ddef3012d63faad0f60737e23c3d50cd8474e2c8da96239217e0b78.php
+https://epg.pm/stream/230fa700fa360c6d85babedbe25b27bb417517067759157aa24a370e9885cc91.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
 
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
