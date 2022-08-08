@@ -89,10 +89,6 @@ https://epg.pm/stream/e37090540de1a8ee7643e31454f67e7afebc5328fb36ef8d5c6c437621
 
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
 
-#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="" group-title="卫视",海峡卫视
-http://61.219.170.95:18533/http/192.168.1.9:8077/hls/42/80/fjttv.m3u8
-#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="" group-title="卫视",海峡卫视
-#http://61.219.170.95:18533/.m3u8
 
 #EXTINF:-1,咪咕影视A
 http://117.148.179.163/PLTV/88888888/224/3221231727/index.m3u8
