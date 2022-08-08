@@ -70,7 +70,7 @@ http://117.148.179.157/PLTV/88888888/224/3221233413/index.m3u8?zzhongd
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
 
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视
-
+https://epg.pm/stream/573a9a311ddef3012d63faad0f60737e23c3d50cd8474e2c8da96239217e0b78.php
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
 
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
@@ -139,6 +139,21 @@ http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
 #EXTINF:-1 tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="数字频道",五星体育
 http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
+
+#EXTINF:-1 tvg-name="广西新闻" tvg-logo="https://epg.pm/media/images/channel/2021/10/07/large/20211007153113076586_45.png" group-title="地方",广西新闻
+https://epg.pm/stream/424c6db613ff6b3d32f79625f176b5d5f4c719c8b13121cc3adf06a14459b9e9.m3u8
+#EXTINF:-1 tvg-name="广西新闻" tvg-logo="https://epg.pm/media/images/channel/2021/10/07/large/20211007153113076586_45.png" group-title="地方",广西新闻
+https://epg.pm/stream/0d06ac9acfb72aa58f935e88cacd01ce8d167fe77edcc35b01bd6bd9ff122e22.m3u8
+#EXTINF:-1 tvg-name="广西综艺" tvg-logo="https://epg.pm/media/images/channel/2022/05/27/large/20220527161053042728_73.jpg" group-title="地方",广西综艺
+https://epg.pm/stream/d1b4f48e17540934add9c329393b254433f19f55b8b17f8631cb070001b4fa92.m3u8
+#EXTINF:-1 tvg-name="广西都市" tvg-logo="https://epg.pm/media/images/channel/2022/05/27/large/20220527160720929815_94.jpg" group-title="地方",广西都市
+https://epg.pm/stream/12b81434313ff627cd8d4ad3d89b8f5abfdf0ea9369ba68a9dffa8e33dd210b9.m3u8
+#EXTINF:-1 tvg-name="广西都市" tvg-logo="https://epg.pm/media/images/channel/2022/05/27/large/20220527160720929815_94.jpg" group-title="地方",广西都市
+https://epg.pm/stream/7c3293ebe3685b591ff954516d9bbf711cbbac5879e06768404cce3f43ca75d7.m3u8
+#EXTINF:-1 tvg-name="广西影视" tvg-logo="https://epg.pm/media/images/channel/2022/05/27/large/20220527161000730664_82.jpg" group-title="地方",广西影视
+https://epg.pm/stream/5a8d0303ccddf690cdbe090f5e1951e6e4a5c5728e16bdca1d94f6cd48194ffc.m3u8
+#EXTINF:-1 tvg-name="广西影视" tvg-logo="https://epg.pm/media/images/channel/2022/05/27/large/20220527161000730664_82.jpg" group-title="地方",广西影视
+https://epg.pm/stream/45e91c23122c5ee3eb8547b0c74236e676b05af4e4ee969782e182a6e970ced7.m3u8
 #EXTINF:-1 tvg-name="南宁新闻综合" tvg-logo="http://www.tvyan.com/uploads/dianshi/nnxwzh.jpg" group-title="地方",南宁新闻综合
 http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
 #EXTINF:-1 tvg-name="南宁都市生活" tvg-logo="http://www.tvyan.com/uploads/dianshi/nnxwzh.jpg" group-title="地方",南宁都市生活
