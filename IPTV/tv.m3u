@@ -189,7 +189,10 @@ https://epg.pm/stream/45c33d5a3f3ba1914fab634f15e87822bb0718160822df748927a20363
 https://epg.pm/stream/a957d4e5f157502d341b1ba6542c9aaa9cda482fa34706fee49c245d7464655a.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰秀资讯
 https://epg.pm/stream/cfff1be0c1dc07079f2b2c01e68f374c56e0ce2dbbe48621770688837de4eae4.m3u8
-
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰中文
+https://epg.pm/stream/beac0c4569a0e630824c26712cf51db5df536d3d5db482c623e262ced6f14c1c.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰中文
+https://epg.pm/stream/e30266528c3416bbfe52823b47c55fa82e2297eefed6bd0ca708cace4fdbbbb2.m3u8
 
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯
 http://171.110.62.170:8181/tsfile/live/1069_1.m3u8
@@ -197,20 +200,22 @@ http://171.110.62.170:8181/tsfile/live/1069_1.m3u8
 http://171.110.62.170:8181/tsfile/live/1070_1.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="香港",凤凰香港
 http://171.110.62.170:8181/tsfile/live/1071_1.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯
-http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰中文
-http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯
 http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰中文
 http://183.207.249.35/PLTV/3/224/3221226922/index.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="香港",凤凰香港
 http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯台
 http://61.219.170.95:18565/.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰中文台
 http://61.219.170.95:18566/.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰中文
+http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="香港",翡翠台
 https://cdn.hklive.tv/xxxx/81/index.m3u8
 #EXTINF:-1 tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="香港",J2
