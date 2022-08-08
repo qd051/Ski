@@ -139,6 +139,8 @@ http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
 #EXTINF:-1 tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="数字频道",五星体育
 http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
+#EXTINF:-1 tvg-name="Now Sports" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="数字频道",Now Sports
+http://livetv.dnsfor.me/channel.12.m3u8
 
 #EXTINF:-1 tvg-name="广西新闻" tvg-logo="https://epg.pm/media/images/channel/2021/10/07/large/20211007153113076586_45.png" group-title="地方",广西新闻
 https://epg.pm/stream/424c6db613ff6b3d32f79625f176b5d5f4c719c8b13121cc3adf06a14459b9e9.m3u8
