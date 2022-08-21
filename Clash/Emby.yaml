@@ -1,23 +1,22 @@
 payload:
   # > Emby
   - PROCESS-NAME,com.emby
-  - DOMAIN-SUFFIX,emby.xeton.dev
-  - DOMAIN-SUFFIX,emby-cf.plusmedia.site
-  - DOMAIN-SUFFIX,jellyfin.xeton.dev
-  - DOMAIN-SUFFIX,movie.xeton.dev
-  - DOMAIN-SUFFIX,usa1.jmsooo.com
-  - DOMAIN-SUFFIX,usa2.jmsooo.com
-  - DOMAIN-SUFFIX,usa3.jmsooo.com
-  - DOMAIN-SUFFIX,sg1.jmsooo.com
-  - DOMAIN-SUFFIX,pub1.emby.wtf
-  - DOMAIN-SUFFIX,pub1cm1.emby.wtf
-  - DOMAIN-SUFFIX,pub2.emby.wtf
-  - DOMAIN-SUFFIX,pub2cm1.emby.wtf
-  - DOMAIN-SUFFIX,pub3.emby.wtf
-  - DOMAIN-SUFFIX,pub3cm1.emby.wtf
+  - DOMAIN-SUFFIX,emby-pub1.blueseacdn.com
+  - DOMAIN-SUFFIX,play.charontv.com
+  - DOMAIN-SUFFIX,cf.misakaf.org
+  - DOMAIN-SUFFIX,emby.misakaf.xyz
+  - DOMAIN-SUFFIX,tagemby.com
+  - DOMAIN-SUFFIX,emby.riches.cloud
+  - DOMAIN-SUFFIX,cf.jmsooo.com
+  - DOMAIN-SUFFIX,ha.jmsooo.com
+  - DOMAIN-SUFFIX,hk.emby.kim
+  - DOMAIN-SUFFIX,sg.emby.kim
+  - DOMAIN-SUFFIX,emby.kim
   - DOMAIN-SUFFIX,cf.odysseyplus.site
   - DOMAIN-SUFFIX,sg.odysseyplus.site
-  - DOMAIN-SUFFIX,sg2.odysseyplus.site
-  - DOMAIN-SUFFIX,ru.odysseyplus.site
-  - DOMAIN-SUFFIX,sp.odysseyplus.site
-  - DOMAIN-KEYWORD,emby
+  - DOMAIN-SUFFIX,us.odysseyplus.site
+  - DOMAIN-SUFFIX,kr.odysseyplus.site
+  - DOMAIN-SUFFIX,jp.odysseyplus.site
+  - DOMAIN-SUFFIX,cu.poloemby.xyz
+  - DOMAIN-SUFFIX,hk.poloemby.xyz
+  - DOMAIN-SUFFIX,jp.poloemby.xyz
