@@ -1,14 +1,20 @@
   # > Emby
+  DOMAIN-SUFFIX,emby-pub1.blueseacdn.com,Emby
+  DOMAIN-SUFFIX,play.charontv.com,Emby
+  DOMAIN-SUFFIX,cf.misakaf.org,Emby
   DOMAIN-SUFFIX,emby.misakaf.xyz,Emby
+  DOMAIN-SUFFIX,tagemby.com,Emby
   DOMAIN-SUFFIX,emby.riches.cloud,Emby
   DOMAIN-SUFFIX,cf.jmsooo.com,Emby
   DOMAIN-SUFFIX,ha.jmsooo.com,Emby
   DOMAIN-SUFFIX,hk.emby.kim,Emby
   DOMAIN-SUFFIX,sg.emby.kim,Emby
   DOMAIN-SUFFIX,emby.kim,Emby
-  DOMAIN-SUFFIX,play.charontv.com,Emby
   DOMAIN-SUFFIX,cf.odysseyplus.site,Emby
   DOMAIN-SUFFIX,sg.odysseyplus.site,Emby
   DOMAIN-SUFFIX,us.odysseyplus.site,Emby
   DOMAIN-SUFFIX,kr.odysseyplus.site,Emby
   DOMAIN-SUFFIX,jp.odysseyplus.site,Emby
+  DOMAIN-SUFFIX,cu.poloemby.xyz,Emby
+  DOMAIN-SUFFIX,hk.poloemby.xyz,Emby
+  DOMAIN-SUFFIX,jp.poloemby.xyz,Emby
