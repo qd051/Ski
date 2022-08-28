@@ -160,6 +160,8 @@ http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
 http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
 #EXTINF:-1 tvg-name="南宁公共" tvg-logo="http://www.tvyan.com/uploads/dianshi/nnggpd.jpg" group-title="地方",南宁公共
 http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
+#EXTINF:-1 tvg-name="厦门1套" tvg-logo="" group-title="地方",厦门1套
+http://222.76.119.198:9901/tsfile/live/1014_1.m3u8
 #EXTINF:-1 tvg-name="峨嵋电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/emeidianying.png" group-title="地方",峨眉电影
 http://112.19.214.90:8883/tsfile/live/1004_1.m3u8
 #EXTINF:-1 tvg-name="北京IPTV萌宠TV” tvg-logo="" group-title="地方",北京IPTV萌宠TV
@@ -193,7 +195,10 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-name="LoveNature4K" tvg-logo="" group-title="4K",Clarity 4K
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 
-
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯
+http://222.76.119.198:9901/tsfile/live/1012_1.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰中文
+http://222.76.119.198:9901/tsfile/live/1013_1.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯
 https://epg.pm/stream/a1921bbd504e79d9acf7d7d77b0e0582a39d037cd051a67865079949173b6d96.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯
@@ -229,6 +234,8 @@ http://61.219.170.95:18566/.m3u8
 http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰中文
 http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="香港",翡翠台
+http://113.64.147.18:808/hls/67/index.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="香港",翡翠台
 https://cdn.hklive.tv/xxxx/81/index.m3u8
 #EXTINF:-1 tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="香港",J2
