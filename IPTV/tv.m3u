@@ -118,9 +118,36 @@ http://222.76.119.198:9901/tsfile/live/1014_1.m3u8
 #EXTINF:-1 tvg-name="峨嵋电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/emeidianying.png" group-title="地方",峨眉电影
 http://112.19.214.90:8883/tsfile/live/1004_1.m3u8
 http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+
+#EXTINF:-1 logo="" group-title="4K",IPTV4K超清
+http://111.13.42.238/PLTV/88888888/224/3221226550/1.m3u8
+#EXTINF:-1 logo="" group-title="4K",IPTV萌宠TV
+http://111.13.42.235/PLTV/88888888/224/3221226555/1.m3u8
+#EXTINF:-1 logo="" group-title="4K",IPTV淘电影
+http://111.13.42.234/PLTV/88888888/224/3221226552/1.m3u8
+#EXTINF:-1 logo="" group-title="4K",IPTV淘娱乐
+http://111.13.42.230/PLTV/88888888/224/3221226551/1.m3u8
+#EXTINF:-1 logo="" group-title="4K",IPTV淘BABY
+http://111.13.42.6/PLTV/88888888/224/3221226554/1.m3u8
+#EXTINF:-1 logo="" group-title="4K",LoveNature4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
+#EXTINF:-1 logo="" group-title="4K",纯享4K
+http://cache.ott.fifalive.itv.cmvideo.cn/0000000000001001/1/index.m3u8?Contentid=1000000004000011651&livemode=1&stbId=6&channel-id=ystenlive
+#EXTINF:-1 logo="" group-title="4K",纯享4K
+http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=no
+#EXTINF:-1 logo="" group-title="4K",纯享4K
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=4
+
+#EXTINF:-1 logo="" group-title="4K",影院4K
+http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=no
+#EXTINF:-1 logo="" group-title="4K",Clarity4K
+https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 logo="" group-title="4K",Fashion4K
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="4K",爱上4k
 http://111.20.33.93/PLTV/88888893/224/3221226352/index.m3u8
-
 #EXTINF:-1 tvg-name="南国都市4K" tvg-logo="http://www.tvyan.com/uploads/dianshi/nanguodushi.jpg" group-title="4K",南国都市4K
 http://ye23.win/iptv/gztv.php?id=shenghuo
 #EXTINF:-1 tvg-name="苏州4K" group-title="4K",苏州4K
