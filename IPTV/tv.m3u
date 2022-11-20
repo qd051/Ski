@@ -9,6 +9,8 @@ http://111.20.105.192:6610/000000001000/1000000004000011651/index.m3u8?channel-i
 http://111.20.105.192:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="抖音4K世界杯SDR源" tvg-logo="https://img.sj33.cn/uploads/202106/7-2106211G121315.jpg" group-title="4K频道",抖音4K世界杯
 https://pull-hls-spe-l1.douyinliving.com/fantasy/stream-400220578747515574_hd/playlist.m3u8?_neptune_token=MIGXBAwTfYCrMXNRPhFYZJcEdSL-LmS45BgdA8cUxvJE2MDAKpKwkmlK1TukkRR-642ewGVMar8stUkDRmwne3c1_jBqFeHcs7HBV3zmK2Nj9pAFzDAQOXU1tZjr-Fd4SC-E-bHYVwopDbxhBowKuI53ZERnfmYKzMpsaWhAsNGVZwhldKk0FgQQXiCEa2dcVPAneXrYHQKc7A&keeptime=00015180&wsSecret=034733faa7bd31b57653dca2dfb30cbf&wsTime=637a528f
+#EXTINF:-1 tvg-name="抖音4K世界杯SDR源" tvg-logo="https://img.sj33.cn/uploads/202106/7-2106211G121315.jpg" group-title="4K频道",抖音4K世界杯
+https://pull-spe-l3.douyincdn.com/fantasy/stream-111995500049728182_hd.m3u8?_neptune_token=MIGXBAwErw3EgX3cgBuLjVsEdX7rbKsY00bqE_tqaPv9JboIWRJb22j77ePzpem4Qn6_RnD6qqLCtW8a80AHg-NnNkxYGzTYJdZ48wu3kuygKax7YO33vEnzz1KGmr8OleuzTEzmf0VhrZs5XqHL7J95PF5VzrBUi43S9aFBKft-ld-X5RFfRQQQp6D8kG_Pv61NrklQSxkVVQ&auth_key=1669047042-0-0-5f885410e49e1fc40f35851aa9768009
 #EXTINF:-1 tvg-name="CCTV16-4K-SDR源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K频道",CCTV16-4K-SDR源
 http://111.20.105.192:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV16-4K-HLG源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K频道",CCTV16-4K-HLG源
