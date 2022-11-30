@@ -3,16 +3,12 @@
 > 應用名稱：Fimo
 > 軟件版本：3.0.0
 > 下載地址：https://apps.apple.com/cn/app/id1454219307
-> 腳本作者：Cuttlefish
-> 微信賬號：墨魚手記
 > 更新時間：2022-02-20
-> 通知頻道：https://t.me/ddgksf2021
-> 問題反饋：https://t.me/ddgksf2013_bot
 > 特别說明：本腳本僅供學習交流使用，禁止轉載售賣
  
 [rewrite_local]
 
-# ～ Fimo解鎖會員權限（2022-02-20）@ddgksf2013
+# ～ Fimo解鎖會員權限（2022-02-20）
 ^https?:\/\/server\.yoyiapp\.com\/fimo-user\/user$ url script-response-body https://ocd0522.tk/ddgksf2013/Cuttlefish/raw/branch/master/Crack/fimo.js
 
 [mitm] 
