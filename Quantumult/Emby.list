@@ -1,20 +1,29 @@
   # > Emby
-  DOMAIN-SUFFIX,emby-pub1.blueseacdn.com,Emby
-  DOMAIN-SUFFIX,play.charontv.com,Emby
-  DOMAIN-SUFFIX,cf.misakaf.org,Emby
-  DOMAIN-SUFFIX,emby.misakaf.xyz,Emby
-  DOMAIN-SUFFIX,tagemby.com,Emby
-  DOMAIN-SUFFIX,emby.riches.cloud,Emby
-  DOMAIN-SUFFIX,cf.jmsooo.com,Emby
-  DOMAIN-SUFFIX,ha.jmsooo.com,Emby
-  DOMAIN-SUFFIX,hk.emby.kim,Emby
-  DOMAIN-SUFFIX,sg.emby.kim,Emby
-  DOMAIN-SUFFIX,emby.kim,Emby
-  DOMAIN-SUFFIX,cf.odysseyplus.site,Emby
-  DOMAIN-SUFFIX,sg.odysseyplus.site,Emby
-  DOMAIN-SUFFIX,us.odysseyplus.site,Emby
-  DOMAIN-SUFFIX,kr.odysseyplus.site,Emby
-  DOMAIN-SUFFIX,jp.odysseyplus.site,Emby
-  DOMAIN-SUFFIX,cu.poloemby.xyz,Emby
-  DOMAIN-SUFFIX,hk.poloemby.xyz,Emby
-  DOMAIN-SUFFIX,jp.poloemby.xyz,Emby
+HOST-SUFFIX,cf.jmsooo.com
+HOST-SUFFIX,ha.jmsooo.com
+HOST-SUFFIX,emby-pub1.blueseacdn.com
+HOST-SUFFIX,pub1.emby.wtf
+HOST-SUFFIX,pub2.emby.wtf
+HOST-SUFFIX,pub3.emby.wtf
+HOST-SUFFIX,pub4.emby.wtf
+HOST-SUFFIX,cc.ccemby.tk
+HOST-SUFFIX,cf.misakaf.org
+HOST-SUFFIX,4837.misakaf.org
+HOST-SUFFIX,df.poloemby.xyz
+HOST-SUFFIX,cu.poloemby.xyz
+HOST-SUFFIX,nlz.poloemby.xyz
+HOST-SUFFIX,happy.poloemby.xyz
+HOST-SUFFIX,jp.poloemby.xyz
+HOST-SUFFIX,direct.nebula-emby.com
+HOST-SUFFIX,cf.odysseyplus.site
+HOST-SUFFIX,us.odysseyplus.site
+HOST-SUFFIX,kr.odysseyplus.site
+HOST-SUFFIX,jp.odysseyplus.site
+HOST-SUFFIX,jp2.odysseyplus.site
+HOST-SUFFIX,play.charontv.com
+HOST-SUFFIX,emby.kim
+HOST-KEYWORD,emby.wtf,Emby
+HOST-KEYWORD,jmsooo,Emby
+HOST-KEYWORD,odysseyplus,Emby
+HOST-KEYWORD,misakaf.org
+HOST-KEYWORD,poloemby.xyz
