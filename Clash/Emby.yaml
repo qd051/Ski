@@ -1,22 +1,30 @@
 payload:
   # > Emby
-  - PROCESS-NAME,com.emby
-  - DOMAIN-SUFFIX,emby-pub1.blueseacdn.com
-  - DOMAIN-SUFFIX,play.charontv.com
-  - DOMAIN-SUFFIX,cf.misakaf.org
-  - DOMAIN-SUFFIX,emby.misakaf.xyz
-  - DOMAIN-SUFFIX,tagemby.com
-  - DOMAIN-SUFFIX,emby.riches.cloud
-  - DOMAIN-SUFFIX,cf.jmsooo.com
-  - DOMAIN-SUFFIX,ha.jmsooo.com
-  - DOMAIN-SUFFIX,hk.emby.kim
-  - DOMAIN-SUFFIX,sg.emby.kim
-  - DOMAIN-SUFFIX,emby.kim
-  - DOMAIN-SUFFIX,cf.odysseyplus.site
-  - DOMAIN-SUFFIX,sg.odysseyplus.site
-  - DOMAIN-SUFFIX,us.odysseyplus.site
-  - DOMAIN-SUFFIX,kr.odysseyplus.site
-  - DOMAIN-SUFFIX,jp.odysseyplus.site
-  - DOMAIN-SUFFIX,cu.poloemby.xyz
-  - DOMAIN-SUFFIX,hk.poloemby.xyz
-  - DOMAIN-SUFFIX,jp.poloemby.xyz
+DOMAIN-SUFFIX,cf.jmsooo.com
+DOMAIN-SUFFIX,ha.jmsooo.com
+DOMAIN-SUFFIX,emby-pub1.blueseacdn.com
+DOMAIN-SUFFIX,pub1.emby.wtf
+DOMAIN-SUFFIX,pub2.emby.wtf
+DOMAIN-SUFFIX,pub3.emby.wtf
+DOMAIN-SUFFIX,pub4.emby.wtf
+DOMAIN-SUFFIX,cc.ccemby.tk
+DOMAIN-SUFFIX,cf.misakaf.org
+DOMAIN-SUFFIX,4837.misakaf.org
+DOMAIN-SUFFIX,df.poloemby.xyz
+DOMAIN-SUFFIX,cu.poloemby.xyz
+DOMAIN-SUFFIX,nlz.poloemby.xyz
+DOMAIN-SUFFIX,happy.poloemby.xyz
+DOMAIN-SUFFIX,jp.poloemby.xyz
+DOMAIN-SUFFIX,direct.nebula-emby.com
+DOMAIN-SUFFIX,cf.odysseyplus.site
+DOMAIN-SUFFIX,us.odysseyplus.site
+DOMAIN-SUFFIX,kr.odysseyplus.site
+DOMAIN-SUFFIX,jp.odysseyplus.site
+DOMAIN-SUFFIX,jp2.odysseyplus.site
+DOMAIN-SUFFIX,play.charontv.com
+DOMAIN-SUFFIX,emby.kim
+HOST-KEYWORD,emby.wtf,Emby
+HOST-KEYWORD,jmsooo,Emby
+HOST-KEYWORD,odysseyplus,Emby
+HOST-KEYWORD,misakaf.org
+HOST-KEYWORD,poloemby.xyz
