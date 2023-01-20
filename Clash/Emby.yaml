@@ -23,8 +23,14 @@ payload:
   - DOMAIN-SUFFIX,jp2.odysseyplus.site
   - DOMAIN-SUFFIX,play.charontv.com
   - DOMAIN-SUFFIX,emby.kim
-  - DOMAIN-KEYWORD,emby.wtf,Emby
-  - DOMAIN-KEYWORD,jmsooo,Emby
-  - DOMAIN-KEYWORD,odysseyplus,Emby
+  - DOMAIN-SUFFIX,www.hkanime.com
+  - DOMAIN-SUFFIX,www.hkanime.com.hk
+  - DOMAIN-SUFFIX,www.hklive.tv
+  - DOMAIN-KEYWORD,emby.wtf
+  - DOMAIN-KEYWORD,jmsooo
+  - DOMAIN-KEYWORD,odysseyplus
   - DOMAIN-KEYWORD,misakaf.org
   - DOMAIN-KEYWORD,poloemby.xyz
+  - DOMAIN-KEYWORD,hkanime.com
+  - DOMAIN-KEYWORD,hklive.tv
+  
