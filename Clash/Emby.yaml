@@ -1,6 +1,6 @@
 payload:
   # > Emby
-# - DOMAIN-SUFFIX,cc.ccemby.tk
+  - DOMAIN-SUFFIX,cc.ccemby.tk
   - DOMAIN-SUFFIX,cf.jmsooo.com
   - DOMAIN-SUFFIX,ha.jmsooo.com
   - DOMAIN-SUFFIX,emby-pub1.blueseacdn.com
