@@ -27,6 +27,7 @@ payload:
   - DOMAIN-SUFFIX,www.hkanime.com.hk
   - DOMAIN-SUFFIX,www.hklive.tv
   - DOMAIN-SUFFIX,www.hkdtmb.com
+  - DOMAIN-SUFFIX,raw.githubusercontent.com
   - DOMAIN-KEYWORD,emby.wtf
   - DOMAIN-KEYWORD,jmsooo
   - DOMAIN-KEYWORD,odysseyplus
@@ -36,3 +37,4 @@ payload:
   - DOMAIN-KEYWORD,hklive
   - DOMAIN-KEYWORD,hkdtmb
   - DOMAIN-KEYWORD,ccemby
+  - DOMAIN-KEYWORD,githubusercontent.com
