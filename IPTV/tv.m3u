@@ -47,6 +47,117 @@ http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012375003.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农村农业
 http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204203.m3u8
 
+
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1
+https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2
+https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3
+https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4
+https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5
+https://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+
+https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6
+https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7
+https://live.goodiptv.club/api/bestv.php?id=cctv7hd8m/8000000
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8
+https://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9
+https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10
+https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11
+https://live.goodiptv.club/api/bestv.php?id=cctv11hd8m/8000000
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12
+https://live.goodiptv.club/api/bestv.php?id=cctv12hd8m/8000000
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13
+https://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14
+https://live.goodiptv.club/api/bestv.php?id=cctvsehd8m/8000000
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15
+https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-1
+https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17
+https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
+
+
+
+#EXTINF:-1 group-title="未分组",CCTV1
+http://live.cooltv.top/tv/aishang.php?id=cctv1hd
+#EXTINF:-1 group-title="未分组",CCTV2
+http://live.cooltv.top/tv/aishang.php?id=cctv2hd
+#EXTINF:-1 group-title="未分组",CCTV3
+http://live.cooltv.top/tv/aishang.php?id=cctv3hd
+#EXTINF:-1 group-title="未分组",CCTV4
+http://live.cooltv.top/tv/aishang.php?id=cctv4hd
+#EXTINF:-1 group-title="未分组",CCTV5
+http://live.cooltv.top/tv/aishang.php?id=cctv5hd
+#EXTINF:-1 group-title="未分组",CCTV6
+http://live.cooltv.top/tv/aishang.php?id=cctv6hd
+#EXTINF:-1 group-title="未分组",CCTV7
+http://live.cooltv.top/tv/aishang.php?id=cctv7hd
+#EXTINF:-1 group-title="未分组",CCTV8
+http://live.cooltv.top/tv/aishang.php?id=cctv8hd
+#EXTINF:-1 group-title="未分组",CCTV9
+http://live.cooltv.top/tv/aishang.php?id=cctv9hd
+#EXTINF:-1 group-title="未分组",CCTV10
+http://live.cooltv.top/tv/aishang.php?id=cctv10hd
+#EXTINF:-1 group-title="未分组",CCTV11
+http://live.cooltv.top/tv/aishang.php?id=cctv11hd
+#EXTINF:-1 group-title="未分组",CCTV12
+http://live.cooltv.top/tv/aishang.php?id=cctv12hd
+#EXTINF:-1 group-title="未分组",CCTV13
+http://live.cooltv.top/tv/aishang.php?id=cctv13hd
+#EXTINF:-1 group-title="未分组",CCTV14
+http://live.cooltv.top/tv/aishang.php?id=cctv14hd
+#EXTINF:-1 group-title="未分组",CCTV15
+http://live.cooltv.top/tv/aishang.php?id=cctv15hd
+#EXTINF:-1 group-title="未分组",CCTV16
+http://live.cooltv.top/tv/aishang.php?id=cctv16hd
+#EXTINF:-1 group-title="未分组",CCTV17
+http://live.cooltv.top/tv/aishang.php?id=cctv17hd
+#EXTINF:-1 group-title="未分组",CCTV1
+http://live.cooltv.top/tv/aishang.php?id=cctv1hd
+#EXTINF:-1 group-title="未分组",CCTV2
+http://live.cooltv.top/tv/aishang.php?id=cctv2hd
+#EXTINF:-1 group-title="未分组",CCTV3
+http://live.cooltv.top/tv/aishang.php?id=cctv3hd
+#EXTINF:-1 group-title="未分组",CCTV4
+http://live.cooltv.top/tv/aishang.php?id=cctv4hd
+#EXTINF:-1 group-title="未分组",CCTV5
+http://live.cooltv.top/tv/aishang.php?id=cctv5hd
+#EXTINF:-1 group-title="未分组",CCTV6
+http://live.cooltv.top/tv/aishang.php?id=cctv6hd
+#EXTINF:-1 group-title="未分组",CCTV7
+http://live.cooltv.top/tv/aishang.php?id=cctv7hd
+#EXTINF:-1 group-title="未分组",CCTV8
+http://live.cooltv.top/tv/aishang.php?id=cctv8hd
+#EXTINF:-1 group-title="未分组",CCTV9
+http://live.cooltv.top/tv/aishang.php?id=cctv9hd
+#EXTINF:-1 group-title="未分组",CCTV10
+http://live.cooltv.top/tv/aishang.php?id=cctv10hd
+#EXTINF:-1 group-title="未分组",CCTV11
+http://live.cooltv.top/tv/aishang.php?id=cctv11hd
+#EXTINF:-1 group-title="未分组",CCTV12
+http://live.cooltv.top/tv/aishang.php?id=cctv12hd
+#EXTINF:-1 group-title="未分组",CCTV13
+http://live.cooltv.top/tv/aishang.php?id=cctv13hd
+#EXTINF:-1 group-title="未分组",CCTV14
+http://live.cooltv.top/tv/aishang.php?id=cctv14hd
+#EXTINF:-1 group-title="未分组",CCTV15
+http://live.cooltv.top/tv/aishang.php?id=cctv15hd
+#EXTINF:-1 group-title="未分组",CCTV16
+http://live.cooltv.top/tv/aishang.php?id=cctv16hd
+#EXTINF:-1 group-title="未分组",CCTV17
+http://live.cooltv.top/tv/aishang.php?id=cctv17hd
+
+
+
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-29c3da82-5a00-464d-a1c7-9f623381c1ca.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯
