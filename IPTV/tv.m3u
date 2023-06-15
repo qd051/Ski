@@ -88,21 +88,21 @@ https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 
 
 
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯
-https://pull-l3-cny.douyincdn.com/live/YesLiveTV-4763d188-b5b8-4bf0-88c4-f55fc8e97b09.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯台
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-97387831-f0f2-43be-a3fa-a8e875591743.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯
 http://210.210.155.35:80/qwr9ew/s/s21/01.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯
 https://dispatch.ulivetv.net/v/live/cfxskn7pjv0g.m3u8?stream_id=cfxskn7pjv0g&timestamp=1684685854&rand=wTHmyAPecN&uuid=9b647b3816b2a66a&from=web&sign=4091b752814fd48ca8e905550918c236
 
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰中文
-https://pull-l3-cny.douyincdn.com/live/YesLiveTV-147342b9-9ef0-41dc-95cb-3527b9b4edee.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰中文台
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-4243c0d1-59d9-4221-882d-69fba6623d8e.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰中文
 http://210.210.155.37/uq2663/h/h157/index2.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰中文
 https://dispatch.ulivetv.net/v/live/cfxsdwcdynk0.m3u8?stream_id=cfxsdwcdynk0&timestamp=1684686385&rand=UmkYGjSLfa&uuid=9b647b3816b2a66a&from=web&sign=87077c93ad602da3eab4af3681e1bcc4
 
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="香港",凤凰香港
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="香港",凤凰香港台
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-20c60f9d-309f-4705-8f2f-5d0db8ee7fbc.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="香港",凤凰香港
 https://dispatch.ulivetv.net/v/live/cfxs8eqh503k.m3u8?stream_id=cfxs8eqh503k&timestamp=1684687313&rand=OIoQXsPhcm&uuid=9b647b3816b2a66a&from=web&sign=64f26098b1718392322e1b4bfe13ca44
