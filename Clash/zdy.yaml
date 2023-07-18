@@ -1,0 +1,8 @@
+payload:
+  # > zdy
+  - DOMAIN-SUFFIX,api.ofiii.com
+  - DOMAIN-SUFFIX,acs2.svc.litv.tv
+  - DOMAIN-SUFFIX,pusti.svc.litv.tv
+  - DOMAIN-SUFFIX,bullrtin.svc.litv.tv
+  - DOMAIN-SUFFIX,fino.svc.litv.tv
+  - DOMAIN-SUFFIX,staging-fino.svc.litv.tv
