@@ -6,3 +6,8 @@ payload:
   - DOMAIN-SUFFIX,bullrtin.svc.litv.tv
   - DOMAIN-SUFFIX,fino.svc.litv.tv
   - DOMAIN-SUFFIX,staging-fino.svc.litv.tv
+  - DOMAIN-SUFFIX,aoh.stream-link.online
+  - DOMAIN-SUFFIX,aok.stream-link.online
+  - DOMAIN-SUFFIX,aoe.stream-link.online
+  - DOMAIN-SUFFIX,sc2022.stream-link.org
+  - DOMAIN-SUFFIX,www.stream-link.org
