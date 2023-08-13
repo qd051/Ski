@@ -5,8 +5,11 @@ payload:
   - DOMAIN-SUFFIX,acs2.svc.litv.tv
   - DOMAIN-SUFFIX,pusti.svc.litv.tv
   - DOMAIN-SUFFIX,bullrtin.svc.litv.tv
+  - DOMAIN-SUFFIX,bulletin.svc.litv.tv
   - DOMAIN-SUFFIX,fino.svc.litv.tv
   - DOMAIN-SUFFIX,staging-fino.svc.litv.tv
+  - DOMAIN-SUFFIX,p-cdnstatic.svc.litv.tv
+  - DOMAIN-SUFFIX,p-cdnstatic.litv.tv
   - DOMAIN-SUFFIX,www.stream-link.org
   - DOMAIN-SUFFIX,aoh.stream-link.online
   - DOMAIN-SUFFIX,aok.stream-link.online
@@ -29,4 +32,4 @@ payload:
   - DOMAIN-KEYWORD,stream-link.online
   - DOMAIN-KEYWORD,hkdtmb.com
   - DOMAIN-KEYWORD,ofiii.com
-  - DOMAIN-KEYWORD,litv.tv
+  - DOMAIN-KEYWORD,svc.litv.tv
