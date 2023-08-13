@@ -23,11 +23,10 @@ payload:
   - DOMAIN-SUFFIX,jp2.odysseyplus.site
   - DOMAIN-SUFFIX,play.charontv.com
   - DOMAIN-SUFFIX,emby.kim
-  - DOMAIN-SUFFIX,raw.githubusercontent.com
   - DOMAIN-KEYWORD,emby.wtf
   - DOMAIN-KEYWORD,jmsooo
   - DOMAIN-KEYWORD,odysseyplus
   - DOMAIN-KEYWORD,misakaf.org
   - DOMAIN-KEYWORD,poloemby.xyz
   - DOMAIN-KEYWORD,ccemby
-  - DOMAIN-KEYWORD,githubusercontent.com
+
