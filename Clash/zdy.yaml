@@ -7,6 +7,7 @@ payload:
   - DOMAIN-SUFFIX,bullrtin.svc.litv.tv
   - DOMAIN-SUFFIX,bulletin.svc.litv.tv
   - DOMAIN-SUFFIX,fino.svc.litv.tv
+  - DOMAIN-SUFFIX,static.svc.litv.tv
   - DOMAIN-SUFFIX,staging-fino.svc.litv.tv
   - DOMAIN-SUFFIX,p-cdnstatic.svc.litv.tv
   - DOMAIN-SUFFIX,p-cdnstatic.litv.tv
@@ -33,3 +34,4 @@ payload:
   - DOMAIN-KEYWORD,hkdtmb.com
   - DOMAIN-KEYWORD,ofiii.com
   - DOMAIN-KEYWORD,svc.litv.tv
+  - DOMAIN-KEYWORD,litv.tv
