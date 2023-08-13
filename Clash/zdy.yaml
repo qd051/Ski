@@ -6,8 +6,22 @@ payload:
   - DOMAIN-SUFFIX,bullrtin.svc.litv.tv
   - DOMAIN-SUFFIX,fino.svc.litv.tv
   - DOMAIN-SUFFIX,staging-fino.svc.litv.tv
+  - DOMAIN-SUFFIX,www.stream-link.org
   - DOMAIN-SUFFIX,aoh.stream-link.online
   - DOMAIN-SUFFIX,aok.stream-link.online
   - DOMAIN-SUFFIX,aoe.stream-link.online
   - DOMAIN-SUFFIX,sc2022.stream-link.org
-  - DOMAIN-SUFFIX,www.stream-link.org
+  - DOMAIN-SUFFIX,exaoh.stream-link.online
+  - DOMAIN-SUFFIX,exaow.stream-link.online
+  - DOMAIN-SUFFIX,exaoe.stream-link.online
+  - DOMAIN-SUFFIX,exaok.stream-link.online
+  - DOMAIN-SUFFIX,exaop.stream-link.online
+  - DOMAIN-SUFFIX,exaot.stream-link.online
+  - DOMAIN-SUFFIX,hkdtmb.com
+  - DOMAIN-SUFFIX,info.hkanimal.com
+  - DOMAIN-SUFFIX,live.goodiptv.club
+  - DOMAIN-SUFFIX,live.aptvapp.com
+  - DOMAIN-SUFFIX,tv.iill.top
+  - DOMAIN-KEYWORD,stream-link.org
+  - DOMAIN-KEYWORD,stream-link.online
+  - DOMAIN-KEYWORD,hkdtmb.com
