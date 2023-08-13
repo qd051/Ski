@@ -1,5 +1,6 @@
 payload:
   # > zdy
+  - DOMAIN-SUFFIX,www.ofiii.com
   - DOMAIN-SUFFIX,api.ofiii.com
   - DOMAIN-SUFFIX,acs2.svc.litv.tv
   - DOMAIN-SUFFIX,pusti.svc.litv.tv
@@ -27,3 +28,4 @@ payload:
   - DOMAIN-KEYWORD,stream-link.org
   - DOMAIN-KEYWORD,stream-link.online
   - DOMAIN-KEYWORD,hkdtmb.com
+  - DOMAIN-KEYWORD,ofiii.com
