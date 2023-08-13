@@ -22,6 +22,8 @@ payload:
   - DOMAIN-SUFFIX,live.goodiptv.club
   - DOMAIN-SUFFIX,live.aptvapp.com
   - DOMAIN-SUFFIX,tv.iill.top
+  - DOMAIN-SUFFIX,raw.githubusercontent.com
+  - DOMAIN-KEYWORD,githubusercontent.com
   - DOMAIN-KEYWORD,stream-link.org
   - DOMAIN-KEYWORD,stream-link.online
   - DOMAIN-KEYWORD,hkdtmb.com
