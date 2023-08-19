@@ -23,6 +23,8 @@ payload:
   - DOMAIN-SUFFIX,jp2.odysseyplus.site
   - DOMAIN-SUFFIX,play.charontv.com
   - DOMAIN-SUFFIX,emby.kim
+  - DOMAIN-SUFFIX,ju.dog
+  - DOMAIN-KEYWORD,ju.dog  
   - DOMAIN-KEYWORD,emby.wtf
   - DOMAIN-KEYWORD,jmsooo
   - DOMAIN-KEYWORD,odysseyplus
