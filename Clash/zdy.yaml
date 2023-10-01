@@ -39,6 +39,6 @@ payload:
   - DOMAIN-SUFFIX,clientstream.launchdarkly.com
   - DOMAIN-SUFFIX,w3b-api.ultramobile.com
   - DOMAIN-SUFFIX,mobile.launchdarkly.com
-  - DOMAIN-SUFFIX,sdk.iad-05.braze.com
   - DOMAIN-SUFFIX,assets.mintmobile.com
   - DOMAIN-SUFFIX,ipqualityscore.com
+  - DOMAIN-SUFFIX,sdk.iad-05.braze.com
