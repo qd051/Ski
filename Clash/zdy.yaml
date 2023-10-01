@@ -36,3 +36,6 @@ payload:
   - DOMAIN-KEYWORD,svc.litv.tv
   - DOMAIN-KEYWORD,litv.tv
   - DOMAIN-SUFFIX,clientstream.launchdarkly.com
+  - DOMAIN-SUFFIX,w3b-api.ultramobile.com
+  - DOMAIN-SUFFIX,mobile.launchdarkly.com
+  - DOMAIN-SUFFIX,assets.mintmobile.com
