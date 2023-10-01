@@ -35,3 +35,4 @@ payload:
   - DOMAIN-KEYWORD,ofiii.com
   - DOMAIN-KEYWORD,svc.litv.tv
   - DOMAIN-KEYWORD,litv.tv
+  - DOMAIN-SUFFIX,clientstream.launchdarkly.com
