@@ -1,34 +1,41 @@
 payload:
-  # > Emby
+  # > Cc
   - DOMAIN-SUFFIX,cc.ccemby.tk
+ 
+  # > emby-jmsooo
+  - DOMAIN-SUFFIX,sg.jmsooo.com
+  - DOMAIN-SUFFIX,hk.jmsooo.com
   - DOMAIN-SUFFIX,cf.jmsooo.com
   - DOMAIN-SUFFIX,ha.jmsooo.com
-  - DOMAIN-SUFFIX,emby-pub1.blueseacdn.com
+  - DOMAIN-SUFFIX,agahk1.jmsooo.com
+  - DOMAIN-SUFFIX,agasg1.jmsooo.com
+  - DOMAIN-SUFFIX,agajp1.jmsooo.com
+  - DOMAIN-SUFFIX,aws.jmsooo.com
+  - DOMAIN-SUFFIX,ntt1.jmsooo.com
+  - DOMAIN-SUFFIX,hinet.jmsooo.com
+  - DOMAIN-SUFFIX,cf1.jmsooo.com
+
+  # > TreeDiagram
+  - DOMAIN-SUFFIX,123456.al
+
+  # > 终点站
+  - DOMAIN-SUFFIX,emby.wtf
+  - DOMAIN-SUFFIX,pub1back.emby.wtf
+  - DOMAIN-SUFFIX,pub2back.emby.wtf
+  - DOMAIN-SUFFIX,pub3back.emby.wtf
   - DOMAIN-SUFFIX,pub1.emby.wtf
   - DOMAIN-SUFFIX,pub2.emby.wtf
   - DOMAIN-SUFFIX,pub3.emby.wtf
   - DOMAIN-SUFFIX,pub4.emby.wtf
-  - DOMAIN-SUFFIX,cf.misakaf.org
-  - DOMAIN-SUFFIX,4837.misakaf.org
-  - DOMAIN-SUFFIX,df.poloemby.xyz
-  - DOMAIN-SUFFIX,cu.poloemby.xyz
-  - DOMAIN-SUFFIX,nlz.poloemby.xyz
-  - DOMAIN-SUFFIX,happy.poloemby.xyz
-  - DOMAIN-SUFFIX,jp.poloemby.xyz
-  - DOMAIN-SUFFIX,direct.nebula-emby.com
+
+  # > Odyssey
   - DOMAIN-SUFFIX,cf.odysseyplus.site
   - DOMAIN-SUFFIX,us.odysseyplus.site
   - DOMAIN-SUFFIX,kr.odysseyplus.site
   - DOMAIN-SUFFIX,jp.odysseyplus.site
   - DOMAIN-SUFFIX,jp2.odysseyplus.site
-  - DOMAIN-SUFFIX,play.charontv.com
-  - DOMAIN-SUFFIX,emby.kim
-  - DOMAIN-SUFFIX,ju.dog
-  - DOMAIN-KEYWORD,ju.dog  
-  - DOMAIN-KEYWORD,emby.wtf
-  - DOMAIN-KEYWORD,jmsooo
-  - DOMAIN-KEYWORD,odysseyplus
-  - DOMAIN-KEYWORD,misakaf.org
-  - DOMAIN-KEYWORD,poloemby.xyz
-  - DOMAIN-KEYWORD,ccemby
+  - DOMAIN-SUFFIX,agahk.odysseyplus.site
+  - DOMAIN-SUFFIX,agasg.odysseyplus.site
+  - DOMAIN-SUFFIX,ru.odysseyplus.site
+
 
