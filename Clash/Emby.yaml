@@ -38,4 +38,6 @@ payload:
   - DOMAIN-SUFFIX,agasg.odysseyplus.site
   - DOMAIN-SUFFIX,ru.odysseyplus.site
 
-
+  # > aca
+  - DOMAIN,emby.aca.best
+  - DOMAIN,porn.aca.best
