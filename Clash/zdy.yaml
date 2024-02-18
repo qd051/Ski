@@ -42,3 +42,10 @@ payload:
   - DOMAIN-SUFFIX,assets.mintmobile.com
   - DOMAIN-SUFFIX,ipqualityscore.com
   - DOMAIN-SUFFIX,sdk.iad-05.braze.com
+  - DOMAIN-SUFFIX,gator.volces.com
+  - DOMAIN-SUFFIX,aaid.umeng.com
+  - DOMAIN-SUFFIX,errnewlog.umeng.com
+  - DOMAIN-SUFFIX,aws.ulivetv.net
+  - DOMAIN-SUFFIX,cdn.media.ulivetv.net
+  - DOMAIN-SUFFIX,trackernew.ulivetv.net
+  - DOMAIN-SUFFIX,api.dianshimo.com
