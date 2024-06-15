@@ -22,8 +22,7 @@ payload:
   - DOMAIN-SUFFIX,exaok.stream-link.online
   - DOMAIN-SUFFIX,exaop.stream-link.online
   - DOMAIN-SUFFIX,exaot.stream-link.online
-  - DOMAIN-SUFFIX,hkdtmb.com
-  - DOMAIN-SUFFIX,info.hkanimal.com
+  - DOMAIN-SUFFIX,live.hkdvb.com
   - DOMAIN-SUFFIX,live.goodiptv.club
   - DOMAIN-SUFFIX,live.aptvapp.com
   - DOMAIN-SUFFIX,tv.iill.top
@@ -31,7 +30,7 @@ payload:
   - DOMAIN-KEYWORD,githubusercontent.com
   - DOMAIN-KEYWORD,stream-link.org
   - DOMAIN-KEYWORD,stream-link.online
-  - DOMAIN-KEYWORD,hkdtmb.com
+  - DOMAIN-KEYWORD,hkdvb.com
   - DOMAIN-KEYWORD,ofiii.com
   - DOMAIN-KEYWORD,svc.litv.tv
   - DOMAIN-KEYWORD,litv.tv
