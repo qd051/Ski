@@ -3,17 +3,7 @@ payload:
   - DOMAIN-SUFFIX,cc.ccemby.tk
  
   # > emby-jmsooo
-  - DOMAIN-SUFFIX,sg.jmsooo.com
-  - DOMAIN-SUFFIX,hk.jmsooo.com
-  - DOMAIN-SUFFIX,cf.jmsooo.com
-  - DOMAIN-SUFFIX,ha.jmsooo.com
-  - DOMAIN-SUFFIX,agahk1.jmsooo.com
-  - DOMAIN-SUFFIX,agasg1.jmsooo.com
-  - DOMAIN-SUFFIX,agajp1.jmsooo.com
-  - DOMAIN-SUFFIX,aws.jmsooo.com
-  - DOMAIN-SUFFIX,ntt1.jmsooo.com
-  - DOMAIN-SUFFIX,hinet.jmsooo.com
-  - DOMAIN-SUFFIX,cf1.jmsooo.com
+  - DOMAIN-SUFFIX,cf2.jmsooo.com
 
   # > TreeDiagram
   - DOMAIN-SUFFIX,123456.al
