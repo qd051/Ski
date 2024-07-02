@@ -1,6 +1,7 @@
 payload:
   # > Cc
-  - DOMAIN-SUFFIX,cc.ccemby.tk
+  - DOMAIN-SUFFIX,cc.ccemby.com
+  - DOMAIN-SUFFIX,dx2.carryz.net
  
   # > emby-jmsooo
   - DOMAIN-SUFFIX,cf2.jmsooo.com
