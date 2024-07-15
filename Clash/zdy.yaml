@@ -47,5 +47,6 @@ payload:
   - DOMAIN-SUFFIX,aws.ulivetv.net
   - DOMAIN-SUFFIX,cdn.media.ulivetv.net
   - DOMAIN-SUFFIX,trackernew.ulivetv.net
+  - DOMAIN-SUFFIX,app.api.ulivetv.net
   - DOMAIN-SUFFIX,api.dianshimo.com
   - DOMAIN-SUFFIX,yang-1989.eu.org
