@@ -50,4 +50,10 @@ payload:
   - DOMAIN-SUFFIX,app.api.ulivetv.net
   - DOMAIN-SUFFIX,api.dianshimo.com
   - DOMAIN-SUFFIX,yang-1989.eu.org
-
+  - DOMAIN-SUFFIX,t-mobile.com
+  - DOMAIN-SUFFIX,pub.3gppnetwork.org
+  - DOMAIN-SUFFIX,epdg.epc.mnc240.mcc310.pub.3gppnetwork.org
+  - DOMAIN-SUFFIX,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+  - DOMAIN-SUFFIX,epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
+  - DOMAIN-SUFFIX,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+  - DOMAIN-SUFFIX,ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
