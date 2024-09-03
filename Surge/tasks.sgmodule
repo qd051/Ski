@@ -1,4 +1,4 @@
-#!name=Chavy iOS Tasks Module
+#!name=Tasks Module
 #!desc=iOS Tasks 模块配置
 #!system=ios
 
@@ -6,6 +6,8 @@
 Tasks: 美团 = type=cron,cronexp=7 0 * * *,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/meituan/meituan.js,wake-system=true
 Tasks: ithome = type=cron,cronexp=8 0 * * *,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/ithome/ithome.js,wake-system=true
 Tasks: 建行生活 = type=cron,cronexp=9 0 * * *,timeout=60,script-path=https://raw.githubusercontent.com/FoKit/Scripts/main/scripts/jhsh_checkIn.js,script-update-interval=0
+Tasks: 新浪微博 = type=cron,cronexp=10 0 * * *,timeout=60,script-path=https://raw.githubusercontent.com/FoKit/Scripts/main/scripts/weibo_sign.js,script-update-interval=0
+Tasks: 微付金币 = type=cron,cronexp=9 30 * * *,timeout=60,script-path=https://raw.githubusercontent.com/FoKit/Scripts/main/scripts/wechat_pay_coupon.js,script-update-interval=0
 
 [MITM]
-hostname = i.meituan.com, napi.ithome.com, yunbusiness.ccb.com
+hostname = i.meituan.com, napi.ithome.com, yunbusiness.ccb.com, api.weibo.cn, payapp.weixin.qq.com
