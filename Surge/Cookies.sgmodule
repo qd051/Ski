@@ -9,7 +9,7 @@ Rewrite: 建行生活 = type=http-request,pattern=^https:\/\/yunbusiness\.ccb\.c
 Rewrite: 微博Token = type=http-request,pattern=^https:\/\/api\.weibo\.cn\/\d\/users\/show,requires-body=0,max-size=0,script-path=https://raw.githubusercontent.com/FoKit/Scripts/main/scripts/weibo_sign.js
 Rewrite: 微博Cookie = type=http-request,pattern=^https:\/\/api\.weibo\.cn\/2\/logservice\/attach,requires-body=0,max-size=0,script-path=https://raw.githubusercontent.com/FoKit/Scripts/main/scripts/weibo_sign.js
 Rewrite: 微付金币² = type=http-response,pattern=https:\/\/payapp\.weixin\.qq\.com\/(coupon-center-user\/home\/login|coupon-center-award\/award\/detail),requires-body=1,max-size=0,binary-body-mode=0,timeout=30,script-path=https://raw.githubusercontent.com/FoKit/Scripts/main/scripts/wechat_pay_coupon.js,script-update-interval=0
+Rewrite: 奶茶多合一 = type=http-response,pattern=^https:\/\/(webapi|webapi2)\.qmai\.cn\/web\/seller\/(oauth\/flash-sale-login|account\/login-minp) script-path=https://gist.githubusercontent.com/Sliverkiss/8b4f5487e0f28786c7dec9c7484dcd5e/raw/teaMilk.js
+Rewrite: 奶茶多合一 = type=http-response,pattern=^https:\/\/(webapi|webapi2|qmwebapi)\.qmai\.cn\/web\/(catering\/integral|cmk-center)\/sign\/(signIn|takePartInSign) script-path=https://gist.githubusercontent.com/Sliverkiss/8b4f5487e0f28786c7dec9c7484dcd5e/raw/teaMilk.js
 
-
-
-hostname = i.meituan.com, napi.ithome.com, yunbusiness.ccb.com, api.weibo.cn, payapp.weixin.qq.com
+hostname = i.meituan.com, napi.ithome.com, yunbusiness.ccb.com, api.weibo.cn, payapp.weixin.qq.com, webapi2.qmai.cn,webapi.qmai.cn,qmwebapi.qmai.cn
