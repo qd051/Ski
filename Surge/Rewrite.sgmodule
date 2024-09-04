@@ -1,0 +1,15 @@
+#!name=Rewrite Module
+#!desc=URL Rewrite 模块配置
+#!system=ios
+
+[URL Rewrite]
+# > 一点万象
+# hostname = app.mixcapp.com
+"^https?:\/\/app\.mixcapp\.com\/mixc\/api\/v\d\/ad" - reject
+
+# > 我爱卡
+# hostname = api-access.pangolin-sdk-toutiao.com
+"^https?:\/\/api-access\.pangolin-sdk-toutiao\.com\/api\/ad\/union\/sdk\/get_ads" - reject
+
+[MITM]
+hostname = %APPEND% app.mixcapp.com, api-access.pangolin-sdk-toutiao.com
