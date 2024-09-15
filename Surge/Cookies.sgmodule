@@ -3,13 +3,15 @@
 #!system=ios
 
 [Script]
-Rewrite: 美团 = type=http-request,pattern=^https:\/\/i.meituan.com\/evolve\/signin\/signpost\/,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/meituan/meituan.cookie.js,requires-body=true
-Rewrite: ithome = type=http-request,pattern=^https:\/\/napi\.ithome\.com\/api\/usersign\/getsigninfo?,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/ithome/ithome.cookie.js,debug=true
-Rewrite: 建行生活 = type=http-request,pattern=^https:\/\/yunbusiness\.ccb\.com\/(clp_coupon|clp_service)\/txCtrl\?txcode=(A3341A038|autoLogin),requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/FoKit/Scripts/main/scripts/jhsh_checkIn.js
-Rewrite: 微博Token = type=http-request,pattern=^https:\/\/api\.weibo\.cn\/\d\/users\/show,requires-body=0,max-size=0,script-path=https://raw.githubusercontent.com/FoKit/Scripts/main/scripts/weibo_sign.js
-Rewrite: 微博Cookie = type=http-request,pattern=^https:\/\/api\.weibo\.cn\/2\/logservice\/attach,requires-body=0,max-size=0,script-path=https://raw.githubusercontent.com/FoKit/Scripts/main/scripts/weibo_sign.js
-Rewrite: 微付金币² = type=http-response,pattern=https:\/\/payapp\.weixin\.qq\.com\/(coupon-center-user\/home\/login|coupon-center-award\/award\/detail),requires-body=1,max-size=0,binary-body-mode=0,timeout=30,script-path=https://raw.githubusercontent.com/FoKit/Scripts/main/scripts/wechat_pay_coupon.js,script-update-interval=0
-Rewrite: 奶茶多合一 = type=http-response,pattern=^https:\/\/(webapi|webapi2)\.qmai\.cn\/web\/seller\/(oauth\/flash-sale-login|account\/login-minp) script-path=https://gist.githubusercontent.com/Sliverkiss/8b4f5487e0f28786c7dec9c7484dcd5e/raw/teaMilk.js
-Rewrite: 奶茶多合一 = type=http-response,pattern=^https:\/\/(webapi|webapi2|qmwebapi)\.qmai\.cn\/web\/(catering\/integral|cmk-center)\/sign\/(signIn|takePartInSign) script-path=https://gist.githubusercontent.com/Sliverkiss/8b4f5487e0f28786c7dec9c7484dcd5e/raw/teaMilk.js
+美团 = type=http-request,pattern=^https:\/\/i.meituan.com\/evolve\/signin\/signpost\/,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/meituan/meituan.cookie.js,requires-body=true
+ithome = type=http-request,pattern=^https:\/\/napi\.ithome\.com\/api\/usersign\/getsigninfo?,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/ithome/ithome.cookie.js,debug=true
+建行生活 = type=http-request,pattern=^https:\/\/yunbusiness\.ccb\.com\/(clp_coupon|clp_service)\/txCtrl\?txcode=(A3341A038|autoLogin),requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/FoKit/Scripts/main/scripts/jhsh_checkIn.js
+微博Token = type=http-request,pattern=^https:\/\/api\.weibo\.cn\/\d\/users\/show,requires-body=0,max-size=0,script-path=https://raw.githubusercontent.com/FoKit/Scripts/main/scripts/weibo_sign.js
+微博Cookie = type=http-request,pattern=^https:\/\/api\.weibo\.cn\/2\/logservice\/attach,requires-body=0,max-size=0,script-path=https://raw.githubusercontent.com/FoKit/Scripts/main/scripts/weibo_sign.js
+微付金币² = type=http-response,pattern=https:\/\/payapp\.weixin\.qq\.com\/(coupon-center-user\/home\/login|coupon-center-award\/award\/detail),requires-body=1,max-size=0,binary-body-mode=0,timeout=30,script-path=https://raw.githubusercontent.com/FoKit/Scripts/main/scripts/wechat_pay_coupon.js,script-update-interval=0
+奶茶多合一 = type=http-response,pattern=^https:\/\/(webapi|webapi2)\.qmai\.cn\/web\/seller\/(oauth\/flash-sale-login|account\/login-minp) script-path=https://gist.githubusercontent.com/Sliverkiss/8b4f5487e0f28786c7dec9c7484dcd5e/raw/teaMilk.js
+奶茶多合一 = type=http-response,pattern=^https:\/\/(webapi|webapi2|qmwebapi)\.qmai\.cn\/web\/(catering\/integral|cmk-center)\/sign\/(signIn|takePartInSign) script-path=https://gist.githubusercontent.com/Sliverkiss/8b4f5487e0f28786c7dec9c7484dcd5e/raw/teaMilk.js
+霸王茶姬小程序 = type=http-request,pattern=^https?:\/\/(webapi|qmwebapi)\.qmai\.cn\/web\/(catering2-apiserver\/customer-suggest\/query-feedback-config|catering\/crm\/points-info),requires-body=0,max-size=0,script-path=https://raw.githubusercontent.com/Guding88/Script/main/bawangchaji/bwcj_token.js
+阿里云盘签到cookie = requires-body=1,type=http-response,pattern=https:\/\/auth.(aliyundrive|alipan).com\/v2\/account\/token,script-path=https://raw.githubusercontent.com/lowking/Scripts/master/ali/aliYunPanCheckIn.js
 
 hostname = i.meituan.com, napi.ithome.com, yunbusiness.ccb.com, api.weibo.cn, payapp.weixin.qq.com, webapi2.qmai.cn,webapi.qmai.cn,qmwebapi.qmai.cn
