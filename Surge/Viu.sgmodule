@@ -13,6 +13,8 @@ DOMAIN,mobileanalytics.us-east-1.amazonaws.com
 DOMAIN,pinpoint.us-east-1.amazonaws.com
 DOMAIN,cognito-identity.us-east-1.amazonaws.com
 DOMAIN,api-gateway-global.viu.com
+DOMAIN,licensing.bitmovin.com
+DOMAIN,img-s-msn-com.akamaized.net
 USER-AGENT,Viu*
 PROCESS-NAME,com.viu.pad
 PROCESS-NAME,com.viu.phone
