@@ -9,7 +9,18 @@
 
 # > 我爱卡
 # hostname = api-access.pangolin-sdk-toutiao.com
-"^https?:\/\/api-access\.pangolin-sdk-toutiao\.com\/api\/ad\/union\/sdk\/get_ads" - reject
+# "^https?:\/\/api-access\.pangolin-sdk-toutiao\.com\/api\/ad\/union\/sdk\/get_ads" - reject
+
+# > 我爱卡社区管家
+# hostname = api.51credit.com
+"^https?:\/\/api\.51credit\.com\/app\/popup\/appPopup" - reject-dict
+"^https?:\/\/api\.51credit\.com\/ks\/a\/list\?" - reject-dict
+"^https?:\/\/api\.51credit\.com\/bbs\/app\/api\/v\d\/topic\/chat" - reject-dict
+
+# > 浦大喜奔
+# hostname = image.spdbccc.com.cn
+"^https?:\/\/image\.spdbccc\.com\.cn\/group\d\/M00\/[A-Z0-9]{2}\/[A-Z0-9]{2}\/.+(4038|0571|M511|V-008|g549|b0628|fg817|5w501|Jo341|Z4583|oo845|i4905|MY245|YU472|Y401|w428|s000)" - reject-dict
+
 
 [MITM]
-hostname = %APPEND% app.mixcapp.com, api-access.pangolin-sdk-toutiao.com
+hostname = %APPEND% app.mixcapp.com, api.51credit.com, image.spdbccc.com.cn
