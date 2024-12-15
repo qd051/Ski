@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,cc.coemn.com
  
   # > emby-jmsooo
+  - DOMAIN-SUFFIX,mini.jmsuper.com
   - DOMAIN-SUFFIX,nano.jmsuper.com
  
   # > aca
