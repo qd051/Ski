@@ -1,36 +1,11 @@
 payload:
   # > Cc
   - DOMAIN-SUFFIX,cc.coemn.com
-  - DOMAIN-SUFFIX,dx1.carryz.net
-  - DOMAIN-SUFFIX,dx2.carryz.net
-  - DOMAIN-SUFFIX,dx3.carryz.net
  
   # > emby-jmsooo
-  - DOMAIN-SUFFIX,cf2.jmsooo.com
-
-  # > TreeDiagram
-  - DOMAIN-SUFFIX,123456.al
-
-  # > 终点站
-  - DOMAIN-SUFFIX,emby.wtf
-  - DOMAIN-SUFFIX,pub1back.emby.wtf
-  - DOMAIN-SUFFIX,pub2back.emby.wtf
-  - DOMAIN-SUFFIX,pub3back.emby.wtf
-  - DOMAIN-SUFFIX,pub1.emby.wtf
-  - DOMAIN-SUFFIX,pub2.emby.wtf
-  - DOMAIN-SUFFIX,pub3.emby.wtf
-  - DOMAIN-SUFFIX,pub4.emby.wtf
-
-  # > Odyssey
-  - DOMAIN-SUFFIX,cf.odysseyplus.site
-  - DOMAIN-SUFFIX,us.odysseyplus.site
-  - DOMAIN-SUFFIX,kr.odysseyplus.site
-  - DOMAIN-SUFFIX,jp.odysseyplus.site
-  - DOMAIN-SUFFIX,jp2.odysseyplus.site
-  - DOMAIN-SUFFIX,agahk.odysseyplus.site
-  - DOMAIN-SUFFIX,agasg.odysseyplus.site
-  - DOMAIN-SUFFIX,ru.odysseyplus.site
-
+  - DOMAIN-SUFFIX,namo.jmsuper.com
+ 
   # > aca
-  - DOMAIN,emby.aca.best
-  - DOMAIN,porn.aca.best
+  - DOMAIN-SUFFIX,aca.misakaf.com
+  - DOMAIN-SUFFIX,porn.aca.best
+  
