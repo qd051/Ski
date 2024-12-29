@@ -7,6 +7,7 @@ payload:
   - DOMAIN-SUFFIX,nano.jmsuper.com
  
   # > aca
-  - DOMAIN-SUFFIX,aca.misakaf.com
+  - DOMAIN-SUFFIX,aca.misakaf.org
+  - DOMAIN-SUFFIX,stream3.misakaf.org
   - DOMAIN-SUFFIX,porn.aca.best
   
