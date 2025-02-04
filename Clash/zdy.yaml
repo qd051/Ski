@@ -15,14 +15,20 @@ payload:
   - DOMAIN-SUFFIX,aoh.stream-link.online
   - DOMAIN-SUFFIX,aok.stream-link.online
   - DOMAIN-SUFFIX,aoe.stream-link.online
-  - DOMAIN-SUFFIX,sc2022.stream-link.org
+  - DOMAIN-SUFFIX,sc2025.stream-link.org
   - DOMAIN-SUFFIX,exaoh.stream-link.online
   - DOMAIN-SUFFIX,exaow.stream-link.online
   - DOMAIN-SUFFIX,exaoe.stream-link.online
   - DOMAIN-SUFFIX,exaok.stream-link.online
   - DOMAIN-SUFFIX,exaop.stream-link.online
   - DOMAIN-SUFFIX,exaot.stream-link.online
+  - DOMAIN-SUFFIX,live-edge-02.stream-link.org
   - DOMAIN-SUFFIX,live.hkdvb.com
+  - DOMAIN-SUFFIX,edge1.hkdvb.com
+  - DOMAIN-SUFFIX,edge2.hkdvb.com
+  - DOMAIN-SUFFIX,edge3.hkdvb.com
+  - DOMAIN-SUFFIX,edge2.tvfree.sbs
+  - DOMAIN-SUFFIX,live.tvfree.sbs
   - DOMAIN-SUFFIX,live.goodiptv.club
   - DOMAIN-SUFFIX,live.aptvapp.com
   - DOMAIN-SUFFIX,tv.iill.top
