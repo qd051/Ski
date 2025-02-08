@@ -39,14 +39,9 @@
 # 微信小程序个人中心净化 感谢【TEXAS】分享
 ^https?:\/\/common\.diditaxi\.com\.cn\/common\/v5 url script-response-body https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/didi/didiAds.js
 
-# > 国泰君安
-# hostname = dl.app.gtja.com, dl*.app.gtja.com
-^https?:\/\/dl\.app\.gtja\.com\/dzswem\/kvController - reject-200
-#^https?:\/\/dl[0-9]{1}\.app\.gtja\.com\/dzswem\/kvController - reject-200
-
 # > 华彩生活
 # hostname = static.creditcard.hxb.com.cn
 ^https?:\/\/static\.creditcard\.hxb\.com\.cn\/mcube\/apps\/group\d\/M00\/00\/2[A-Z0-9]{1}\/amRG7WO.+\.jpg - reject-200
 
 [MITM]
-hostname = %APPEND% app.mixcapp.com, api.51credit.com, image.spdbccc.com.cn, static.95508.com, res.xiaojukeji.com, common.diditaxi.com.cn, hd.xiaojukeji.com, freight.xiaojukeji.com, daijia.kuaidadi.com, ct.xiaojukeji.com, conf.diditaxi.com.cn, dl.app.gtja.com, dl*.app.gtja.com, static.creditcard.hxb.com.cn
+hostname = %APPEND% app.mixcapp.com, api.51credit.com, image.spdbccc.com.cn, static.95508.com, res.xiaojukeji.com, common.diditaxi.com.cn, hd.xiaojukeji.com, freight.xiaojukeji.com, daijia.kuaidadi.com, ct.xiaojukeji.com, conf.diditaxi.com.cn, static.creditcard.hxb.com.cn
