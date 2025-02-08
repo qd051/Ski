@@ -5,7 +5,7 @@
 [URL Rewrite]
 # > 一点万象
 # hostname = app.mixcapp.com
-"^https?:\/\/app\.mixcapp\.com\/mixc\/api\/v\d\/ad" - reject
+^https?:\/\/app\.mixcapp\.com\/mixc\/api\/v\d\/ad - reject
 
 # > 我爱卡
 # hostname = api-access.pangolin-sdk-toutiao.com
@@ -13,14 +13,26 @@
 
 # > 我爱卡社区管家
 # hostname = api.51credit.com
-"^https?:\/\/api\.51credit\.com\/app\/popup\/appPopup" - reject-dict
-"^https?:\/\/api\.51credit\.com\/ks\/a\/list\?" - reject-dict
-"^https?:\/\/api\.51credit\.com\/bbs\/app\/api\/v\d\/topic\/chat" - reject-dict
+^https?:\/\/api\.51credit\.com\/app\/popup\/appPopup - reject-dict
+^https?:\/\/api\.51credit\.com\/ks\/a\/list\? - reject-dict
+^https?:\/\/api\.51credit\.com\/bbs\/app\/api\/v\d\/topic\/chat - reject-dict
 
-# > 浦大喜奔
-# hostname = image.spdbccc.com.cn
-"^https?:\/\/image\.spdbccc\.com\.cn\/group\d\/M00\/[A-Z0-9]{2}\/[A-Z0-9]{2}\/.+(4038|0571|M511|V-008|g549|b0628|fg817|5w501|Jo341|Z4583|oo845|i4905|MY245|YU472|Y401|w428|s000)" - reject-dict
+# > 滴滴出行
+# hostname = res.xiaojukeji.com, common.diditaxi.com.cn, hd.xiaojukeji.com, freight.xiaojukeji.com, daijia.kuaidadi.com, ct.xiaojukeji.com, conf.diditaxi.com.cn
+^https?:\/\/hd\.xiaojukeji\.com\/d - reject-dict
+^https?:\/\/ct\.xiaojukeji\.com\/agent\/v3\/feeds url script-response-body https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/didi/didiAds.js
+^https?:\/\/freight\.xiaojukeji\.com\/gateway url script-response-body https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/didi/didiAds.js
+^https?:\/\/res\.xiaojukeji\.com\/resapi\/activity\/xpget url script-response-body https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/didi/didiAds.js
+^https?:\/\/res\.xiaojukeji\.com\/resapi\/activity\/mget url script-response-body https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/didi/didiAds.js
+^https?:\/\/conf\.diditaxi\.com\.cn\/homepage\/v\d\/other\/fast url script-response-body https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/didi/didiAds.js
+#^https?:\/\/conf\.diditaxi\.com\.cn\/homepage\/v\d\/core url script-response-body https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/didi/didiAds.js
+^https?:\/\/conf\.diditaxi\.com\.cn\/dynamic\/conf url script-response-body https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/didi/didiAds.js
+^https?:\/\/common\.diditaxi\.com\.cn\/common\/v\d\/usercenter\/me url script-response-body https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/didi/didiAds.js
+^https?:\/\/daijia\.kuaidadi\.com\/gateway url script-response-body https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/didi/didiAds.js
+^https?:\/\/daijia\.kuaidadi\.com:443\/gateway url script-response-body https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/didi/didiAds.js
+# 微信小程序个人中心净化 感谢【TEXAS】分享
+^https?:\/\/common\.diditaxi\.com\.cn\/common\/v5 url script-response-body https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/didi/didiAds.js
 
 
 [MITM]
-hostname = %APPEND% app.mixcapp.com, api.51credit.com, image.spdbccc.com.cn
+hostname = %APPEND% app.mixcapp.com, api.51credit.com, image.spdbccc.com.cn, res.xiaojukeji.com, common.diditaxi.com.cn, hd.xiaojukeji.com, freight.xiaojukeji.com, daijia.kuaidadi.com, ct.xiaojukeji.com, conf.diditaxi.com.cn
