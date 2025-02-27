@@ -9,29 +9,42 @@
 
 # > 我爱卡
 # hostname = api-access.pangolin-sdk-toutiao.com
-# "^https?:\/\/api-access\.pangolin-sdk-toutiao\.com\/api\/ad\/union\/sdk\/get_ads" - reject
+# "^https?:\/\/api-access\.pangolin-sdk-toutiao\.com\/api\/ad\/union\/sdk\/get_ads" - reject-dict
 
 # > 我爱卡社区管家
 # hostname = api.51credit.com
-^https?:\/\/api\.51credit\.com\/app\/popup\/appPopup - reject-dict
-^https?:\/\/api\.51credit\.com\/ks\/a\/list\? - reject-dict
-^https?:\/\/api\.51credit\.com\/bbs\/app\/api\/v\d\/topic\/chat - reject-dict
+^https?:\/\/api\.51credit\.com\/app\/popup\/appPopup - reject
+^https?:\/\/api\.51credit\.com\/ks\/a\/list\? - reject
+^https?:\/\/api\.51credit\.com\/bbs\/app\/api\/v\d\/topic\/chat - reject
 
 # > 发现精彩
 # hostname = static.95508.com
 # 开屏广告
-^https?:\/\/static\.95508\.com\/mmg\/images\/ads\/.+\/(.+1125?.+2436|.+%.+%|.+_.+_) - reject-dict
-^https?:\/\/static\.95508\.com\/mmg\/ciop\/sysabbr\/cmep\/images\/apppopupads - reject-dict
+^https?:\/\/static\.95508\.com\/mmg\/images\/ads\/.+\/(.+1125?.+2436|.+%.+%|.+_.+_) - reject
+^https?:\/\/static\.95508\.com\/mmg\/ciop\/sysabbr\/cmep\/images\/apppopupads - reject
 
 # > 广发银行
 # hostname = static.95508.com, mps.95508.com
-^https?:\/\/static\.95508\.com\/icppweb\/images\/modelMaterial\/accurate\/202\d{5}\/.*.(png|jpg) - reject-200
-^https?:\/\/static\.95508\.com\/icppweb\/images\/modelMaterial\/advertising\/202\d{5}\/.*.(png|jpg) - reject-200
-^https?:\/\/mps\.95508\.com\/mps\/club\/cardPortals\/adv\/\d{25}\.(png|jpg) - reject-img
+^https?:\/\/static\.95508\.com\/icppweb\/images\/modelMaterial\/accurate\/202\d{5}\/.*.(png|jpg) - reject
+^https?:\/\/static\.95508\.com\/icppweb\/images\/modelMaterial\/advertising\/202\d{5}\/.*.(png|jpg) - reject
+^https?:\/\/mps\.95508\.com\/mps\/club\/cardPortals\/adv\/\d{25}\.(png|jpg) - reject
+
+# > 中信银行
+# hostname = wap.bank.ecitic.com, imcs.citicbank.com
+^https?:\/\/wap.bank\.ecitic\.com:6443\/NMBFOServer\/cbframework\.do\?act=CUBEPAGEDATA - reject
+# 开屏广告
+^https:\/\/imcs\.citicbank\.com\/cloud\/([a-fA-F0-9]{32})\.(jpg|png) url reject
+^https?:\/\/imcs\.citicbank\.com\/cloud\/.+(1125.+2436|1242.+2688|750.+1638|563.+1218) - reject
+
+# > 动卡空间
+# hostname = ump.sz.creditcard.ecitic.com, m.creditcard.ecitic.com
+# 开屏广告
+^https?:\/\/ump\.sz\.creditcard\.ecitic\.com\/citiccard\/cm-ump\/ump-gateway\/ump-net-app\/ump-net-app\/adv - reject
+^https?:\/\/m\.creditcard\.ecitic\.com\/citiccard\/mbk\/appspace-getway\/getWay\/dkkj-system-web\/system\/v\d\/init-config - reject
 
 # > 滴滴出行
 # hostname = res.xiaojukeji.com, common.diditaxi.com.cn, hd.xiaojukeji.com, freight.xiaojukeji.com, daijia.kuaidadi.com, ct.xiaojukeji.com, conf.diditaxi.com.cn
-^https?:\/\/hd\.xiaojukeji\.com\/d - reject-dict
+^https?:\/\/hd\.xiaojukeji\.com\/d - reject
 ^https?:\/\/ct\.xiaojukeji\.com\/agent\/v3\/feeds url script-response-body https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/didi/didiAds.js
 ^https?:\/\/freight\.xiaojukeji\.com\/gateway url script-response-body https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/didi/didiAds.js
 ^https?:\/\/res\.xiaojukeji\.com\/resapi\/activity\/xpget url script-response-body https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/didi/didiAds.js
@@ -47,4 +60,4 @@
 
 
 [MITM]
-hostname = %APPEND% app.mixcapp.com, api.51credit.com, image.spdbccc.com.cn, static.95508.com, mps.95508.com, res.xiaojukeji.com, common.diditaxi.com.cn, hd.xiaojukeji.com, freight.xiaojukeji.com, daijia.kuaidadi.com, ct.xiaojukeji.com, conf.diditaxi.com.cn
+hostname = %APPEND% app.mixcapp.com, api.51credit.com, image.spdbccc.com.cn, static.95508.com, mps.95508.com, wap.bank.ecitic.com, imcs.citicbank.com, ump.sz.creditcard.ecitic.com, m.creditcard.ecitic.com, res.xiaojukeji.com, common.diditaxi.com.cn, hd.xiaojukeji.com, freight.xiaojukeji.com, daijia.kuaidadi.com, ct.xiaojukeji.com, conf.diditaxi.com.cn
