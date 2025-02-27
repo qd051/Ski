@@ -5,7 +5,7 @@
 [URL Rewrite]
 # > 一点万象
 # hostname = app.mixcapp.com
-^https?:\/\/app\.mixcapp\.com\/mixc\/api\/v\d\/ad - reject
+^https?:\/\/app\.mixcapp\.com\/mixc\/api\/v\d\/ad - reject-dict
 
 # > 我爱卡
 # hostname = api-access.pangolin-sdk-toutiao.com
@@ -44,7 +44,7 @@
 
 # > 滴滴出行
 # hostname = res.xiaojukeji.com, common.diditaxi.com.cn, hd.xiaojukeji.com, freight.xiaojukeji.com, daijia.kuaidadi.com, ct.xiaojukeji.com, conf.diditaxi.com.cn
-^https?:\/\/hd\.xiaojukeji\.com\/d - reject
+^https?:\/\/hd\.xiaojukeji\.com\/d - reject-dict
 ^https?:\/\/ct\.xiaojukeji\.com\/agent\/v3\/feeds url script-response-body https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/didi/didiAds.js
 ^https?:\/\/freight\.xiaojukeji\.com\/gateway url script-response-body https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/didi/didiAds.js
 ^https?:\/\/res\.xiaojukeji\.com\/resapi\/activity\/xpget url script-response-body https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/didi/didiAds.js
