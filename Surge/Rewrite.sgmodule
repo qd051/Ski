@@ -21,7 +21,7 @@
 # hostname = static.95508.com
 # 开屏广告
 ^https?:\/\/static\.95508\.com\/mmg\/images\/ads\/.+\/(.+1125?.+2436|.+%.+%|.+_.+_) - reject
-^https?:\/\/static\.95508\.com\/mmg\/ciop\/sysabbr\/cmep\/images\/apppopupads - reject
+^https?:\/\/static\.95508\.com\/mmg\/ciop\/sysabbr\/cmep\/images\/apppopupads - reject-200
 
 # > 广发银行
 # hostname = static.95508.com, mps.95508.com
