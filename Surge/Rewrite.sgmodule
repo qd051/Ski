@@ -27,7 +27,7 @@
 # hostname = static.95508.com, mps.95508.com
 ^https?:\/\/static\.95508\.com\/icppweb\/images\/modelMaterial\/accurate\/202\d{5}\/.*.(png|jpg) - reject
 ^https?:\/\/static\.95508\.com\/icppweb\/images\/modelMaterial\/advertising\/202\d{5}\/.*.(png|jpg) - reject-200
-^https?:\/\/mps\.95508\.com\/mps\/club\/cardPortals\/adv\/\d{25}\.(png|jpg) - reject-dict
+^https?:\/\/mps\.95508\.com\/mps\/club\/cardPortals\/adv\/\d{25}\.(png|jpg) - reject-img
 
 # > 中信银行
 # hostname = wap.bank.ecitic.com, imcs.citicbank.com
