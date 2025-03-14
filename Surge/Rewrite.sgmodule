@@ -5,7 +5,7 @@
 [URL Rewrite]
 # > 一点万象
 # hostname = app.mixcapp.com
-^https?:\/\/app\.mixcapp\.com\/mixc\/api\/v\d\/ad - reject-dict
+^https?:\/\/app\.mixcapp\.com\/mixc\/api\/v\d\/ad - reject
 
 # > 我爱卡
 # hostname = api-access.pangolin-sdk-toutiao.com
