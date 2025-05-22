@@ -13,9 +13,9 @@
 
 # > 我爱卡社区管家
 # hostname = api.51credit.com
-^https?:\/\/api\.51credit\.com\/app\/popup\/appPopup - reject-dict
-^https?:\/\/api\.51credit\.com\/ks\/a\/list\? - reject-dict
-^https?:\/\/api\.51credit\.com\/bbs\/app\/api\/v\d\/topic\/chat - reject-dict
+#^https?:\/\/api\.51credit\.com\/app\/popup\/appPopup - reject-dict
+#^https?:\/\/api\.51credit\.com\/ks\/a\/list\? - reject-dict
+#^https?:\/\/api\.51credit\.com\/bbs\/app\/api\/v\d\/topic\/chat - reject-dict
 
 # > 发现精彩
 # hostname = static.95508.com
