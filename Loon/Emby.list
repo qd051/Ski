@@ -1,21 +1,21 @@
-no_resolve: true
-domain_set:
-  - cc.coemn.com
-  - cc.mnyvc.xyz
-  - nano.jmsuper.com
-  - nano.cr18.eu.org
-  - lite.cn2gias.uk
-  - std.cn2gias.uk
-  - s2.array2026.cc
-  - s3.array2026.com
-  - goemby.entertang.work
-  - goemby.etflix.lo1
-  - embygogo.entertang.work
-  - 13.yusen.cyou
-  - aaa.yusen6.ccwu.cc
-  - emby.yusen.us.ci
-  - embya.yusen.cyou
-  - emby.yusen.cc.cd
-  - qiaoying.riroro.com
-domain_suffix_set:
-  - rexnow.tv
+# 规则名称: Emby
+# 规则统计: 17
+
+DOMAIN,cc.coemn.com
+DOMAIN,cc.mnyvc.xyz
+DOMAIN,nano.jmsuper.com
+DOMAIN,nano.cr18.eu.org
+DOMAIN,lite.cn2gias.uk
+DOMAIN,std.cn2gias.uk
+DOMAIN,s2.array2026.cc
+DOMAIN,s3.array2026.com
+DOMAIN,goemby.entertang.work
+DOMAIN,goemby.etflix.lo1
+DOMAIN,embygogo.entertang.work
+DOMAIN,13.yusen.cyou
+DOMAIN,aaa.yusen6.ccwu.cc
+DOMAIN,emby.yusen.us.ci
+DOMAIN,embya.yusen.cyou
+DOMAIN,emby.yusen.cc.cd
+DOMAIN,qiaoying.riroro.com
+DOMAIN-SUFFIX,rexnow.tv
