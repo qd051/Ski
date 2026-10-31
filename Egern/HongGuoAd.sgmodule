@@ -1,0 +1,27 @@
+#!name=红果短剧去广告
+#!desc=拦截广告资源+抹除广告接口，网络层面去广告，激励解锁广告无法彻底清除
+#!author=Custom
+#!tag=去广告
+#!system=ios,macos
+#!homepage=
+#!icon=https://raw.githubusercontent.com/SurgeNet/icon/main/adblock.png
+
+[Rule]
+DOMAIN-WILDCARD,*-misc-lq.fqnovel.com,REJECT-DROP
+DOMAIN-WILDCARD,*-reading-ad.qznovelvod.com,REJECT-DROP
+DOMAIN-WILDCARD,*-iosreadingvideo.qznovelvod.com,REJECT-DROP
+DOMAIN-SUFFIX,ad-sign.byteimg.com,REJECT-DROP
+DOMAIN-SUFFIX,ad.toutiao.com,REJECT-DROP
+DOMAIN-SUFFIX,ad.bytedance.com,REJECT-DROP
+DOMAIN-SUFFIX,ttadp.org,REJECT-DROP
+DOMAIN-SUFFIX,pangle.io,REJECT-DROP
+
+[Map Local]
+^https://.*\.fqnovel\.com/.*ad.* data-type=text data="{\"ad_list\":[],\"code\":0}" status-code=200 header="Content-Type:application/json"
+^https://.*\.qznovelvod\.com/.*ad.* data-type=text data="{\"ads\":[]}" status-code=200 header="Content-Type:application/json"
+
+[Script]
+红果清理广告 = type=http-response,pattern=^https://(.*\.fqnovel\.com|.*\.qznovelvod\.com),script-path=inline://(function(){try{let o=JSON.parse($response.body);if(o.ad_list)o.ad_list=[];if(o.ads)o.ads=[];if(o.ad)delete o.ad;$response.body=JSON.stringify(o)}catch(e){}})(),requires-body=true
+
+[MITM]
+hostname = %APPEND *.fqnovel.com,*.qznovelvod.com,*.zijieapi.com
