@@ -16,6 +16,6 @@ domain_set:
   - emby.yusen.us.ci
   - embya.yusen.cyou
   - emby.yusen.cc.cd
-  - qiaoying.riroro.com
+#  - qiaoying.riroro.com
 domain_suffix_set:
   - rexnow.tv
